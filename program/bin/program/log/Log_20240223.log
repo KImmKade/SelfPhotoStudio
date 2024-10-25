@@ -1,0 +1,4 @@
+2024-02-23 11:20:43,999 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-23 11:20:44,158 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-23 11:20:44,865 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-23 11:20:46,022 [1] INFO wpfTest.Source.Log - 프로그램 종료

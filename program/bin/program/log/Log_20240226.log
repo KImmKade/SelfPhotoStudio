@@ -1,0 +1,404 @@
+2024-02-26 16:35:40,078 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 16:35:40,606 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 16:35:41,362 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 16:35:42,622 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:03:43,992 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:03:44,131 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:03:44,916 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:03:44,936 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:03:44,942 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:03:51,363 [1] ERROR wpfTest.Source.Log - System.IO.FileNotFoundException: 파일이나 어셈블리 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'
+   위치: Touchless.Vision.Camera.CameraService.<BuildCameraList>d__8.MoveNext()
+   위치: System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   위치: System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   위치: Touchless.Vision.Camera.CameraService.get_AvailableCameras()
+   위치: wpfTest.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) 파일 D:\program\wpfTest\MainWindow.xaml.cs:줄 1556
+
+경고: 어셈블리 바인딩 로깅이 꺼져 있습니다.
+어셈블리 바인딩 오류 로깅 기능을 사용하려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)를 1로 설정하십시오.
+참고: 어셈블리 바인딩 오류 로깅 기능을 사용하도록 설정하면 그렇지 않은 경우보다 성능이 약간 떨어집니다.
+이 기능을 끄려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog]를 제거하십시오.
+
+2024-02-26 17:03:51,424 [1] ERROR wpfTest.Source.Log - 현재 연결이 되어있는 WebCam이 없거나 런타임 오류가 있습니다.
+2024-02-26 17:04:02,542 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:04:02,638 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:04:02,638 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:04:04,005 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:04:04,005 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:05:06,069 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:05:06,188 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:05:06,496 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:05:06,511 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:05:06,513 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:05:10,304 [1] ERROR wpfTest.Source.Log - System.IO.FileNotFoundException: 파일이나 어셈블리 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'
+   위치: Touchless.Vision.Camera.CameraService.<BuildCameraList>d__8.MoveNext()
+   위치: System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   위치: System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   위치: Touchless.Vision.Camera.CameraService.get_AvailableCameras()
+   위치: wpfTest.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) 파일 D:\program\wpfTest\MainWindow.xaml.cs:줄 1556
+
+경고: 어셈블리 바인딩 로깅이 꺼져 있습니다.
+어셈블리 바인딩 오류 로깅 기능을 사용하려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)를 1로 설정하십시오.
+참고: 어셈블리 바인딩 오류 로깅 기능을 사용하도록 설정하면 그렇지 않은 경우보다 성능이 약간 떨어집니다.
+이 기능을 끄려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog]를 제거하십시오.
+
+2024-02-26 17:05:10,336 [1] ERROR wpfTest.Source.Log - 현재 연결이 되어있는 WebCam이 없거나 런타임 오류가 있습니다.
+2024-02-26 17:05:11,407 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:05:11,409 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:05:11,410 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:05:31,213 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | 버튼 클릭
+2024-02-26 17:05:31,213 [1] INFO wpfTest.Source.Log - 타이머 종료
+2024-02-26 17:05:31,233 [1] INFO wpfTest.Source.Log - 웹캠 촬영 페이지 진입
+2024-02-26 17:05:31,245 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 2000
+2024-02-26 17:05:31,363 [7] INFO wpfTest.Source.Log - webcamthread() - 동작
+2024-02-26 17:05:36,610 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:05:36,610 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:16:04,139 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:16:04,380 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:16:04,768 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:16:04,781 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:16:04,782 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:16:28,519 [1] ERROR wpfTest.Source.Log - System.IO.FileNotFoundException: 파일이나 어셈블리 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'
+   위치: Touchless.Vision.Camera.CameraService.<BuildCameraList>d__8.MoveNext()
+   위치: System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   위치: System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   위치: Touchless.Vision.Camera.CameraService.get_AvailableCameras()
+   위치: wpfTest.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) 파일 D:\program\wpfTest\MainWindow.xaml.cs:줄 1556
+
+경고: 어셈블리 바인딩 로깅이 꺼져 있습니다.
+어셈블리 바인딩 오류 로깅 기능을 사용하려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)를 1로 설정하십시오.
+참고: 어셈블리 바인딩 오류 로깅 기능을 사용하도록 설정하면 그렇지 않은 경우보다 성능이 약간 떨어집니다.
+이 기능을 끄려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog]를 제거하십시오.
+
+2024-02-26 17:16:28,550 [1] ERROR wpfTest.Source.Log - 현재 연결이 되어있는 WebCam이 없거나 런타임 오류가 있습니다.
+2024-02-26 17:16:29,373 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:16:29,376 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:16:29,376 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:16:30,588 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:16:30,588 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:16:36,480 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:16:36,655 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:16:36,982 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:16:36,990 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:16:36,991 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:16:40,047 [1] ERROR wpfTest.Source.Log - System.IO.FileNotFoundException: 파일이나 어셈블리 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'
+   위치: Touchless.Vision.Camera.CameraService.<BuildCameraList>d__8.MoveNext()
+   위치: System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   위치: System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   위치: Touchless.Vision.Camera.CameraService.get_AvailableCameras()
+   위치: wpfTest.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) 파일 D:\program\wpfTest\MainWindow.xaml.cs:줄 1556
+
+경고: 어셈블리 바인딩 로깅이 꺼져 있습니다.
+어셈블리 바인딩 오류 로깅 기능을 사용하려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)를 1로 설정하십시오.
+참고: 어셈블리 바인딩 오류 로깅 기능을 사용하도록 설정하면 그렇지 않은 경우보다 성능이 약간 떨어집니다.
+이 기능을 끄려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog]를 제거하십시오.
+
+2024-02-26 17:16:40,070 [1] ERROR wpfTest.Source.Log - 현재 연결이 되어있는 WebCam이 없거나 런타임 오류가 있습니다.
+2024-02-26 17:16:43,956 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:16:43,958 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:16:43,958 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:16:45,242 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:16:45,242 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:17:49,427 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:17:49,559 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:17:49,942 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:17:49,951 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:17:49,952 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:17:52,793 [1] ERROR wpfTest.Source.Log - System.IO.FileNotFoundException: 파일이나 어셈블리 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'
+   위치: Touchless.Vision.Camera.CameraService.<BuildCameraList>d__8.MoveNext()
+   위치: System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   위치: System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   위치: Touchless.Vision.Camera.CameraService.get_AvailableCameras()
+   위치: wpfTest.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) 파일 D:\program\wpfTest\MainWindow.xaml.cs:줄 1556
+
+경고: 어셈블리 바인딩 로깅이 꺼져 있습니다.
+어셈블리 바인딩 오류 로깅 기능을 사용하려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)를 1로 설정하십시오.
+참고: 어셈블리 바인딩 오류 로깅 기능을 사용하도록 설정하면 그렇지 않은 경우보다 성능이 약간 떨어집니다.
+이 기능을 끄려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog]를 제거하십시오.
+
+2024-02-26 17:17:52,816 [1] ERROR wpfTest.Source.Log - 현재 연결이 되어있는 WebCam이 없거나 런타임 오류가 있습니다.
+2024-02-26 17:17:53,652 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:17:53,654 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:17:53,654 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:17:58,087 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | 버튼 클릭
+2024-02-26 17:17:58,087 [1] INFO wpfTest.Source.Log - 타이머 종료
+2024-02-26 17:17:58,097 [1] INFO wpfTest.Source.Log - 웹캠 촬영 페이지 진입
+2024-02-26 17:17:58,107 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 2000
+2024-02-26 17:17:58,111 [7] INFO wpfTest.Source.Log - webcamthread() - 동작
+2024-02-26 17:17:59,083 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:17:59,083 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:28:50,626 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:28:50,748 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:28:51,134 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:28:51,142 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:28:51,143 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:28:54,585 [1] ERROR wpfTest.Source.Log - System.IO.FileNotFoundException: 파일이나 어셈블리 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'WebCamLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'
+   위치: Touchless.Vision.Camera.CameraService.<BuildCameraList>d__8.MoveNext()
+   위치: System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   위치: System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   위치: Touchless.Vision.Camera.CameraService.get_AvailableCameras()
+   위치: wpfTest.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) 파일 D:\program\wpfTest\MainWindow.xaml.cs:줄 1556
+
+경고: 어셈블리 바인딩 로깅이 꺼져 있습니다.
+어셈블리 바인딩 오류 로깅 기능을 사용하려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)를 1로 설정하십시오.
+참고: 어셈블리 바인딩 오류 로깅 기능을 사용하도록 설정하면 그렇지 않은 경우보다 성능이 약간 떨어집니다.
+이 기능을 끄려면 레지스트리 값 [HKLM\Software\Microsoft\Fusion!EnableLog]를 제거하십시오.
+
+2024-02-26 17:28:54,602 [1] ERROR wpfTest.Source.Log - 현재 연결이 되어있는 WebCam이 없거나 런타임 오류가 있습니다.
+2024-02-26 17:28:55,445 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:28:55,447 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:28:55,447 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:28:56,943 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:28:56,943 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:29:29,371 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:29:29,491 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:29:29,882 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:29:29,890 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:29:29,891 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:29:31,485 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:29:31,486 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:29:31,487 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:29:35,018 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | 버튼 클릭
+2024-02-26 17:29:35,018 [1] INFO wpfTest.Source.Log - 타이머 종료
+2024-02-26 17:29:35,028 [1] INFO wpfTest.Source.Log - 웹캠 촬영 페이지 진입
+2024-02-26 17:29:35,040 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 2000
+2024-02-26 17:29:35,043 [7] INFO wpfTest.Source.Log - webcamthread() - 동작
+2024-02-26 17:29:35,173 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2024-02-26 17:29:40,263 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:29:40,263 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:29:42,473 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:29:42,596 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:29:42,976 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:29:42,984 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:29:42,986 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:29:44,558 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:29:44,560 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:29:44,560 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:29:46,151 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2024-02-26 17:29:46,551 [1] INFO wpfTest.Source.Log - Main Level 타이머 종료
+2024-02-26 17:29:46,551 [1] INFO wpfTest.Source.Log - 옵션 메뉴 이동
+2024-02-26 17:29:46,567 [1] INFO wpfTest.Source.Log - 옵션 페이지 진입
+2024-02-26 17:29:47,024 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 옵션페이지 셋팅값 로딩
+2024-02-26 17:29:47,141 [1] DEBUG wpfTest.Source.Log - LoadSetting() | 로드된 값 세팅
+2024-02-26 17:29:47,152 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - 로드
+2024-02-26 17:29:47,167 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - 동작
+2024-02-26 17:29:47,167 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | 템플릿 1번 돈 셋팅 변경
+2024-02-26 17:29:47,214 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | 템플릿 2번 돈 셋팅 변경
+2024-02-26 17:29:47,230 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | 템플릿 3번 돈 셋팅 변경
+2024-02-26 17:29:47,246 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - 동작
+2024-02-26 17:29:47,247 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | 재촬영 금지 버튼 체크
+2024-02-26 17:29:47,248 [1] DEBUG wpfTest.Source.Log - WebCam_Checked() | 웹캠 체크
+2024-02-26 17:29:47,248 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | 타이머 사용 체크
+2024-02-26 17:29:47,248 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | 페이지 타이머 변경
+2024-02-26 17:29:47,265 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | 포토 타임 변경
+2024-02-26 17:29:47,282 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx 변경
+2024-02-26 17:29:47,297 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety 변경
+2024-02-26 17:29:47,311 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX 변경
+2024-02-26 17:29:47,325 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY 변경
+2024-02-26 17:29:47,325 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - 동작
+2024-02-26 17:29:47,325 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - 동작
+2024-02-26 17:29:47,326 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | 좌우반전 사용안함
+2024-02-26 17:29:48,319 [1] INFO wpfTest.Source.Log - PassWord 창 진입
+2024-02-26 17:29:48,336 [1] INFO wpfTest.Source.Log - 관리자 로그인페이지 접속
+2024-02-26 17:29:50,318 [1] INFO wpfTest.Source.Log - 관리자 로그인 페이지 닫음
+2024-02-26 17:29:51,312 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | 다음페이지 클릭
+2024-02-26 17:29:51,335 [1] INFO wpfTest.Source.Log - 설정페이지 2번 진입
+2024-02-26 17:29:51,601 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2024-02-26 17:29:51,605 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - 동작
+2024-02-26 17:29:51,629 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - 동작
+2024-02-26 17:29:51,630 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - 동작
+2024-02-26 17:29:51,630 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - 동작
+2024-02-26 17:29:51,630 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - 동작
+2024-02-26 17:29:51,631 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - 동작
+2024-02-26 17:29:51,631 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - 동작
+2024-02-26 17:29:51,631 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - 동작
+2024-02-26 17:29:51,631 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - 동작
+2024-02-26 17:29:51,632 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - 동작
+2024-02-26 17:29:51,632 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - 동작
+2024-02-26 17:29:51,632 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - 동작
+2024-02-26 17:29:51,632 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - 동작
+2024-02-26 17:29:51,633 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - 동작
+2024-02-26 17:29:51,633 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - 동작
+2024-02-26 17:29:51,633 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - 동작
+2024-02-26 17:29:51,635 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - 동작
+2024-02-26 17:29:51,635 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - 동작
+2024-02-26 17:29:51,635 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - 동작
+2024-02-26 17:29:51,635 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - 동작
+2024-02-26 17:29:51,635 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - 동작
+2024-02-26 17:29:51,635 [1] INFO wpfTest.Source.Log - Novideo_Checked() - 동작
+2024-02-26 17:29:51,635 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - 동작
+2024-02-26 17:29:51,642 [1] INFO wpfTest.Source.Log - pic11_Checked() - 동작
+2024-02-26 17:29:51,643 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - 동작
+2024-02-26 17:29:51,707 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - 동작
+2024-02-26 17:29:51,707 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - 동작
+2024-02-26 17:29:51,708 [1] DEBUG wpfTest.Source.Log - Use_Checked() | 카카오톡 사용  버튼 체크
+2024-02-26 17:29:51,709 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr미사용 클릭
+2024-02-26 17:29:51,710 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - 동작
+2024-02-26 17:29:51,771 [1] INFO wpfTest.Source.Log - tempNotUse_Checked() - 템플릿 선택 미사용 클릭
+2024-02-26 17:29:51,772 [1] INFO wpfTest.Source.Log - num4_Checked() - 동작
+2024-02-26 17:29:51,819 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - 동작
+2024-02-26 17:29:51,819 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - 동작
+2024-02-26 17:29:51,819 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - 동작
+2024-02-26 17:29:58,437 [1] DEBUG wpfTest.Source.Log - button1_Click() | 종표버튼 클릭
+2024-02-26 17:29:59,192 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:31:04,405 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:31:04,526 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:31:04,851 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:31:04,866 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:31:04,868 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:31:06,798 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:31:06,801 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:31:06,801 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:31:07,908 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2024-02-26 17:31:08,800 [1] INFO wpfTest.Source.Log - Main Level 타이머 종료
+2024-02-26 17:31:08,801 [1] INFO wpfTest.Source.Log - 옵션 메뉴 이동
+2024-02-26 17:31:08,812 [1] INFO wpfTest.Source.Log - 옵션 페이지 진입
+2024-02-26 17:31:09,136 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 옵션페이지 셋팅값 로딩
+2024-02-26 17:31:09,145 [1] DEBUG wpfTest.Source.Log - LoadSetting() | 로드된 값 세팅
+2024-02-26 17:31:09,145 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - 로드
+2024-02-26 17:31:09,156 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - 동작
+2024-02-26 17:31:09,157 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | 템플릿 1번 돈 셋팅 변경
+2024-02-26 17:31:09,197 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | 템플릿 2번 돈 셋팅 변경
+2024-02-26 17:31:09,209 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | 템플릿 3번 돈 셋팅 변경
+2024-02-26 17:31:09,220 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - 동작
+2024-02-26 17:31:09,221 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | 재촬영 금지 버튼 체크
+2024-02-26 17:31:09,222 [1] DEBUG wpfTest.Source.Log - WebCam_Checked() | 웹캠 체크
+2024-02-26 17:31:09,222 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | 타이머 사용 체크
+2024-02-26 17:31:09,222 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | 페이지 타이머 변경
+2024-02-26 17:31:09,234 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | 포토 타임 변경
+2024-02-26 17:31:09,246 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx 변경
+2024-02-26 17:31:09,258 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety 변경
+2024-02-26 17:31:09,270 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX 변경
+2024-02-26 17:31:09,281 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY 변경
+2024-02-26 17:31:09,282 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - 동작
+2024-02-26 17:31:09,283 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - 동작
+2024-02-26 17:31:09,283 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | 좌우반전 사용안함
+2024-02-26 17:31:10,745 [1] INFO wpfTest.Source.Log - PassWord 창 진입
+2024-02-26 17:31:10,756 [1] INFO wpfTest.Source.Log - 관리자 로그인페이지 접속
+2024-02-26 17:31:12,828 [1] INFO wpfTest.Source.Log - 관리자 로그인 페이지 닫음
+2024-02-26 17:31:13,724 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | 다음페이지 클릭
+2024-02-26 17:31:13,751 [1] INFO wpfTest.Source.Log - 설정페이지 2번 진입
+2024-02-26 17:31:14,010 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2024-02-26 17:31:14,010 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - 동작
+2024-02-26 17:31:14,036 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - 동작
+2024-02-26 17:31:14,037 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - 동작
+2024-02-26 17:31:14,037 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - 동작
+2024-02-26 17:31:14,037 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - 동작
+2024-02-26 17:31:14,037 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - 동작
+2024-02-26 17:31:14,038 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - 동작
+2024-02-26 17:31:14,038 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - 동작
+2024-02-26 17:31:14,038 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - 동작
+2024-02-26 17:31:14,038 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - 동작
+2024-02-26 17:31:14,039 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - 동작
+2024-02-26 17:31:14,039 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - 동작
+2024-02-26 17:31:14,039 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - 동작
+2024-02-26 17:31:14,039 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - 동작
+2024-02-26 17:31:14,040 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - 동작
+2024-02-26 17:31:14,040 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - 동작
+2024-02-26 17:31:14,040 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - 동작
+2024-02-26 17:31:14,040 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - 동작
+2024-02-26 17:31:14,041 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - 동작
+2024-02-26 17:31:14,041 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - 동작
+2024-02-26 17:31:14,041 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - 동작
+2024-02-26 17:31:14,041 [1] INFO wpfTest.Source.Log - Novideo_Checked() - 동작
+2024-02-26 17:31:14,041 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - 동작
+2024-02-26 17:31:14,042 [1] INFO wpfTest.Source.Log - pic32_Checked() - 동작
+2024-02-26 17:31:14,043 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - 동작
+2024-02-26 17:31:14,113 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - 동작
+2024-02-26 17:31:14,113 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - 동작
+2024-02-26 17:31:14,114 [1] DEBUG wpfTest.Source.Log - Use_Checked() | 카카오톡 사용  버튼 체크
+2024-02-26 17:31:14,115 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr미사용 클릭
+2024-02-26 17:31:14,116 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - 동작
+2024-02-26 17:31:14,176 [1] INFO wpfTest.Source.Log - tempNotUse_Checked() - 템플릿 선택 미사용 클릭
+2024-02-26 17:31:14,178 [1] INFO wpfTest.Source.Log - num4_Checked() - 동작
+2024-02-26 17:31:14,222 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - 동작
+2024-02-26 17:31:14,223 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - 동작
+2024-02-26 17:31:14,223 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - 동작
+2024-02-26 17:31:18,660 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:31:18,660 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:32:24,858 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:32:24,978 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:32:25,293 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:32:25,312 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:32:25,313 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:32:27,143 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:32:27,145 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:32:27,145 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:32:35,840 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:32:35,840 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:34:08,422 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:34:08,541 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:34:08,854 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:34:08,868 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:34:08,870 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:34:10,736 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:34:10,738 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:34:10,738 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:34:17,813 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:34:17,813 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:36:46,979 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:36:47,103 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:36:47,442 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:36:47,457 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:36:47,459 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:36:49,485 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:36:49,487 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:36:49,487 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:36:53,367 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:36:53,368 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:37:44,166 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:37:44,284 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:37:44,669 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:37:44,683 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:37:44,685 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:37:46,700 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:37:46,702 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:37:46,702 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:37:48,086 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:37:48,086 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:39:03,275 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:39:03,404 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:39:03,740 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:39:03,749 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:39:03,750 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:39:05,318 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:39:05,320 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:39:05,320 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:39:13,676 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:39:13,677 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:39:23,906 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:39:24,071 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:39:24,399 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:39:24,409 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:39:24,410 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:39:26,091 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:39:26,093 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:39:26,093 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:39:29,834 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:39:29,834 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:39:36,172 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:39:36,337 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:39:36,797 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:39:36,809 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:39:36,811 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:39:38,382 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:39:38,384 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:39:38,384 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:39:39,641 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:39:39,641 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-26 17:42:43,717 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-26 17:42:43,860 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-26 17:42:44,578 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-26 17:42:44,586 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-26 17:42:44,588 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-26 17:42:47,319 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-26 17:42:47,395 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-26 17:42:47,396 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-26 17:42:49,070 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-26 17:42:49,070 [1] INFO wpfTest.Source.Log - 프로그램 종료

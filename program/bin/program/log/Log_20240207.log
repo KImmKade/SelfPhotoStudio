@@ -1,0 +1,734 @@
+2024-02-07 00:35:03,506 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 00:35:03,580 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 00:35:03,785 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 00:35:03,790 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 00:35:03,791 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 00:35:04,139 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 00:35:04,141 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 00:35:04,142 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 00:35:06,322 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ÀÔ·Â(ÇÁ·Î±×·¥ Á¾·á Å°)
+2024-02-07 00:35:06,323 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 00:37:08,735 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 00:37:08,812 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 00:37:09,029 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 00:37:10,394 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 00:37:30,678 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 00:37:30,754 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 00:37:30,930 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 00:37:30,937 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 00:37:30,939 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 00:37:31,226 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 00:37:31,235 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 00:37:31,235 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 00:37:33,036 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ÀÔ·Â(ÇÁ·Î±×·¥ Á¾·á Å°)
+2024-02-07 00:37:33,036 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 00:40:53,253 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 00:40:53,329 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 00:40:53,523 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 00:40:55,055 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 00:41:09,550 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 00:41:09,628 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 00:41:09,822 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 00:41:14,382 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 00:41:44,566 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 00:41:44,643 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 00:41:44,841 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 00:41:46,171 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 00:41:59,130 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 00:41:59,204 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 00:41:59,383 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 00:42:00,688 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:03:07,404 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:03:07,491 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:03:07,999 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:03:09,066 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:04:19,999 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:04:20,074 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:04:20,291 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:04:21,777 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:04:33,828 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:04:33,904 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:04:34,098 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:04:35,129 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:05:44,200 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:05:44,278 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:05:44,473 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:05:44,480 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 02:05:44,481 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 02:05:44,828 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 02:05:44,939 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 02:05:44,940 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 02:05:49,329 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ÀÔ·Â(¼³Á¤Ã¢ ÁøÀÔ Å°)
+2024-02-07 02:05:50,000 [1] INFO wpfTest.Source.Log - Main Level Å¸ÀÌ¸Ó Á¾·á
+2024-02-07 02:05:50,003 [1] INFO wpfTest.Source.Log - ¿É¼Ç ¸Þ´º ÀÌµ¿
+2024-02-07 02:05:50,303 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:05:50,515 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:05:50,644 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:05:50,645 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:05:50,647 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:05:50,648 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:05:50,654 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:05:50,654 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:05:50,665 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:05:50,674 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:05:50,684 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:05:50,685 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:05:50,685 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:05:50,685 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:05:50,685 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:05:50,696 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:05:50,707 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:05:50,717 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:05:50,727 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:05:50,737 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:05:50,737 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:05:50,737 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:05:50,737 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:05:52,496 [1] INFO wpfTest.Source.Log - PassWord Ã¢ ÁøÀÔ
+2024-02-07 02:05:52,513 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎÆäÀÌÁö Á¢¼Ó
+2024-02-07 02:05:54,134 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎ ÆäÀÌÁö ´ÝÀ½
+2024-02-07 02:05:59,030 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:05:59,030 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:05:59,035 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM1' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:05:59,044 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:05:59,061 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:05:59,073 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:06:04,841 [1] DEBUG wpfTest.Source.Log - button_Click() | ÀúÀå¹öÆ° Å¬¸¯
+2024-02-07 02:06:06,440 [1] ERROR wpfTest.Source.Log - button_Click() - 42703: column "dbtemp1fee" does not exist
+
+POSITION: 35
+2024-02-07 02:06:09,601 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 02:06:10,558 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:06:10,561 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:06:10,561 [1] INFO wpfTest.Source.Log - Æ÷Æ® ´ÝÈû
+2024-02-07 02:06:10,561 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:08:15,746 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:08:15,819 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:08:16,001 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:08:16,007 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 02:08:16,008 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 02:08:16,294 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 02:08:16,304 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 02:08:16,304 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 02:08:16,423 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ÁöÆó±â ÀÚµ¿¿¬°É ½ÃÀÛ
+2024-02-07 02:08:16,426 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:08:17,703 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ÀÔ·Â(¼³Á¤Ã¢ ÁøÀÔ Å°)
+2024-02-07 02:08:18,407 [1] INFO wpfTest.Source.Log - Main Level Å¸ÀÌ¸Ó Á¾·á
+2024-02-07 02:08:18,407 [1] INFO wpfTest.Source.Log - ¿É¼Ç ¸Þ´º ÀÌµ¿
+2024-02-07 02:08:18,465 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:08:18,674 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:08:18,738 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:08:18,738 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:08:18,740 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:08:18,741 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:08:18,747 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:08:18,747 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:08:18,747 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:08:18,748 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:08:18,758 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:08:18,767 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:08:18,776 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:08:18,776 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:08:18,777 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:08:18,777 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:08:18,777 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:08:18,788 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:08:18,798 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:08:18,806 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:08:18,815 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:08:18,825 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:08:18,825 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:08:18,825 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:08:18,825 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:08:19,464 [1] INFO wpfTest.Source.Log - PassWord Ã¢ ÁøÀÔ
+2024-02-07 02:08:19,470 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎÆäÀÌÁö Á¢¼Ó
+2024-02-07 02:08:21,638 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎ ÆäÀÌÁö ´ÝÀ½
+2024-02-07 02:08:24,197 [1] DEBUG wpfTest.Source.Log - button_Click() | ÀúÀå¹öÆ° Å¬¸¯
+2024-02-07 02:08:24,954 [1] ERROR wpfTest.Source.Log - button_Click() - 42804: column "temp1fee" is of type integer but expression is of type text
+
+POSITION: 34
+2024-02-07 02:08:27,831 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 02:08:28,610 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:08:28,610 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:08:28,610 [1] INFO wpfTest.Source.Log - Æ÷Æ® ´ÝÈû
+2024-02-07 02:08:28,610 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:10:00,892 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:10:00,967 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:10:01,170 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:10:01,178 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 02:10:01,179 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 02:10:01,458 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 02:10:01,467 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 02:10:01,467 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 02:10:01,589 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ÁöÆó±â ÀÚµ¿¿¬°É ½ÃÀÛ
+2024-02-07 02:10:01,592 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:10:02,591 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ÀÔ·Â(¼³Á¤Ã¢ ÁøÀÔ Å°)
+2024-02-07 02:10:02,736 [1] INFO wpfTest.Source.Log - Main Level Å¸ÀÌ¸Ó Á¾·á
+2024-02-07 02:10:02,737 [1] INFO wpfTest.Source.Log - ¿É¼Ç ¸Þ´º ÀÌµ¿
+2024-02-07 02:10:02,778 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:10:02,984 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:10:03,066 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:10:03,066 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:10:03,068 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:10:03,069 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:10:03,075 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:10:03,075 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:10:03,076 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:10:03,076 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:10:03,085 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:10:03,095 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:10:03,105 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:10:03,105 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:10:03,106 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:10:03,106 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:10:03,106 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:10:03,118 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:10:03,127 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:10:03,136 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:10:03,145 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:10:03,154 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:10:03,155 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:10:03,155 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:10:03,155 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:10:04,786 [1] INFO wpfTest.Source.Log - PassWord Ã¢ ÁøÀÔ
+2024-02-07 02:10:04,798 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎÆäÀÌÁö Á¢¼Ó
+2024-02-07 02:10:06,775 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎ ÆäÀÌÁö ´ÝÀ½
+2024-02-07 02:10:07,771 [1] DEBUG wpfTest.Source.Log - button_Click() | ÀúÀå¹öÆ° Å¬¸¯
+2024-02-07 02:11:55,262 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:11:56,954 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:11:58,152 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:12:35,756 [1] INFO wpfTest.Source.Log - PassWord Ã¢ ÁøÀÔ
+2024-02-07 02:12:35,757 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎÆäÀÌÁö Á¢¼Ó
+2024-02-07 02:12:37,817 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎ ÆäÀÌÁö ´ÝÀ½
+2024-02-07 02:12:40,510 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | ´ÙÀ½ÆäÀÌÁö Å¬¸¯
+2024-02-07 02:12:40,511 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:12:40,511 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:12:40,538 [1] INFO wpfTest.Source.Log - ¼³Á¤ÆäÀÌÁö 2¹ø ÁøÀÔ
+2024-02-07 02:12:40,736 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µ¿ÀÛ
+2024-02-07 02:12:40,736 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - µ¿ÀÛ
+2024-02-07 02:12:40,750 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,750 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,750 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,750 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,751 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,751 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,751 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,751 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,751 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,752 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,752 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,752 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,752 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,752 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,752 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,753 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,753 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,753 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,753 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,753 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,753 [1] INFO wpfTest.Source.Log - Novideo_Checked() - µ¿ÀÛ
+2024-02-07 02:12:40,754 [1] DEBUG wpfTest.Source.Log - Use_Checked() | Ä«Ä«¿ÀÅå »ç¿ë  ¹öÆ° Ã¼Å©
+2024-02-07 02:12:40,755 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr¹Ì»ç¿ë Å¬¸¯
+2024-02-07 02:12:40,755 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - µ¿ÀÛ
+2024-02-07 02:12:40,789 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - µ¿ÀÛ
+2024-02-07 02:12:40,790 [1] INFO wpfTest.Source.Log - pic32_Checked() - µ¿ÀÛ
+2024-02-07 02:12:40,791 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,819 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,819 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,819 [1] INFO wpfTest.Source.Log - tempUse_Checked() - ÅÛÇÃ¸´ ¼±ÅÃ »ç¿ë Å¬¸¯
+2024-02-07 02:12:40,820 [1] INFO wpfTest.Source.Log - num4_Checked() - µ¿ÀÛ
+2024-02-07 02:12:40,862 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,862 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - µ¿ÀÛ
+2024-02-07 02:12:40,862 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - µ¿ÀÛ
+2024-02-07 02:12:46,545 [1] ERROR wpfTest.Source.Log - button_Click() - 42703: column "dbtemp1fee" does not exist
+
+POSITION: 35
+2024-02-07 02:12:48,073 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 02:12:49,026 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:12:49,026 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:12:49,026 [1] INFO wpfTest.Source.Log - Æ÷Æ® ´ÝÈû
+2024-02-07 02:12:49,026 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:13:12,097 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:13:12,170 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:13:12,362 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:13:12,369 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 02:13:12,370 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 02:13:12,647 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 02:13:12,655 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 02:13:12,655 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 02:13:12,788 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ÁöÆó±â ÀÚµ¿¿¬°É ½ÃÀÛ
+2024-02-07 02:13:12,791 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:13:13,921 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ÀÔ·Â(¼³Á¤Ã¢ ÁøÀÔ Å°)
+2024-02-07 02:13:14,208 [1] INFO wpfTest.Source.Log - Main Level Å¸ÀÌ¸Ó Á¾·á
+2024-02-07 02:13:14,208 [1] INFO wpfTest.Source.Log - ¿É¼Ç ¸Þ´º ÀÌµ¿
+2024-02-07 02:13:14,251 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:13:14,460 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:13:14,535 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:13:14,536 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:13:14,538 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:13:14,538 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:13:14,544 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:14,545 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:13:14,545 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:13:14,545 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:14,555 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:14,564 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:14,573 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:14,573 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:13:14,574 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:13:14,574 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:13:14,574 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:13:14,584 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:13:14,593 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:13:14,602 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:13:14,612 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:13:14,621 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:13:14,622 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:14,622 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:13:14,622 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:13:15,587 [1] INFO wpfTest.Source.Log - PassWord Ã¢ ÁøÀÔ
+2024-02-07 02:13:15,593 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎÆäÀÌÁö Á¢¼Ó
+2024-02-07 02:13:18,276 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎ ÆäÀÌÁö ´ÝÀ½
+2024-02-07 02:13:19,796 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:21,055 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:22,643 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | ´ÙÀ½ÆäÀÌÁö Å¬¸¯
+2024-02-07 02:13:22,644 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:13:22,644 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:13:22,657 [1] INFO wpfTest.Source.Log - ¼³Á¤ÆäÀÌÁö 2¹ø ÁøÀÔ
+2024-02-07 02:13:22,848 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µ¿ÀÛ
+2024-02-07 02:13:22,848 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - µ¿ÀÛ
+2024-02-07 02:13:22,870 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,870 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,870 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,870 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,871 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,871 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,871 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,871 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,871 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,872 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,872 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,872 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,872 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,872 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,872 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,873 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,873 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,873 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,873 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,873 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,873 [1] INFO wpfTest.Source.Log - Novideo_Checked() - µ¿ÀÛ
+2024-02-07 02:13:22,874 [1] DEBUG wpfTest.Source.Log - Use_Checked() | Ä«Ä«¿ÀÅå »ç¿ë  ¹öÆ° Ã¼Å©
+2024-02-07 02:13:22,874 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr¹Ì»ç¿ë Å¬¸¯
+2024-02-07 02:13:22,875 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - µ¿ÀÛ
+2024-02-07 02:13:22,907 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - µ¿ÀÛ
+2024-02-07 02:13:22,907 [1] INFO wpfTest.Source.Log - pic32_Checked() - µ¿ÀÛ
+2024-02-07 02:13:22,908 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,937 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,937 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,938 [1] INFO wpfTest.Source.Log - tempUse_Checked() - ÅÛÇÃ¸´ ¼±ÅÃ »ç¿ë Å¬¸¯
+2024-02-07 02:13:22,938 [1] INFO wpfTest.Source.Log - num4_Checked() - µ¿ÀÛ
+2024-02-07 02:13:22,980 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,980 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - µ¿ÀÛ
+2024-02-07 02:13:22,980 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - µ¿ÀÛ
+2024-02-07 02:13:25,766 [1] INFO wpfTest.Source.Log - BackPageBtn_Click() - ÀÌÀü ¹öÆ° µ¿ÀÛ
+2024-02-07 02:13:25,766 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:13:25,932 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:13:26,013 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:13:26,013 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:13:26,013 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:13:26,013 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:13:26,013 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:26,014 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:13:26,014 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:13:26,014 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:26,030 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:26,046 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:13:26,061 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:26,062 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:13:26,062 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:13:26,062 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:13:26,062 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:13:26,077 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:13:26,093 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:13:26,109 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:13:26,125 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:13:26,141 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:13:26,141 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:13:26,141 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:13:26,141 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:13:33,212 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 02:13:35,094 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:13:35,094 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:13:35,094 [1] INFO wpfTest.Source.Log - Æ÷Æ® ´ÝÈû
+2024-02-07 02:13:35,094 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:14:20,453 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:14:20,527 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:14:20,717 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:14:20,724 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 02:14:20,725 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 02:14:21,013 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 02:14:21,023 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 02:14:21,023 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 02:14:21,141 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ÁöÆó±â ÀÚµ¿¿¬°É ½ÃÀÛ
+2024-02-07 02:14:21,144 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:14:22,128 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ÀÔ·Â(¼³Á¤Ã¢ ÁøÀÔ Å°)
+2024-02-07 02:14:22,328 [1] INFO wpfTest.Source.Log - Main Level Å¸ÀÌ¸Ó Á¾·á
+2024-02-07 02:14:22,329 [1] INFO wpfTest.Source.Log - ¿É¼Ç ¸Þ´º ÀÌµ¿
+2024-02-07 02:14:22,371 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:14:22,581 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:14:22,660 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:14:22,660 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:14:22,662 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:14:22,662 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:14:22,669 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:22,669 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:14:22,669 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:14:22,669 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:22,679 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:22,687 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:22,696 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:22,697 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:14:22,697 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:14:22,697 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:14:22,697 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:14:22,706 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:14:22,716 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:14:22,725 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:14:22,734 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:14:22,743 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:14:22,743 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:22,743 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:14:22,744 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:14:25,135 [1] INFO wpfTest.Source.Log - PassWord Ã¢ ÁøÀÔ
+2024-02-07 02:14:25,141 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎÆäÀÌÁö Á¢¼Ó
+2024-02-07 02:14:27,145 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎ ÆäÀÌÁö ´ÝÀ½
+2024-02-07 02:14:28,459 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:31,864 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:34,871 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | ´ÙÀ½ÆäÀÌÁö Å¬¸¯
+2024-02-07 02:14:34,871 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:14:34,872 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:14:34,891 [1] INFO wpfTest.Source.Log - ¼³Á¤ÆäÀÌÁö 2¹ø ÁøÀÔ
+2024-02-07 02:14:35,087 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µ¿ÀÛ
+2024-02-07 02:14:35,088 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - µ¿ÀÛ
+2024-02-07 02:14:35,108 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,109 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,109 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,109 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,109 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,109 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,110 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,110 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,110 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,110 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,110 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,111 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,111 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,111 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,111 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,111 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,111 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,112 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,112 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,112 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,112 [1] INFO wpfTest.Source.Log - Novideo_Checked() - µ¿ÀÛ
+2024-02-07 02:14:35,112 [1] DEBUG wpfTest.Source.Log - Use_Checked() | Ä«Ä«¿ÀÅå »ç¿ë  ¹öÆ° Ã¼Å©
+2024-02-07 02:14:35,113 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr¹Ì»ç¿ë Å¬¸¯
+2024-02-07 02:14:35,114 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - µ¿ÀÛ
+2024-02-07 02:14:35,143 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - µ¿ÀÛ
+2024-02-07 02:14:35,143 [1] INFO wpfTest.Source.Log - pic32_Checked() - µ¿ÀÛ
+2024-02-07 02:14:35,144 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,172 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,172 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,173 [1] INFO wpfTest.Source.Log - tempUse_Checked() - ÅÛÇÃ¸´ ¼±ÅÃ »ç¿ë Å¬¸¯
+2024-02-07 02:14:35,173 [1] INFO wpfTest.Source.Log - num4_Checked() - µ¿ÀÛ
+2024-02-07 02:14:35,212 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,212 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - µ¿ÀÛ
+2024-02-07 02:14:35,212 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - µ¿ÀÛ
+2024-02-07 02:14:58,915 [1] INFO wpfTest.Source.Log - BackPageBtn_Click() - ÀÌÀü ¹öÆ° µ¿ÀÛ
+2024-02-07 02:14:58,915 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:14:59,075 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:14:59,159 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:14:59,159 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:14:59,159 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:14:59,159 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:14:59,159 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:59,159 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:14:59,159 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:14:59,160 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:59,175 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:59,190 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:14:59,205 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:59,205 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:14:59,205 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:14:59,205 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:14:59,205 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:14:59,221 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:14:59,237 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:14:59,254 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:14:59,269 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:14:59,285 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:14:59,285 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:14:59,285 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:14:59,285 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:15:10,616 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 02:15:14,686 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:15:16,286 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:15:20,460 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 02:15:43,528 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | ´ÙÀ½ÆäÀÌÁö Å¬¸¯
+2024-02-07 02:15:43,528 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:15:43,528 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:15:43,555 [1] INFO wpfTest.Source.Log - ¼³Á¤ÆäÀÌÁö 2¹ø ÁøÀÔ
+2024-02-07 02:15:43,738 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µ¿ÀÛ
+2024-02-07 02:15:43,738 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,745 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - Novideo_Checked() - µ¿ÀÛ
+2024-02-07 02:15:43,746 [1] DEBUG wpfTest.Source.Log - Use_Checked() | Ä«Ä«¿ÀÅå »ç¿ë  ¹öÆ° Ã¼Å©
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr¹Ì»ç¿ë Å¬¸¯
+2024-02-07 02:15:43,746 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - µ¿ÀÛ
+2024-02-07 02:15:43,778 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - µ¿ÀÛ
+2024-02-07 02:15:43,778 [1] INFO wpfTest.Source.Log - pic32_Checked() - µ¿ÀÛ
+2024-02-07 02:15:43,778 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,804 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,804 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,804 [1] INFO wpfTest.Source.Log - tempUse_Checked() - ÅÛÇÃ¸´ ¼±ÅÃ »ç¿ë Å¬¸¯
+2024-02-07 02:15:43,804 [1] INFO wpfTest.Source.Log - num4_Checked() - µ¿ÀÛ
+2024-02-07 02:15:43,830 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,830 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:43,830 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - µ¿ÀÛ
+2024-02-07 02:15:47,211 [1] INFO wpfTest.Source.Log - BackPageBtn_Click() - ÀÌÀü ¹öÆ° µ¿ÀÛ
+2024-02-07 02:15:47,212 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 02:15:47,385 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 02:15:47,461 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 02:15:47,461 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 02:15:47,461 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 02:15:47,461 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 02:15:47,461 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:47,461 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:15:47,461 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:15:47,462 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:15:47,483 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:15:47,504 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:15:47,525 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:47,525 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 02:15:47,525 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 02:15:47,525 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 02:15:47,525 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 02:15:47,546 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 02:15:47,567 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 02:15:47,588 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 02:15:47,609 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 02:15:47,630 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 02:15:47,630 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:47,630 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 02:15:47,630 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 02:15:50,770 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:52,595 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:52,595 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:15:52,595 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:15:52,595 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ÁöÆó±â ÀÚµ¿¿¬°á ÀÛµ¿
+2024-02-07 02:15:52,595 [1] ERROR wpfTest.Source.Log - CheckSerial() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:15:53,881 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:15:55,087 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 02:15:55,784 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | ´ÙÀ½ÆäÀÌÁö Å¬¸¯
+2024-02-07 02:15:55,784 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:15:55,784 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:15:55,809 [1] INFO wpfTest.Source.Log - ¼³Á¤ÆäÀÌÁö 2¹ø ÁøÀÔ
+2024-02-07 02:15:55,993 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µ¿ÀÛ
+2024-02-07 02:15:55,994 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,000 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - Novideo_Checked() - µ¿ÀÛ
+2024-02-07 02:15:56,001 [1] DEBUG wpfTest.Source.Log - Use_Checked() | Ä«Ä«¿ÀÅå »ç¿ë  ¹öÆ° Ã¼Å©
+2024-02-07 02:15:56,001 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr¹Ì»ç¿ë Å¬¸¯
+2024-02-07 02:15:56,002 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - µ¿ÀÛ
+2024-02-07 02:15:56,033 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - µ¿ÀÛ
+2024-02-07 02:15:56,033 [1] INFO wpfTest.Source.Log - pic32_Checked() - µ¿ÀÛ
+2024-02-07 02:15:56,033 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,059 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,060 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,060 [1] INFO wpfTest.Source.Log - tempUse_Checked() - ÅÛÇÃ¸´ ¼±ÅÃ »ç¿ë Å¬¸¯
+2024-02-07 02:15:56,060 [1] INFO wpfTest.Source.Log - num4_Checked() - µ¿ÀÛ
+2024-02-07 02:15:56,086 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,086 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - µ¿ÀÛ
+2024-02-07 02:15:56,086 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - µ¿ÀÛ
+2024-02-07 02:16:28,261 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 02:16:29,021 [1] DEBUG wpfTest.Source.Log - DataSend() | ÁöÆó±â·Î µ¥ÀÌÅÍ º¸³¿ º¸³½µ¥ÀÌÅÍ : SA162
+2024-02-07 02:16:29,021 [1] ERROR wpfTest.Source.Log - DataSend() - Æ÷Æ®°¡ ´ÝÇô ÀÖ½À´Ï´Ù.
+2024-02-07 02:16:29,021 [1] INFO wpfTest.Source.Log - Æ÷Æ® ´ÝÈû
+2024-02-07 02:16:29,021 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:37:56,393 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:37:56,488 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:37:56,678 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:37:56,685 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 02:37:56,686 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 02:37:56,972 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 02:37:56,981 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 02:37:56,981 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 02:37:57,104 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ÁöÆó±â ÀÚµ¿¿¬°É ½ÃÀÛ
+2024-02-07 02:37:57,107 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:38:02,344 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ÀÔ·Â(ÇÁ·Î±×·¥ Á¾·á Å°)
+2024-02-07 02:38:02,344 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:38:16,797 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:38:16,873 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:38:17,061 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:38:17,067 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 02:38:17,069 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 02:38:17,357 [1] ERROR wpfTest.Source.Log - Window_Loaded() - 'G:\»µ²Ù±â\wpfTest\bin\Release\IMG\UI\couponpage.png' ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+2024-02-07 02:38:17,365 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 02:38:17,365 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 02:38:17,486 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ÁöÆó±â ÀÚµ¿¿¬°É ½ÃÀÛ
+2024-02-07 02:38:17,489 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' Æ÷Æ®°¡ ¾ø½À´Ï´Ù.
+2024-02-07 02:38:18,519 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ÀÔ·Â(ÇÁ·Î±×·¥ Á¾·á Å°)
+2024-02-07 02:38:18,519 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 02:38:45,908 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 02:38:45,983 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 02:38:46,172 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 02:38:47,519 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 13:24:22,715 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 13:24:22,876 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 13:24:23,358 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 13:24:24,769 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 13:30:09,358 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 13:30:09,519 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 13:30:10,052 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 13:30:10,068 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 13:30:10,069 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 13:30:10,536 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ·Îµå ¿Ï·á
+2024-02-07 13:30:10,542 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 13:30:10,543 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 13:30:11,988 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ÀÔ·Â(ÇÁ·Î±×·¥ Á¾·á Å°)
+2024-02-07 13:30:11,988 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 13:30:45,309 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 13:30:45,432 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 13:30:45,803 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 13:30:45,810 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 13:30:45,811 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 13:30:46,148 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ·Îµå ¿Ï·á
+2024-02-07 13:30:46,150 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 13:30:46,150 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 13:30:51,771 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ÀÔ·Â(¼³Á¤Ã¢ ÁøÀÔ Å°)
+2024-02-07 13:30:52,143 [1] INFO wpfTest.Source.Log - Main Level Å¸ÀÌ¸Ó Á¾·á
+2024-02-07 13:30:52,144 [1] INFO wpfTest.Source.Log - ¿É¼Ç ¸Þ´º ÀÌµ¿
+2024-02-07 13:30:53,135 [1] INFO wpfTest.Source.Log - ¿É¼Ç ÆäÀÌÁö ÁøÀÔ
+2024-02-07 13:30:53,653 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ¿É¼ÇÆäÀÌÁö ¼ÂÆÃ°ª ·Îµù
+2024-02-07 13:30:53,723 [1] INFO wpfTest.Source.Log - ¼¼¼Ç ¿­¸²
+2024-02-07 13:30:53,728 [1] ERROR wpfTest.Source.Log - Void OpenSession()() - ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+2024-02-07 13:30:53,732 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ·ÎµåµÈ °ª ¼¼ÆÃ
+2024-02-07 13:30:53,732 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - ·Îµå
+2024-02-07 13:30:53,743 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µ¿ÀÛ
+2024-02-07 13:30:53,744 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 1¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 13:30:53,759 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 2¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 13:30:53,771 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ÅÛÇÃ¸´ 3¹ø µ· ¼ÂÆÃ º¯°æ
+2024-02-07 13:30:53,783 [1] INFO wpfTest.Source.Log - couponkind_SelectionChanged() - µ¿ÀÛ
+2024-02-07 13:30:53,784 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ÀçÃÔ¿µ ±ÝÁö ¹öÆ° Ã¼Å©
+2024-02-07 13:30:53,785 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | Ä³³í Ä«¸Þ¶ó Ã¼Å©
+2024-02-07 13:30:53,785 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | Å¸ÀÌ¸Ó »ç¿ë Ã¼Å©
+2024-02-07 13:30:53,786 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ÆäÀÌÁö Å¸ÀÌ¸Ó º¯°æ
+2024-02-07 13:30:53,798 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | Æ÷Åä Å¸ÀÓ º¯°æ
+2024-02-07 13:30:53,810 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx º¯°æ
+2024-02-07 13:30:53,822 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety º¯°æ
+2024-02-07 13:30:53,833 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX º¯°æ
+2024-02-07 13:30:53,845 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY º¯°æ
+2024-02-07 13:30:53,846 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 13:30:53,846 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µ¿ÀÛ
+2024-02-07 13:30:53,847 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ÁÂ¿ì¹ÝÀü »ç¿ë¾ÈÇÔ
+2024-02-07 13:31:02,374 [1] INFO wpfTest.Source.Log - PassWord Ã¢ ÁøÀÔ
+2024-02-07 13:31:02,384 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎÆäÀÌÁö Á¢¼Ó
+2024-02-07 13:31:04,247 [1] INFO wpfTest.Source.Log - °ü¸®ÀÚ ·Î±×ÀÎ ÆäÀÌÁö ´ÝÀ½
+2024-02-07 13:31:05,021 [1] DEBUG wpfTest.Source.Log - NextPageBtn_Click() | ´ÙÀ½ÆäÀÌÁö Å¬¸¯
+2024-02-07 13:31:05,038 [1] INFO wpfTest.Source.Log - ¼³Á¤ÆäÀÌÁö 2¹ø ÁøÀÔ
+2024-02-07 13:31:05,285 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µ¿ÀÛ
+2024-02-07 13:31:05,285 [1] INFO wpfTest.Source.Log - RentalBtn_Checked() - µ¿ÀÛ
+2024-02-07 13:31:05,291 [1] INFO wpfTest.Source.Log - pic1startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,291 [1] INFO wpfTest.Source.Log - pic1startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,292 [1] INFO wpfTest.Source.Log - pic1widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,292 [1] INFO wpfTest.Source.Log - pic1heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,292 [1] INFO wpfTest.Source.Log - pic2startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,292 [1] INFO wpfTest.Source.Log - pic2startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,293 [1] INFO wpfTest.Source.Log - pic2widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,293 [1] INFO wpfTest.Source.Log - pic2heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,293 [1] INFO wpfTest.Source.Log - pic3startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,294 [1] INFO wpfTest.Source.Log - pic3startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,294 [1] INFO wpfTest.Source.Log - pic3widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,294 [1] INFO wpfTest.Source.Log - pic3heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,294 [1] INFO wpfTest.Source.Log - pic4startxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,295 [1] INFO wpfTest.Source.Log - pic4startylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,295 [1] INFO wpfTest.Source.Log - pic4widthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,295 [1] INFO wpfTest.Source.Log - pic4heightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,295 [1] INFO wpfTest.Source.Log - qrstartxlocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,295 [1] INFO wpfTest.Source.Log - qrstartylocation_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,296 [1] INFO wpfTest.Source.Log - qrwidthlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,296 [1] INFO wpfTest.Source.Log - qrheightlengh_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,296 [1] INFO wpfTest.Source.Log - Novideo_Checked() - µ¿ÀÛ
+2024-02-07 13:31:05,296 [1] DEBUG wpfTest.Source.Log - Use_Checked() | Ä«Ä«¿ÀÅå »ç¿ë  ¹öÆ° Ã¼Å©
+2024-02-07 13:31:05,299 [1] INFO wpfTest.Source.Log - QRNotUse_Checked() - qr¹Ì»ç¿ë Å¬¸¯
+2024-02-07 13:31:05,300 [1] INFO wpfTest.Source.Log - QRpageNotUse_Checked() - µ¿ÀÛ
+2024-02-07 13:31:05,345 [1] INFO wpfTest.Source.Log - Nocoupon_Checked() - µ¿ÀÛ
+2024-02-07 13:31:05,346 [1] INFO wpfTest.Source.Log - pic32_Checked() - µ¿ÀÛ
+2024-02-07 13:31:05,347 [1] INFO wpfTest.Source.Log - ptinrationame_SelectionChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,385 [1] INFO wpfTest.Source.Log - pagecobox_SelectionChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,385 [1] INFO wpfTest.Source.Log - tempcountcb_SelectionChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,385 [1] INFO wpfTest.Source.Log - tempUse_Checked() - ÅÛÇÃ¸´ ¼±ÅÃ »ç¿ë Å¬¸¯
+2024-02-07 13:31:05,386 [1] INFO wpfTest.Source.Log - num4_Checked() - µ¿ÀÛ
+2024-02-07 13:31:05,438 [1] INFO wpfTest.Source.Log - fontcolortb_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,438 [1] INFO wpfTest.Source.Log - kakaofontcolor_TextChanged() - µ¿ÀÛ
+2024-02-07 13:31:05,439 [1] INFO wpfTest.Source.Log - DateonTempoff_Checked() - µ¿ÀÛ
+2024-02-07 13:31:09,445 [1] DEBUG wpfTest.Source.Log - button1_Click() | Á¾Ç¥¹öÆ° Å¬¸¯
+2024-02-07 13:31:19,766 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á
+2024-02-07 13:33:13,161 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-07 13:33:13,288 [1] INFO wpfTest.Source.Log - Main Level ÁøÀÔ
+2024-02-07 13:33:13,682 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : ¼³Á¤ °ª ·Îµå Áß
+2024-02-07 13:33:13,690 [1] INFO wpfTest.Source.Log - ÀÌÀü ÆÄÀÏ »èÁ¦
+2024-02-07 13:33:13,692 [1] INFO wpfTest.Source.Log - ÆÄÀÏ»èÁ¦ ¿Ï·á
+2024-02-07 13:33:14,057 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ·Îµå ¿Ï·á
+2024-02-07 13:33:14,059 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level ¼³Á¤ °ª ·Îµå(ÀÚµ¿¿¬°á)
+2024-02-07 13:33:14,059 [1] INFO wpfTest.Source.Log - Å¸ÀÌ¸Ó ½ÃÀÛ
+2024-02-07 13:33:28,376 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ÀÔ·Â(ÇÁ·Î±×·¥ Á¾·á Å°)
+2024-02-07 13:33:28,376 [1] INFO wpfTest.Source.Log - ÇÁ·Î±×·¥ Á¾·á

@@ -1,0 +1,153 @@
+2023-11-02 10:43:36,413 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:43:38,383 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:43:38,714 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:43:38,715 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:43:38,717 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:43:38,717 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:43:38,717 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:43:40,771 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:43:40,837 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:43:40,855 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:43:40,877 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:43:41,395 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:43:41,418 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:43:41,436 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:43:45,096 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:43:45,332 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:43:45,333 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:45:50,018 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:45:51,436 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:45:51,695 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:45:51,696 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:45:51,697 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:45:51,698 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:45:51,698 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:45:52,181 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:45:52,246 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:45:52,255 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:45:52,271 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:45:52,727 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:45:52,751 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:45:52,772 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:45:55,171 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:45:55,407 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:45:55,407 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:47:48,720 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:47:50,157 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:47:50,368 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:47:50,369 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:47:50,370 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:47:50,371 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:47:50,371 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:47:50,835 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:47:50,913 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:47:50,922 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:47:50,940 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:47:51,434 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:47:51,447 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:47:51,466 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:47:53,405 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:47:53,641 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:47:53,641 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:49:36,080 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:49:37,482 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:49:37,701 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:49:37,702 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:49:37,704 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:49:37,704 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:49:37,704 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:49:38,174 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:49:38,241 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:49:38,248 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:49:38,264 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:49:38,713 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:49:38,725 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:49:38,744 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:49:40,076 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:49:40,313 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:49:40,314 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:50:08,499 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:50:09,893 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:50:10,116 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:50:10,117 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:50:10,119 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:50:10,119 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:50:10,120 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:50:10,602 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:50:10,661 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:50:10,668 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:50:10,683 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:50:11,129 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:50:11,141 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:50:11,160 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:50:12,750 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:50:12,996 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:50:12,996 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:51:50,157 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:51:51,625 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:51:51,848 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:51:51,849 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:51:51,850 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:51:51,850 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:51:51,850 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:51:52,302 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:51:52,363 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:51:52,393 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:51:52,409 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:51:52,887 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:51:52,901 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:51:52,926 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:51:53,889 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:51:54,124 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:51:54,124 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:53:12,287 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:53:13,724 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:53:14,021 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:53:14,022 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:53:14,023 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:53:14,023 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:53:14,023 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:53:14,489 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:53:14,559 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:53:14,567 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:53:14,582 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:53:15,046 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:53:15,063 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:53:15,082 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:53:32,481 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:53:32,716 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:53:32,717 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:54:52,152 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:54:53,572 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:54:53,789 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:54:53,790 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:54:53,792 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:54:53,792 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:54:53,792 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:54:54,288 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:54:54,354 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:54:54,362 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:54:54,385 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:54:54,865 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:54:54,879 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:54:54,898 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:54:56,629 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:54:56,865 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:54:56,865 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-11-02 10:56:11,435 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-02 10:56:12,849 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-02 10:56:13,052 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-02 10:56:13,053 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-02 10:56:13,054 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:56:13,054 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:56:13,054 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-02 10:56:13,553 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-02 10:56:13,621 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-02 10:56:13,628 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-02 10:56:13,643 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-02 10:56:14,084 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-02 10:56:14,106 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-02 10:56:14,126 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-02 10:56:16,478 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-02 10:56:16,713 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-11-02 10:56:16,713 [1] INFO wpfTest.Source.Log - 프로그램 종료

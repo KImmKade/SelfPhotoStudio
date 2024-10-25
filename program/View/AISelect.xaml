@@ -1,0 +1,23 @@
+﻿<Page x:Class="wpfTest.View.AISelect"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="AISelect" Background="white">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="Backgroundimg"/>
+        <Image x:Name="AI1" Width="243" Height="244" Margin="705,312,972,524" MouseLeftButtonDown="AI1_MouseLeftButtonDown"/>
+        <Image x:Name="AI2" Width="243" Height="244" Margin="972,312,705,524" MouseLeftButtonDown="AI2_MouseLeftButtonDown"/>
+        <Image x:Name="AI3" Width="243" Height="244" Margin="705,579,972,257" MouseLeftButtonDown="AI3_MouseLeftButtonDown"/>
+        <Image x:Name="AI4" Width="243" Height="244" Margin="972,579,705,257" MouseLeftButtonDown="AI4_MouseLeftButtonDown"/>
+        <Image x:Name="AI5" Width="243" Height="244" Margin="705,579,972,257" MouseLeftButtonDown="AI5_MouseLeftButtonDown"/>
+        <Image x:Name="AI6" Width="243" Height="244" Margin="972,579,705,257" MouseLeftButtonDown="AI6_MouseLeftButtonDown"/>
+        <Image x:Name="NextImg" Width="213" Height="73" Margin="1630,928,78,80" Stretch="Fill" MouseLeftButtonDown="NextImg_MouseLeftButtonDown"/>
+        <Image x:Name="BackBtn" Width="213" Height="73" Margin="78,928,1630,80" Stretch="Fill" MouseLeftButtonDown="BackBtn_MouseLeftButtonDown"/>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1720,130,0,0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</Page>

@@ -1,0 +1,164 @@
+2023-09-12 18:18:36,138 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-09-12 18:18:36,404 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-09-12 18:18:36,727 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-09-12 18:18:36,728 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-09-12 18:18:36,729 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:18:36,729 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:18:36,729 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:18:37,422 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-09-12 18:18:37,433 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-09-12 18:18:37,461 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-12 18:18:37,989 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-09-12 18:18:38,032 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-09-12 18:18:38,034 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-09-12 18:18:38,036 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:18:38,215 [14] INFO wpfTest.Source.Log - APPlink with vpos serial: 4434333622153854
+2023-09-12 18:18:38,215 [14] INFO wpfTest.Source.Log - APP	main fw version: 4.0.4.23-RC01
+2023-09-12 18:18:38,215 [14] INFO wpfTest.Source.Log - APP	pos fw version: 2203-rc04
+2023-09-12 18:18:38,215 [14] INFO wpfTest.Source.Log - APP	monyx id: 
+2023-09-12 18:18:38,215 [14] INFO wpfTest.Source.Log - APP	default credit: 19800
+2023-09-12 18:18:38,216 [12] INFO wpfTest.Source.Log - APPready for new session
+2023-09-12 18:18:38,229 [14] INFO wpfTest.Source.Log - APPreceived status: 20
+2023-09-12 18:18:38,229 [14] INFO wpfTest.Source.Log - APPdevice available
+2023-09-12 18:18:38,540 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:18:42,568 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-09-12 18:18:42,804 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-09-12 18:18:42,805 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:18:42,805 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-09-12 18:19:58,840 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-09-12 18:19:59,119 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-09-12 18:19:59,465 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-09-12 18:19:59,466 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-09-12 18:19:59,467 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:19:59,467 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:19:59,467 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:20:00,067 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-09-12 18:20:00,076 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-09-12 18:20:00,096 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-12 18:20:00,620 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-09-12 18:20:00,666 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-09-12 18:20:00,668 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-09-12 18:20:00,675 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:20:00,842 [14] INFO wpfTest.Source.Log - APPlink with vpos serial: 4434333622153854
+2023-09-12 18:20:00,842 [14] INFO wpfTest.Source.Log - APP	main fw version: 4.0.4.23-RC01
+2023-09-12 18:20:00,842 [14] INFO wpfTest.Source.Log - APP	pos fw version: 2203-rc04
+2023-09-12 18:20:00,842 [14] INFO wpfTest.Source.Log - APP	monyx id: 
+2023-09-12 18:20:00,842 [14] INFO wpfTest.Source.Log - APP	default credit: 19800
+2023-09-12 18:20:00,983 [14] INFO wpfTest.Source.Log - APPreceived status: 20
+2023-09-12 18:20:00,983 [14] INFO wpfTest.Source.Log - APPdevice available
+2023-09-12 18:20:00,987 [12] INFO wpfTest.Source.Log - APPready for new session
+2023-09-12 18:20:01,242 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:20:01,656 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-09-12 18:20:01,892 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-09-12 18:20:01,893 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:20:01,895 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-09-12 18:21:02,740 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-09-12 18:21:03,016 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-09-12 18:21:03,343 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-09-12 18:21:03,344 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-09-12 18:21:03,345 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:21:03,346 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:21:03,346 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:21:03,938 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-09-12 18:21:03,947 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-09-12 18:21:03,972 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-12 18:21:04,475 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-09-12 18:21:04,511 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-09-12 18:21:04,513 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-09-12 18:21:04,515 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:21:04,784 [14] INFO wpfTest.Source.Log - APPlink with vpos serial: 4434333622153854
+2023-09-12 18:21:04,784 [14] INFO wpfTest.Source.Log - APP	main fw version: 4.0.4.23-RC01
+2023-09-12 18:21:04,784 [14] INFO wpfTest.Source.Log - APP	pos fw version: 2203-rc04
+2023-09-12 18:21:04,784 [14] INFO wpfTest.Source.Log - APP	monyx id: 
+2023-09-12 18:21:04,784 [14] INFO wpfTest.Source.Log - APP	default credit: 19800
+2023-09-12 18:21:04,786 [12] INFO wpfTest.Source.Log - APPready for new session
+2023-09-12 18:21:04,792 [14] INFO wpfTest.Source.Log - APPreceived status: 20
+2023-09-12 18:21:04,792 [14] INFO wpfTest.Source.Log - APPdevice available
+2023-09-12 18:21:05,056 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:21:05,973 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-09-12 18:21:06,209 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-09-12 18:21:06,210 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:21:06,210 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-09-12 18:22:11,814 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-09-12 18:22:12,077 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-09-12 18:22:12,410 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-09-12 18:22:12,411 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-09-12 18:22:12,413 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:22:12,414 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:22:12,414 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:22:13,083 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-09-12 18:22:13,091 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-09-12 18:22:13,108 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-12 18:22:13,610 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-09-12 18:22:13,651 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-09-12 18:22:13,654 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-09-12 18:22:13,654 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:22:14,006 [14] INFO wpfTest.Source.Log - APPlink with vpos serial: 4434333622153854
+2023-09-12 18:22:14,006 [14] INFO wpfTest.Source.Log - APP	main fw version: 4.0.4.23-RC01
+2023-09-12 18:22:14,006 [14] INFO wpfTest.Source.Log - APP	pos fw version: 2203-rc04
+2023-09-12 18:22:14,006 [14] INFO wpfTest.Source.Log - APP	monyx id: 
+2023-09-12 18:22:14,006 [14] INFO wpfTest.Source.Log - APP	default credit: 19800
+2023-09-12 18:22:14,007 [12] INFO wpfTest.Source.Log - APPready for new session
+2023-09-12 18:22:14,018 [14] INFO wpfTest.Source.Log - APPreceived status: 20
+2023-09-12 18:22:14,019 [14] INFO wpfTest.Source.Log - APPdevice available
+2023-09-12 18:22:14,288 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:22:15,299 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-09-12 18:22:15,535 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-09-12 18:22:15,536 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:22:15,536 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-09-12 18:40:34,109 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-09-12 18:40:34,286 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-09-12 18:40:34,525 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-09-12 18:40:34,526 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-09-12 18:40:34,527 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:40:34,527 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:40:34,527 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-12 18:40:35,028 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-09-12 18:40:35,030 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-09-12 18:40:35,044 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-12 18:40:35,470 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-09-12 18:40:35,479 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-09-12 18:40:35,481 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-09-12 18:40:35,481 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:40:35,983 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-12 18:40:36,213 [8] INFO wpfTest.Source.Log - APPlink with vpos serial: 4434333622153854
+2023-09-12 18:40:36,213 [8] INFO wpfTest.Source.Log - APP	main fw version: 4.0.4.23-RC01
+2023-09-12 18:40:36,213 [8] INFO wpfTest.Source.Log - APP	pos fw version: 2203-rc04
+2023-09-12 18:40:36,213 [8] INFO wpfTest.Source.Log - APP	monyx id: 
+2023-09-12 18:40:36,213 [8] INFO wpfTest.Source.Log - APP	default credit: 19800
+2023-09-12 18:40:36,214 [6] INFO wpfTest.Source.Log - APPready for new session
+2023-09-12 18:40:36,228 [8] INFO wpfTest.Source.Log - APPreceived status: 20
+2023-09-12 18:40:36,228 [8] INFO wpfTest.Source.Log - APPdevice available
+2023-09-12 18:40:37,171 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2023-09-12 18:40:38,042 [1] INFO wpfTest.Source.Log - Main Level 타이머 종료
+2023-09-12 18:40:38,291 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-09-12 18:40:38,300 [1] INFO wpfTest.Source.Log - 옵션 메뉴 이동
+2023-09-12 18:40:38,311 [1] INFO wpfTest.Source.Log - 옵션 페이지 진입
+2023-09-12 18:40:38,623 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 옵션페이지 셋팅값 로딩
+2023-09-12 18:40:38,711 [1] DEBUG wpfTest.Source.Log - LoadSetting() | 로드된 값 세팅
+2023-09-12 18:40:38,711 [1] DEBUG wpfTest.Source.Log - BUse_Checked() | 지폐기 사용 클릭
+2023-09-12 18:40:38,712 [1] DEBUG wpfTest.Source.Log - CheckSerial() | 지폐기 자동연결 작동
+2023-09-12 18:40:38,742 [1] INFO wpfTest.Source.Log - CardCheckSerial() - 동작 | 카드 리더기 자동연결
+2023-09-12 18:40:38,756 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | 캐논 카메라 체크
+2023-09-12 18:40:38,756 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | 타이머 사용 체크
+2023-09-12 18:40:38,757 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | 페이지 타이머 변경
+2023-09-12 18:40:38,772 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | 돈 셋팅 변경
+2023-09-12 18:40:38,788 [1] INFO wpfTest.Source.Log - PageSettingMoney_SelectionChanged() - 동작
+2023-09-12 18:40:38,788 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | 포토 타임 변경
+2023-09-12 18:40:38,805 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx 변경
+2023-09-12 18:40:38,819 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety 변경
+2023-09-12 18:40:38,834 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX 변경
+2023-09-12 18:40:38,849 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY 변경
+2023-09-12 18:40:38,849 [1] DEBUG wpfTest.Source.Log - TempSelectCB_SelectionChanged() | 템플릿 번호 변경
+2023-09-12 18:40:38,866 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | 좌우반전 사용안함
+2023-09-12 18:40:38,882 [1] INFO wpfTest.Source.Log - 세션 열림
+2023-09-12 18:40:39,177 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2023-09-12 18:40:39,199 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2023-09-12 18:40:39,224 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2023-09-12 18:40:41,183 [1] DEBUG wpfTest.Source.Log - button1_Click() | 종표버튼 클릭
+2023-09-12 18:40:41,959 [1] INFO wpfTest.Source.Log - 포트 닫힘
+2023-09-12 18:40:41,959 [1] DEBUG wpfTest.Source.Log - CloseSession() | 세션 닫힘
+2023-09-12 18:40:42,194 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2023-09-12 18:40:42,195 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2023-09-12 18:40:42,195 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2023-09-12 18:40:42,196 [1] INFO wpfTest.Source.Log - 프로그램 종료

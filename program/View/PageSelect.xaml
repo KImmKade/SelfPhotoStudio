@@ -1,0 +1,27 @@
+﻿<Page x:Class="wpfTest.View.PageSelect"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="PageSelect" Background="White">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="BackgroundImg"/>
+        <Image x:Name="NextBtn" Width="213" Height="73" Margin="1630,928,78,80" Stretch="Fill" MouseLeftButtonDown="NextBtn_MouseLeftButtonDown"/>
+        <Image x:Name="BackBtn" Width="213" Height="73" Margin="78,928,1630,80" Stretch="Fill" MouseLeftButtonDown="BackBtn_MouseLeftButtonDown"/>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1720,130,0,0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="Pagenumber" Width="315" Height="100" FontSize="60" FontFamily="Arial" TextAlignment="Center" FontWeight="Bold" Margin="802,495,803,485"/>
+        <TextBlock x:Name="money" Width="315" Height="100" FontSize="60" FontFamily="Arial" TextAlignment="Center" FontWeight="Bold" Margin="802,590,803,390"/>
+        <Image x:Name="backpagenum" Width="81" Height="80" Margin="699,490,1140,510" MouseLeftButtonDown="backpagenum_MouseLeftButtonDown"/>
+        <Image x:Name="nextpagenum" Width="81" Height="80" Margin="1140,490,699,510" MouseLeftButtonDown="nextpagenum_MouseLeftButtonDown"/>
+
+        <Image x:Name="page2" Margin="0,0,1920,1080" MouseLeftButtonDown="page2_MouseLeftButtonDown"/>
+        <Image x:Name="page4" Margin="0,0,1920,1080" MouseLeftButtonDown="page4_MouseLeftButtonDown"/>
+        <Image x:Name="page6" Margin="0,0,1920,1080" MouseLeftButtonDown="page6_MouseLeftButtonDown"/>
+        <Image x:Name="page8" Margin="0,0,1920,1080" MouseLeftButtonDown="page8_MouseLeftButtonDown"/>
+        <Image x:Name="page10" Margin="0,0,1920,1080" MouseLeftButtonDown="page10_MouseLeftButtonDown"/>
+    </Grid>
+</Page>

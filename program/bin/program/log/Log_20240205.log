@@ -1,0 +1,104 @@
+2024-02-05 10:14:21,885 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-05 10:14:22,030 [1] INFO wpfTest.Source.Log - 로그인 페이지 진입
+2024-02-05 10:14:22,883 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-05 10:14:22,883 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-05 10:14:22,884 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-05 10:14:24,404 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-05 10:14:24,915 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2024-02-05 10:14:29,288 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-05 10:14:29,289 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-05 10:14:58,477 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-05 10:14:58,661 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-05 10:14:59,060 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-05 10:14:59,060 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-05 10:14:59,062 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-05 10:14:59,942 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-05 10:14:59,948 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-05 10:14:59,949 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-05 10:15:00,668 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2024-02-05 10:15:01,871 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2024-02-05 10:15:02,337 [1] INFO wpfTest.Source.Log - Main Level 타이머 종료
+2024-02-05 10:15:02,576 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2024-02-05 10:15:02,717 [1] INFO wpfTest.Source.Log - 옵션 메뉴 이동
+2024-02-05 10:15:03,639 [1] INFO wpfTest.Source.Log - 옵션 페이지 진입
+2024-02-05 10:15:03,987 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 옵션페이지 셋팅값 로딩
+2024-02-05 10:15:04,334 [1] INFO wpfTest.Source.Log - 세션 열림
+2024-02-05 10:15:04,631 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2024-02-05 10:15:04,657 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2024-02-05 10:15:04,682 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2024-02-05 10:15:04,730 [1] DEBUG wpfTest.Source.Log - LoadSetting() | 로드된 값 세팅
+2024-02-05 10:15:04,731 [1] INFO wpfTest.Source.Log - cardserialtextbox_TextChanged() - 로드
+2024-02-05 10:15:04,738 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - 동작
+2024-02-05 10:15:04,738 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | 템플릿 1번 돈 셋팅 변경
+2024-02-05 10:15:04,754 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | 템플릿 2번 돈 셋팅 변경
+2024-02-05 10:15:04,767 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | 템플릿 3번 돈 셋팅 변경
+2024-02-05 10:15:04,781 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | 재촬영 금지 버튼 체크
+2024-02-05 10:15:04,782 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | 캐논 카메라 체크
+2024-02-05 10:15:04,782 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | 타이머 사용 체크
+2024-02-05 10:15:04,782 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | 페이지 타이머 변경
+2024-02-05 10:15:04,796 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | 포토 타임 변경
+2024-02-05 10:15:04,813 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx 변경
+2024-02-05 10:15:04,829 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety 변경
+2024-02-05 10:15:04,843 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX 변경
+2024-02-05 10:15:04,858 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY 변경
+2024-02-05 10:15:04,859 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - 동작
+2024-02-05 10:15:04,859 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - 동작
+2024-02-05 10:15:04,859 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | 좌우반전 사용안함
+2024-02-05 10:15:07,218 [1] INFO wpfTest.Source.Log - PassWord 창 진입
+2024-02-05 10:15:07,237 [1] INFO wpfTest.Source.Log - 관리자 로그인페이지 접속
+2024-02-05 10:15:08,883 [1] INFO wpfTest.Source.Log - 관리자 로그인 페이지 닫음
+2024-02-05 10:15:14,582 [1] DEBUG wpfTest.Source.Log - button1_Click() | 종표버튼 클릭
+2024-02-05 10:15:15,390 [1] DEBUG wpfTest.Source.Log - CloseSession() | 세션 닫힘
+2024-02-05 10:15:15,627 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2024-02-05 10:15:15,628 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2024-02-05 10:15:15,628 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2024-02-05 10:15:15,630 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-05 16:23:37,388 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-05 16:23:37,601 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-02-05 16:23:37,993 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-05 16:23:37,993 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-05 16:23:37,994 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-05 16:23:38,890 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-05 16:23:38,896 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-02-05 16:23:38,897 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-02-05 16:23:39,416 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2024-02-05 16:23:40,544 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-05 16:23:40,780 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2024-02-05 16:23:40,780 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-05 16:24:10,211 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-05 16:24:10,343 [1] INFO wpfTest.Source.Log - 로그인 페이지 진입
+2024-02-05 16:24:10,766 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-05 16:24:10,767 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-05 16:24:10,768 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-05 16:24:11,713 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-05 16:24:11,813 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2024-02-05 16:24:13,823 [1] INFO wpfTest.Source.Log - exitbtn_Click() - 동작
+2024-02-05 16:24:14,980 [1] INFO wpfTest.Source.Log - Yes 버튼 클릭
+2024-02-05 16:24:14,980 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-05 16:39:10,029 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-05 16:39:10,158 [1] INFO wpfTest.Source.Log - 로그인 페이지 진입
+2024-02-05 16:39:10,585 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-05 16:39:10,586 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-05 16:39:10,587 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-05 16:39:11,469 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-05 16:39:11,504 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2024-02-05 16:39:12,902 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-05 16:39:12,902 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-05 16:43:41,087 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-05 16:43:41,221 [1] INFO wpfTest.Source.Log - 로그인 페이지 진입
+2024-02-05 16:43:41,864 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-05 16:43:41,864 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-05 16:43:41,866 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-05 16:43:42,781 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-05 16:43:42,818 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2024-02-05 16:43:45,457 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-05 16:43:45,457 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-02-05 17:03:13,124 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-05 17:03:13,251 [1] INFO wpfTest.Source.Log - 로그인 페이지 진입
+2024-02-05 17:03:13,689 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-02-05 17:03:13,690 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-02-05 17:03:13,691 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-02-05 17:03:14,505 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-02-05 17:03:14,567 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2024-02-05 17:03:15,100 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-02-05 17:03:15,100 [1] INFO wpfTest.Source.Log - 프로그램 종료

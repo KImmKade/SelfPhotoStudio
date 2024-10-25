@@ -1,0 +1,1080 @@
+D:\program\20240429\program\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\program\20240429\program\bin\Release\dll\x86\opencv_videoio_ffmpeg480.dll
+D:\program\20240429\program\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\program\20240429\program\bin\Release\dll\x64\opencv_videoio_ffmpeg480_64.dll
+D:\program\20240429\program\bin\Release\avcodec-57.dll
+D:\program\20240429\program\bin\Release\avdevice-57.dll
+D:\program\20240429\program\bin\Release\avfilter-6.dll
+D:\program\20240429\program\bin\Release\avformat-57.dll
+D:\program\20240429\program\bin\Release\avutil-55.dll
+D:\program\20240429\program\bin\Release\postproc-54.dll
+D:\program\20240429\program\bin\Release\swresample-2.dll
+D:\program\20240429\program\bin\Release\swscale-4.dll
+D:\program\20240429\program\bin\Release\log4net.config
+D:\program\20240429\program\bin\Release\Accord.dll.config
+D:\program\20240429\program\bin\Release\Onecut.exe.config
+D:\program\20240429\program\bin\Release\Onecut.exe
+D:\program\20240429\program\bin\Release\Onecut.pdb
+D:\program\20240429\program\bin\Release\Accord.dll
+D:\program\20240429\program\bin\Release\Accord.Video.dll
+D:\program\20240429\program\bin\Release\Accord.Video.FFMPEG.dll
+D:\program\20240429\program\bin\Release\Azure.Core.dll
+D:\program\20240429\program\bin\Release\Azure.Storage.Blobs.dll
+D:\program\20240429\program\bin\Release\Azure.Storage.Common.dll
+D:\program\20240429\program\bin\Release\BouncyCastle.Crypto.dll
+D:\program\20240429\program\bin\Release\Google.Protobuf.dll
+D:\program\20240429\program\bin\Release\K4os.Compression.LZ4.dll
+D:\program\20240429\program\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\program\20240429\program\bin\Release\K4os.Hash.xxHash.dll
+D:\program\20240429\program\bin\Release\log4net.dll
+D:\program\20240429\program\bin\Release\MaterialDesignColors.dll
+D:\program\20240429\program\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\program\20240429\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\program\20240429\program\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\program\20240429\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\program\20240429\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\program\20240429\program\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\program\20240429\program\bin\Release\MNWiseKakaoTalk.dll
+D:\program\20240429\program\bin\Release\MySql.Data.dll
+D:\program\20240429\program\bin\Release\Newtonsoft.Json.dll
+D:\program\20240429\program\bin\Release\Npgsql.dll
+D:\program\20240429\program\bin\Release\OpenCvSharp.dll
+D:\program\20240429\program\bin\Release\OpenCvSharp.Extensions.dll
+D:\program\20240429\program\bin\Release\QRCoder.dll
+D:\program\20240429\program\bin\Release\Syncfusion.Licensing.dll
+D:\program\20240429\program\bin\Release\System.Buffers.dll
+D:\program\20240429\program\bin\Release\System.Collections.Immutable.dll
+D:\program\20240429\program\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\program\20240429\program\bin\Release\System.Drawing.Common.dll
+D:\program\20240429\program\bin\Release\System.IO.Hashing.dll
+D:\program\20240429\program\bin\Release\System.Memory.Data.dll
+D:\program\20240429\program\bin\Release\System.Memory.dll
+D:\program\20240429\program\bin\Release\System.Numerics.Vectors.dll
+D:\program\20240429\program\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\program\20240429\program\bin\Release\System.Text.Encodings.Web.dll
+D:\program\20240429\program\bin\Release\System.Text.Json.dll
+D:\program\20240429\program\bin\Release\System.Threading.Channels.dll
+D:\program\20240429\program\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\program\20240429\program\bin\Release\System.ValueTuple.dll
+D:\program\20240429\program\bin\Release\WpfAnimatedGif.dll
+D:\program\20240429\program\bin\Release\ZstdNet.dll
+D:\program\20240429\program\bin\Release\System.Net.Http.Json.dll
+D:\program\20240429\program\bin\Release\Accord.xml
+D:\program\20240429\program\bin\Release\Accord.Video.xml
+D:\program\20240429\program\bin\Release\Accord.Video.FFMPEG.xml
+D:\program\20240429\program\bin\Release\Azure.Core.xml
+D:\program\20240429\program\bin\Release\Azure.Storage.Blobs.xml
+D:\program\20240429\program\bin\Release\Azure.Storage.Common.xml
+D:\program\20240429\program\bin\Release\BouncyCastle.Crypto.xml
+D:\program\20240429\program\bin\Release\EDSDKLib.pdb
+D:\program\20240429\program\bin\Release\EDSDKLib.xml
+D:\program\20240429\program\bin\Release\Google.Protobuf.pdb
+D:\program\20240429\program\bin\Release\Google.Protobuf.xml
+D:\program\20240429\program\bin\Release\K4os.Compression.LZ4.xml
+D:\program\20240429\program\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\program\20240429\program\bin\Release\K4os.Hash.xxHash.xml
+D:\program\20240429\program\bin\Release\log4net.xml
+D:\program\20240429\program\bin\Release\MaterialDesignColors.pdb
+D:\program\20240429\program\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\program\20240429\program\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\program\20240429\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\program\20240429\program\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\program\20240429\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\program\20240429\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\program\20240429\program\bin\Release\Microsoft.Xaml.Behaviors.pdb
+D:\program\20240429\program\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\program\20240429\program\bin\Release\MNWiseKakaoTalk.pdb
+D:\program\20240429\program\bin\Release\MySql.Data.xml
+D:\program\20240429\program\bin\Release\Newtonsoft.Json.xml
+D:\program\20240429\program\bin\Release\Npgsql.xml
+D:\program\20240429\program\bin\Release\OpenCvSharp.xml
+D:\program\20240429\program\bin\Release\OpenCvSharp.Extensions.xml
+D:\program\20240429\program\bin\Release\System.Buffers.xml
+D:\program\20240429\program\bin\Release\System.Collections.Immutable.xml
+D:\program\20240429\program\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\program\20240429\program\bin\Release\System.Drawing.Common.xml
+D:\program\20240429\program\bin\Release\System.IO.Hashing.xml
+D:\program\20240429\program\bin\Release\System.Memory.xml
+D:\program\20240429\program\bin\Release\System.Memory.Data.xml
+D:\program\20240429\program\bin\Release\System.Numerics.Vectors.xml
+D:\program\20240429\program\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\program\20240429\program\bin\Release\System.Text.Encodings.Web.xml
+D:\program\20240429\program\bin\Release\System.Text.Json.xml
+D:\program\20240429\program\bin\Release\System.Threading.Channels.xml
+D:\program\20240429\program\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\program\20240429\program\bin\Release\System.ValueTuple.xml
+D:\program\20240429\program\bin\Release\WpfAnimatedGif.pdb
+D:\program\20240429\program\bin\Release\WpfAnimatedGif.xml
+D:\program\20240429\program\obj\Release\Onecut.csproj.AssemblyReference.cache
+D:\program\20240429\program\obj\Release\Interop.NetFwTypeLib.dll
+D:\program\20240429\program\obj\Release\Onecut.csproj.ResolveComReference.cache
+D:\program\20240429\program\obj\Release\View\AISelect.g.cs
+D:\program\20240429\program\obj\Release\View\bankbook.g.cs
+D:\program\20240429\program\obj\Release\MainWindow.g.cs
+D:\program\20240429\program\obj\Release\View\ChoicePayment.g.cs
+D:\program\20240429\program\obj\Release\View\coupon.g.cs
+D:\program\20240429\program\obj\Release\View\CouponPage.g.cs
+D:\program\20240429\program\obj\Release\View\creditbook.g.cs
+D:\program\20240429\program\obj\Release\View\CreditPayment.g.cs
+D:\program\20240429\program\obj\Release\View\Final.g.cs
+D:\program\20240429\program\obj\Release\View\ImgCompose.g.cs
+D:\program\20240429\program\obj\Release\View\Kakao.g.cs
+D:\program\20240429\program\obj\Release\View\login.g.cs
+D:\program\20240429\program\obj\Release\View\Main.g.cs
+D:\program\20240429\program\obj\Release\View\PageSelect.g.cs
+D:\program\20240429\program\obj\Release\View\Password.g.cs
+D:\program\20240429\program\obj\Release\View\Payment.g.cs
+D:\program\20240429\program\obj\Release\View\paymentcomplete.g.cs
+D:\program\20240429\program\obj\Release\View\Preparing.g.cs
+D:\program\20240429\program\obj\Release\View\PriewView.g.cs
+D:\program\20240429\program\obj\Release\View\Repair.g.cs
+D:\program\20240429\program\obj\Release\View\SelectFrameDesign.g.cs
+D:\program\20240429\program\obj\Release\View\SelectPic.g.cs
+D:\program\20240429\program\obj\Release\View\SelectPlayer.g.cs
+D:\program\20240429\program\obj\Release\View\SelectTakePic.g.cs
+D:\program\20240429\program\obj\Release\View\SerialCheck.g.cs
+D:\program\20240429\program\obj\Release\View\SerialCheck2.g.cs
+D:\program\20240429\program\obj\Release\View\TakePic.g.cs
+D:\program\20240429\program\obj\Release\View\TempSelect.g.cs
+D:\program\20240429\program\obj\Release\View\WebCam.g.cs
+D:\program\20240429\program\obj\Release\App.g.cs
+D:\program\20240429\program\obj\Release\Onecut_Content.g.cs
+D:\program\20240429\program\obj\Release\Onecut_MarkupCompile.cache
+D:\program\20240429\program\obj\Release\Onecut_MarkupCompile.lref
+D:\program\20240429\program\obj\Release\App.baml
+D:\program\20240429\program\obj\Release\View\AISelect.baml
+D:\program\20240429\program\obj\Release\View\bankbook.baml
+D:\program\20240429\program\obj\Release\MainWindow.baml
+D:\program\20240429\program\obj\Release\View\ChoicePayment.baml
+D:\program\20240429\program\obj\Release\View\coupon.baml
+D:\program\20240429\program\obj\Release\View\CouponPage.baml
+D:\program\20240429\program\obj\Release\View\creditbook.baml
+D:\program\20240429\program\obj\Release\View\CreditPayment.baml
+D:\program\20240429\program\obj\Release\View\Final.baml
+D:\program\20240429\program\obj\Release\View\ImgCompose.baml
+D:\program\20240429\program\obj\Release\View\Kakao.baml
+D:\program\20240429\program\obj\Release\View\login.baml
+D:\program\20240429\program\obj\Release\View\Main.baml
+D:\program\20240429\program\obj\Release\View\PageSelect.baml
+D:\program\20240429\program\obj\Release\View\Password.baml
+D:\program\20240429\program\obj\Release\View\Payment.baml
+D:\program\20240429\program\obj\Release\View\paymentcomplete.baml
+D:\program\20240429\program\obj\Release\View\Preparing.baml
+D:\program\20240429\program\obj\Release\View\PriewView.baml
+D:\program\20240429\program\obj\Release\View\Repair.baml
+D:\program\20240429\program\obj\Release\View\SelectFrameDesign.baml
+D:\program\20240429\program\obj\Release\View\SelectPic.baml
+D:\program\20240429\program\obj\Release\View\SelectPlayer.baml
+D:\program\20240429\program\obj\Release\View\SelectTakePic.baml
+D:\program\20240429\program\obj\Release\View\SerialCheck.baml
+D:\program\20240429\program\obj\Release\View\SerialCheck2.baml
+D:\program\20240429\program\obj\Release\View\TakePic.baml
+D:\program\20240429\program\obj\Release\View\TempSelect.baml
+D:\program\20240429\program\obj\Release\View\WebCam.baml
+D:\program\20240429\program\obj\Release\Onecut.g.resources
+D:\program\20240429\program\obj\Release\Onecut.Properties.Resources.resources
+D:\program\20240429\program\obj\Release\Onecut.csproj.GenerateResource.cache
+D:\program\20240429\program\obj\Release\Onecut.csproj.CoreCompileInputs.cache
+D:\program\20240429\program\obj\Release\Onecut.csproj.CopyComplete
+D:\program\20240429\program\obj\Release\Onecut.exe
+D:\program\20240429\program\obj\Release\Onecut.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\dll\x86\opencv_videoio_ffmpeg480.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\dll\x64\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\avcodec-57.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\avdevice-57.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\avfilter-6.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\avformat-57.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\avutil-55.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\postproc-54.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\swresample-2.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\swscale-4.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\log4net.config
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Accord.dll.config
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Onecut.exe.config
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Onecut.exe
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Onecut.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Accord.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Accord.Video.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Azure.Core.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Azure.Storage.Blobs.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Azure.Storage.Common.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\log4net.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MNWiseKakaoTalk.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Npgsql.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\QRCoder.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Syncfusion.Licensing.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.IO.Hashing.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Text.Json.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Threading.Channels.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\WpfAnimatedGif.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\ZstdNet.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Net.Http.Json.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Accord.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Accord.Video.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Azure.Core.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Azure.Storage.Blobs.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Azure.Storage.Common.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\EDSDKLib.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\EDSDKLib.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\log4net.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MNWiseKakaoTalk.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\Npgsql.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\OpenCvSharp.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Drawing.Common.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.IO.Hashing.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Memory.Data.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Text.Json.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Threading.Channels.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\WpfAnimatedGif.pdb
+C:\Users\Administrator\Desktop\20240430 (2)\program\bin\Release\WpfAnimatedGif.xml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\AISelect.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\bankbook.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\ChoicePayment.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\coupon.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\CouponPage.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\creditbook.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\CreditPayment.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Final.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\ImgCompose.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Kakao.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\login.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Main.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\PageSelect.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Password.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Payment.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\paymentcomplete.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Preparing.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\PriewView.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Repair.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectFrameDesign.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectPic.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectPlayer.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectTakePic.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SerialCheck.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SerialCheck2.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\TakePic.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\TempSelect.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\WebCam.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut_Content.g.cs
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut_MarkupCompile.cache
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut_MarkupCompile.lref
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\App.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\AISelect.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\bankbook.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\ChoicePayment.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\coupon.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\CouponPage.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\creditbook.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\CreditPayment.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Final.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\ImgCompose.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Kakao.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\login.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Main.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\PageSelect.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Password.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Payment.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\paymentcomplete.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Preparing.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\PriewView.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\Repair.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectFrameDesign.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectPic.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectPlayer.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SelectTakePic.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SerialCheck.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\SerialCheck2.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\TakePic.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\TempSelect.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\View\WebCam.baml
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.g.resources
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.csproj.CopyComplete
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.exe
+C:\Users\Administrator\Desktop\20240430 (2)\program\obj\Release\Onecut.pdb
+D:\program\20240501\program\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\program\20240501\program\bin\Release\dll\x86\opencv_videoio_ffmpeg480.dll
+D:\program\20240501\program\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\program\20240501\program\bin\Release\dll\x64\opencv_videoio_ffmpeg480_64.dll
+D:\program\20240501\program\bin\Release\avcodec-57.dll
+D:\program\20240501\program\bin\Release\avdevice-57.dll
+D:\program\20240501\program\bin\Release\avfilter-6.dll
+D:\program\20240501\program\bin\Release\avformat-57.dll
+D:\program\20240501\program\bin\Release\avutil-55.dll
+D:\program\20240501\program\bin\Release\postproc-54.dll
+D:\program\20240501\program\bin\Release\swresample-2.dll
+D:\program\20240501\program\bin\Release\swscale-4.dll
+D:\program\20240501\program\bin\Release\log4net.config
+D:\program\20240501\program\bin\Release\Accord.dll.config
+D:\program\20240501\program\bin\Release\Onecut.exe.config
+D:\program\20240501\program\bin\Release\Onecut.exe
+D:\program\20240501\program\bin\Release\Onecut.pdb
+D:\program\20240501\program\bin\Release\Accord.dll
+D:\program\20240501\program\bin\Release\Accord.Video.dll
+D:\program\20240501\program\bin\Release\Accord.Video.FFMPEG.dll
+D:\program\20240501\program\bin\Release\Azure.Core.dll
+D:\program\20240501\program\bin\Release\Azure.Storage.Blobs.dll
+D:\program\20240501\program\bin\Release\Azure.Storage.Common.dll
+D:\program\20240501\program\bin\Release\BouncyCastle.Crypto.dll
+D:\program\20240501\program\bin\Release\Google.Protobuf.dll
+D:\program\20240501\program\bin\Release\K4os.Compression.LZ4.dll
+D:\program\20240501\program\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\program\20240501\program\bin\Release\K4os.Hash.xxHash.dll
+D:\program\20240501\program\bin\Release\log4net.dll
+D:\program\20240501\program\bin\Release\MaterialDesignColors.dll
+D:\program\20240501\program\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\program\20240501\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\program\20240501\program\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\program\20240501\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\program\20240501\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\program\20240501\program\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\program\20240501\program\bin\Release\MNWiseKakaoTalk.dll
+D:\program\20240501\program\bin\Release\MySql.Data.dll
+D:\program\20240501\program\bin\Release\Newtonsoft.Json.dll
+D:\program\20240501\program\bin\Release\Npgsql.dll
+D:\program\20240501\program\bin\Release\OpenCvSharp.dll
+D:\program\20240501\program\bin\Release\OpenCvSharp.Extensions.dll
+D:\program\20240501\program\bin\Release\QRCoder.dll
+D:\program\20240501\program\bin\Release\Syncfusion.Licensing.dll
+D:\program\20240501\program\bin\Release\System.Buffers.dll
+D:\program\20240501\program\bin\Release\System.Collections.Immutable.dll
+D:\program\20240501\program\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\program\20240501\program\bin\Release\System.Drawing.Common.dll
+D:\program\20240501\program\bin\Release\System.IO.Hashing.dll
+D:\program\20240501\program\bin\Release\System.Memory.Data.dll
+D:\program\20240501\program\bin\Release\System.Memory.dll
+D:\program\20240501\program\bin\Release\System.Numerics.Vectors.dll
+D:\program\20240501\program\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\program\20240501\program\bin\Release\System.Text.Encodings.Web.dll
+D:\program\20240501\program\bin\Release\System.Text.Json.dll
+D:\program\20240501\program\bin\Release\System.Threading.Channels.dll
+D:\program\20240501\program\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\program\20240501\program\bin\Release\System.ValueTuple.dll
+D:\program\20240501\program\bin\Release\WpfAnimatedGif.dll
+D:\program\20240501\program\bin\Release\ZstdNet.dll
+D:\program\20240501\program\bin\Release\System.Net.Http.Json.dll
+D:\program\20240501\program\bin\Release\Accord.xml
+D:\program\20240501\program\bin\Release\Accord.Video.xml
+D:\program\20240501\program\bin\Release\Accord.Video.FFMPEG.xml
+D:\program\20240501\program\bin\Release\Azure.Core.xml
+D:\program\20240501\program\bin\Release\Azure.Storage.Blobs.xml
+D:\program\20240501\program\bin\Release\Azure.Storage.Common.xml
+D:\program\20240501\program\bin\Release\BouncyCastle.Crypto.xml
+D:\program\20240501\program\bin\Release\EDSDKLib.pdb
+D:\program\20240501\program\bin\Release\EDSDKLib.xml
+D:\program\20240501\program\bin\Release\Google.Protobuf.pdb
+D:\program\20240501\program\bin\Release\Google.Protobuf.xml
+D:\program\20240501\program\bin\Release\K4os.Compression.LZ4.xml
+D:\program\20240501\program\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\program\20240501\program\bin\Release\K4os.Hash.xxHash.xml
+D:\program\20240501\program\bin\Release\log4net.xml
+D:\program\20240501\program\bin\Release\MaterialDesignColors.pdb
+D:\program\20240501\program\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\program\20240501\program\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\program\20240501\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\program\20240501\program\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\program\20240501\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\program\20240501\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\program\20240501\program\bin\Release\Microsoft.Xaml.Behaviors.pdb
+D:\program\20240501\program\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\program\20240501\program\bin\Release\MNWiseKakaoTalk.pdb
+D:\program\20240501\program\bin\Release\MySql.Data.xml
+D:\program\20240501\program\bin\Release\Newtonsoft.Json.xml
+D:\program\20240501\program\bin\Release\Npgsql.xml
+D:\program\20240501\program\bin\Release\OpenCvSharp.xml
+D:\program\20240501\program\bin\Release\OpenCvSharp.Extensions.xml
+D:\program\20240501\program\bin\Release\System.Buffers.xml
+D:\program\20240501\program\bin\Release\System.Collections.Immutable.xml
+D:\program\20240501\program\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\program\20240501\program\bin\Release\System.Drawing.Common.xml
+D:\program\20240501\program\bin\Release\System.IO.Hashing.xml
+D:\program\20240501\program\bin\Release\System.Memory.xml
+D:\program\20240501\program\bin\Release\System.Memory.Data.xml
+D:\program\20240501\program\bin\Release\System.Numerics.Vectors.xml
+D:\program\20240501\program\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\program\20240501\program\bin\Release\System.Text.Encodings.Web.xml
+D:\program\20240501\program\bin\Release\System.Text.Json.xml
+D:\program\20240501\program\bin\Release\System.Threading.Channels.xml
+D:\program\20240501\program\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\program\20240501\program\bin\Release\System.ValueTuple.xml
+D:\program\20240501\program\bin\Release\WpfAnimatedGif.pdb
+D:\program\20240501\program\bin\Release\WpfAnimatedGif.xml
+D:\program\20240501\program\obj\Release\Onecut.csproj.AssemblyReference.cache
+D:\program\20240501\program\obj\Release\Interop.NetFwTypeLib.dll
+D:\program\20240501\program\obj\Release\Onecut.csproj.ResolveComReference.cache
+D:\program\20240501\program\obj\Release\View\AISelect.g.cs
+D:\program\20240501\program\obj\Release\View\bankbook.g.cs
+D:\program\20240501\program\obj\Release\MainWindow.g.cs
+D:\program\20240501\program\obj\Release\View\ChoicePayment.g.cs
+D:\program\20240501\program\obj\Release\View\coupon.g.cs
+D:\program\20240501\program\obj\Release\View\CouponPage.g.cs
+D:\program\20240501\program\obj\Release\View\creditbook.g.cs
+D:\program\20240501\program\obj\Release\View\CreditPayment.g.cs
+D:\program\20240501\program\obj\Release\View\Final.g.cs
+D:\program\20240501\program\obj\Release\View\ImgCompose.g.cs
+D:\program\20240501\program\obj\Release\View\Kakao.g.cs
+D:\program\20240501\program\obj\Release\View\login.g.cs
+D:\program\20240501\program\obj\Release\View\Main.g.cs
+D:\program\20240501\program\obj\Release\View\PageSelect.g.cs
+D:\program\20240501\program\obj\Release\View\Password.g.cs
+D:\program\20240501\program\obj\Release\View\Payment.g.cs
+D:\program\20240501\program\obj\Release\View\paymentcomplete.g.cs
+D:\program\20240501\program\obj\Release\View\Preparing.g.cs
+D:\program\20240501\program\obj\Release\View\PriewView.g.cs
+D:\program\20240501\program\obj\Release\View\Repair.g.cs
+D:\program\20240501\program\obj\Release\View\SelectFrameDesign.g.cs
+D:\program\20240501\program\obj\Release\View\SelectPic.g.cs
+D:\program\20240501\program\obj\Release\View\SelectPlayer.g.cs
+D:\program\20240501\program\obj\Release\View\SelectTakePic.g.cs
+D:\program\20240501\program\obj\Release\View\SerialCheck.g.cs
+D:\program\20240501\program\obj\Release\View\SerialCheck2.g.cs
+D:\program\20240501\program\obj\Release\View\TakePic.g.cs
+D:\program\20240501\program\obj\Release\View\TempSelect.g.cs
+D:\program\20240501\program\obj\Release\View\WebCam.g.cs
+D:\program\20240501\program\obj\Release\App.g.cs
+D:\program\20240501\program\obj\Release\Onecut_Content.g.cs
+D:\program\20240501\program\obj\Release\Onecut_MarkupCompile.cache
+D:\program\20240501\program\obj\Release\Onecut_MarkupCompile.lref
+D:\program\20240501\program\obj\Release\App.baml
+D:\program\20240501\program\obj\Release\View\AISelect.baml
+D:\program\20240501\program\obj\Release\View\bankbook.baml
+D:\program\20240501\program\obj\Release\MainWindow.baml
+D:\program\20240501\program\obj\Release\View\ChoicePayment.baml
+D:\program\20240501\program\obj\Release\View\coupon.baml
+D:\program\20240501\program\obj\Release\View\CouponPage.baml
+D:\program\20240501\program\obj\Release\View\creditbook.baml
+D:\program\20240501\program\obj\Release\View\CreditPayment.baml
+D:\program\20240501\program\obj\Release\View\Final.baml
+D:\program\20240501\program\obj\Release\View\ImgCompose.baml
+D:\program\20240501\program\obj\Release\View\Kakao.baml
+D:\program\20240501\program\obj\Release\View\login.baml
+D:\program\20240501\program\obj\Release\View\Main.baml
+D:\program\20240501\program\obj\Release\View\PageSelect.baml
+D:\program\20240501\program\obj\Release\View\Password.baml
+D:\program\20240501\program\obj\Release\View\Payment.baml
+D:\program\20240501\program\obj\Release\View\paymentcomplete.baml
+D:\program\20240501\program\obj\Release\View\Preparing.baml
+D:\program\20240501\program\obj\Release\View\PriewView.baml
+D:\program\20240501\program\obj\Release\View\Repair.baml
+D:\program\20240501\program\obj\Release\View\SelectFrameDesign.baml
+D:\program\20240501\program\obj\Release\View\SelectPic.baml
+D:\program\20240501\program\obj\Release\View\SelectPlayer.baml
+D:\program\20240501\program\obj\Release\View\SelectTakePic.baml
+D:\program\20240501\program\obj\Release\View\SerialCheck.baml
+D:\program\20240501\program\obj\Release\View\SerialCheck2.baml
+D:\program\20240501\program\obj\Release\View\TakePic.baml
+D:\program\20240501\program\obj\Release\View\TempSelect.baml
+D:\program\20240501\program\obj\Release\View\WebCam.baml
+D:\program\20240501\program\obj\Release\Onecut.g.resources
+D:\program\20240501\program\obj\Release\Onecut.Properties.Resources.resources
+D:\program\20240501\program\obj\Release\Onecut.csproj.GenerateResource.cache
+D:\program\20240501\program\obj\Release\Onecut.csproj.CoreCompileInputs.cache
+D:\program\20240501\program\obj\Release\Onecut.csproj.CopyComplete
+D:\program\20240501\program\obj\Release\Onecut.exe
+D:\program\20240501\program\obj\Release\Onecut.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\dll\x86\opencv_videoio_ffmpeg480.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\dll\x64\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\avcodec-57.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\avdevice-57.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\avfilter-6.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\avformat-57.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\avutil-55.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\postproc-54.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\swresample-2.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\swscale-4.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\log4net.config
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Accord.dll.config
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Onecut.exe.config
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Onecut.exe
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Onecut.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Accord.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Accord.Video.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Azure.Core.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Azure.Storage.Blobs.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Azure.Storage.Common.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\log4net.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MNWiseKakaoTalk.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Npgsql.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\QRCoder.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Syncfusion.Licensing.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.IO.Hashing.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Text.Json.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Threading.Channels.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\WpfAnimatedGif.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\ZstdNet.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Net.Http.Json.dll
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Accord.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Accord.Video.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Azure.Core.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Azure.Storage.Blobs.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Azure.Storage.Common.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\EDSDKLib.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\EDSDKLib.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\log4net.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MNWiseKakaoTalk.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\Npgsql.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\OpenCvSharp.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Drawing.Common.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.IO.Hashing.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Memory.Data.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Text.Json.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Threading.Channels.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\WpfAnimatedGif.pdb
+C:\Users\Administrator\Desktop\20240502\program\bin\Release\WpfAnimatedGif.xml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\AISelect.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\bankbook.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\ChoicePayment.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\coupon.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\CouponPage.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\creditbook.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\CreditPayment.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Final.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\ImgCompose.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Kakao.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\login.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Main.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\PageSelect.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Password.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Payment.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\paymentcomplete.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Preparing.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\PriewView.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Repair.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectFrameDesign.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectPic.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectPlayer.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectTakePic.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SerialCheck.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SerialCheck2.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\TakePic.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\TempSelect.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\WebCam.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut_Content.g.cs
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut_MarkupCompile.cache
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut_MarkupCompile.lref
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\App.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\AISelect.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\bankbook.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\ChoicePayment.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\coupon.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\CouponPage.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\creditbook.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\CreditPayment.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Final.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\ImgCompose.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Kakao.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\login.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Main.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\PageSelect.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Password.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Payment.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\paymentcomplete.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Preparing.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\PriewView.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\Repair.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectFrameDesign.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectPic.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectPlayer.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SelectTakePic.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SerialCheck.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\SerialCheck2.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\TakePic.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\TempSelect.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\View\WebCam.baml
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.g.resources
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.csproj.CopyComplete
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.exe
+C:\Users\Administrator\Desktop\20240502\program\obj\Release\Onecut.pdb
+D:\program\20240503\program\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\program\20240503\program\bin\Release\dll\x86\opencv_videoio_ffmpeg480.dll
+D:\program\20240503\program\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\program\20240503\program\bin\Release\dll\x64\opencv_videoio_ffmpeg480_64.dll
+D:\program\20240503\program\bin\Release\avcodec-57.dll
+D:\program\20240503\program\bin\Release\avdevice-57.dll
+D:\program\20240503\program\bin\Release\avfilter-6.dll
+D:\program\20240503\program\bin\Release\avformat-57.dll
+D:\program\20240503\program\bin\Release\avutil-55.dll
+D:\program\20240503\program\bin\Release\postproc-54.dll
+D:\program\20240503\program\bin\Release\swresample-2.dll
+D:\program\20240503\program\bin\Release\swscale-4.dll
+D:\program\20240503\program\bin\Release\log4net.config
+D:\program\20240503\program\bin\Release\Accord.dll.config
+D:\program\20240503\program\bin\Release\Onecut.exe.config
+D:\program\20240503\program\bin\Release\Onecut.exe
+D:\program\20240503\program\bin\Release\Onecut.pdb
+D:\program\20240503\program\bin\Release\Accord.dll
+D:\program\20240503\program\bin\Release\Accord.Video.dll
+D:\program\20240503\program\bin\Release\Accord.Video.FFMPEG.dll
+D:\program\20240503\program\bin\Release\Azure.Core.dll
+D:\program\20240503\program\bin\Release\Azure.Storage.Blobs.dll
+D:\program\20240503\program\bin\Release\Azure.Storage.Common.dll
+D:\program\20240503\program\bin\Release\BouncyCastle.Crypto.dll
+D:\program\20240503\program\bin\Release\Google.Protobuf.dll
+D:\program\20240503\program\bin\Release\K4os.Compression.LZ4.dll
+D:\program\20240503\program\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\program\20240503\program\bin\Release\K4os.Hash.xxHash.dll
+D:\program\20240503\program\bin\Release\log4net.dll
+D:\program\20240503\program\bin\Release\MaterialDesignColors.dll
+D:\program\20240503\program\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\program\20240503\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\program\20240503\program\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\program\20240503\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\program\20240503\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\program\20240503\program\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\program\20240503\program\bin\Release\MNWiseKakaoTalk.dll
+D:\program\20240503\program\bin\Release\MySql.Data.dll
+D:\program\20240503\program\bin\Release\Newtonsoft.Json.dll
+D:\program\20240503\program\bin\Release\Npgsql.dll
+D:\program\20240503\program\bin\Release\OpenCvSharp.dll
+D:\program\20240503\program\bin\Release\OpenCvSharp.Extensions.dll
+D:\program\20240503\program\bin\Release\QRCoder.dll
+D:\program\20240503\program\bin\Release\Syncfusion.Licensing.dll
+D:\program\20240503\program\bin\Release\System.Buffers.dll
+D:\program\20240503\program\bin\Release\System.Collections.Immutable.dll
+D:\program\20240503\program\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\program\20240503\program\bin\Release\System.Drawing.Common.dll
+D:\program\20240503\program\bin\Release\System.IO.Hashing.dll
+D:\program\20240503\program\bin\Release\System.Memory.Data.dll
+D:\program\20240503\program\bin\Release\System.Memory.dll
+D:\program\20240503\program\bin\Release\System.Numerics.Vectors.dll
+D:\program\20240503\program\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\program\20240503\program\bin\Release\System.Text.Encodings.Web.dll
+D:\program\20240503\program\bin\Release\System.Text.Json.dll
+D:\program\20240503\program\bin\Release\System.Threading.Channels.dll
+D:\program\20240503\program\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\program\20240503\program\bin\Release\System.ValueTuple.dll
+D:\program\20240503\program\bin\Release\WpfAnimatedGif.dll
+D:\program\20240503\program\bin\Release\ZstdNet.dll
+D:\program\20240503\program\bin\Release\System.Net.Http.Json.dll
+D:\program\20240503\program\bin\Release\Accord.xml
+D:\program\20240503\program\bin\Release\Accord.Video.xml
+D:\program\20240503\program\bin\Release\Accord.Video.FFMPEG.xml
+D:\program\20240503\program\bin\Release\Azure.Core.xml
+D:\program\20240503\program\bin\Release\Azure.Storage.Blobs.xml
+D:\program\20240503\program\bin\Release\Azure.Storage.Common.xml
+D:\program\20240503\program\bin\Release\BouncyCastle.Crypto.xml
+D:\program\20240503\program\bin\Release\EDSDKLib.pdb
+D:\program\20240503\program\bin\Release\EDSDKLib.xml
+D:\program\20240503\program\bin\Release\Google.Protobuf.pdb
+D:\program\20240503\program\bin\Release\Google.Protobuf.xml
+D:\program\20240503\program\bin\Release\K4os.Compression.LZ4.xml
+D:\program\20240503\program\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\program\20240503\program\bin\Release\K4os.Hash.xxHash.xml
+D:\program\20240503\program\bin\Release\log4net.xml
+D:\program\20240503\program\bin\Release\MaterialDesignColors.pdb
+D:\program\20240503\program\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\program\20240503\program\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\program\20240503\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\program\20240503\program\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\program\20240503\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\program\20240503\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\program\20240503\program\bin\Release\Microsoft.Xaml.Behaviors.pdb
+D:\program\20240503\program\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\program\20240503\program\bin\Release\MNWiseKakaoTalk.pdb
+D:\program\20240503\program\bin\Release\MySql.Data.xml
+D:\program\20240503\program\bin\Release\Newtonsoft.Json.xml
+D:\program\20240503\program\bin\Release\Npgsql.xml
+D:\program\20240503\program\bin\Release\OpenCvSharp.xml
+D:\program\20240503\program\bin\Release\OpenCvSharp.Extensions.xml
+D:\program\20240503\program\bin\Release\System.Buffers.xml
+D:\program\20240503\program\bin\Release\System.Collections.Immutable.xml
+D:\program\20240503\program\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\program\20240503\program\bin\Release\System.Drawing.Common.xml
+D:\program\20240503\program\bin\Release\System.IO.Hashing.xml
+D:\program\20240503\program\bin\Release\System.Memory.xml
+D:\program\20240503\program\bin\Release\System.Memory.Data.xml
+D:\program\20240503\program\bin\Release\System.Numerics.Vectors.xml
+D:\program\20240503\program\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\program\20240503\program\bin\Release\System.Text.Encodings.Web.xml
+D:\program\20240503\program\bin\Release\System.Text.Json.xml
+D:\program\20240503\program\bin\Release\System.Threading.Channels.xml
+D:\program\20240503\program\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\program\20240503\program\bin\Release\System.ValueTuple.xml
+D:\program\20240503\program\bin\Release\WpfAnimatedGif.pdb
+D:\program\20240503\program\bin\Release\WpfAnimatedGif.xml
+D:\program\20240503\program\obj\Release\Onecut.csproj.AssemblyReference.cache
+D:\program\20240503\program\obj\Release\Interop.NetFwTypeLib.dll
+D:\program\20240503\program\obj\Release\Onecut.csproj.ResolveComReference.cache
+D:\program\20240503\program\obj\Release\View\AISelect.g.cs
+D:\program\20240503\program\obj\Release\View\bankbook.g.cs
+D:\program\20240503\program\obj\Release\MainWindow.g.cs
+D:\program\20240503\program\obj\Release\View\ChoicePayment.g.cs
+D:\program\20240503\program\obj\Release\View\coupon.g.cs
+D:\program\20240503\program\obj\Release\View\CouponPage.g.cs
+D:\program\20240503\program\obj\Release\View\creditbook.g.cs
+D:\program\20240503\program\obj\Release\View\CreditPayment.g.cs
+D:\program\20240503\program\obj\Release\View\Final.g.cs
+D:\program\20240503\program\obj\Release\View\ImgCompose.g.cs
+D:\program\20240503\program\obj\Release\View\Kakao.g.cs
+D:\program\20240503\program\obj\Release\View\login.g.cs
+D:\program\20240503\program\obj\Release\View\Main.g.cs
+D:\program\20240503\program\obj\Release\View\PageSelect.g.cs
+D:\program\20240503\program\obj\Release\View\Password.g.cs
+D:\program\20240503\program\obj\Release\View\Payment.g.cs
+D:\program\20240503\program\obj\Release\View\paymentcomplete.g.cs
+D:\program\20240503\program\obj\Release\View\Preparing.g.cs
+D:\program\20240503\program\obj\Release\View\PriewView.g.cs
+D:\program\20240503\program\obj\Release\View\Repair.g.cs
+D:\program\20240503\program\obj\Release\View\SelectFrameDesign.g.cs
+D:\program\20240503\program\obj\Release\View\SelectPic.g.cs
+D:\program\20240503\program\obj\Release\View\SelectPlayer.g.cs
+D:\program\20240503\program\obj\Release\View\SelectTakePic.g.cs
+D:\program\20240503\program\obj\Release\View\SerialCheck.g.cs
+D:\program\20240503\program\obj\Release\View\SerialCheck2.g.cs
+D:\program\20240503\program\obj\Release\View\TakePic.g.cs
+D:\program\20240503\program\obj\Release\View\TempSelect.g.cs
+D:\program\20240503\program\obj\Release\View\WebCam.g.cs
+D:\program\20240503\program\obj\Release\App.g.cs
+D:\program\20240503\program\obj\Release\Onecut_Content.g.cs
+D:\program\20240503\program\obj\Release\Onecut_MarkupCompile.cache
+D:\program\20240503\program\obj\Release\Onecut_MarkupCompile.lref
+D:\program\20240503\program\obj\Release\App.baml
+D:\program\20240503\program\obj\Release\View\AISelect.baml
+D:\program\20240503\program\obj\Release\View\bankbook.baml
+D:\program\20240503\program\obj\Release\MainWindow.baml
+D:\program\20240503\program\obj\Release\View\ChoicePayment.baml
+D:\program\20240503\program\obj\Release\View\coupon.baml
+D:\program\20240503\program\obj\Release\View\CouponPage.baml
+D:\program\20240503\program\obj\Release\View\creditbook.baml
+D:\program\20240503\program\obj\Release\View\CreditPayment.baml
+D:\program\20240503\program\obj\Release\View\Final.baml
+D:\program\20240503\program\obj\Release\View\ImgCompose.baml
+D:\program\20240503\program\obj\Release\View\Kakao.baml
+D:\program\20240503\program\obj\Release\View\login.baml
+D:\program\20240503\program\obj\Release\View\Main.baml
+D:\program\20240503\program\obj\Release\View\PageSelect.baml
+D:\program\20240503\program\obj\Release\View\Password.baml
+D:\program\20240503\program\obj\Release\View\Payment.baml
+D:\program\20240503\program\obj\Release\View\paymentcomplete.baml
+D:\program\20240503\program\obj\Release\View\Preparing.baml
+D:\program\20240503\program\obj\Release\View\PriewView.baml
+D:\program\20240503\program\obj\Release\View\Repair.baml
+D:\program\20240503\program\obj\Release\View\SelectFrameDesign.baml
+D:\program\20240503\program\obj\Release\View\SelectPic.baml
+D:\program\20240503\program\obj\Release\View\SelectPlayer.baml
+D:\program\20240503\program\obj\Release\View\SelectTakePic.baml
+D:\program\20240503\program\obj\Release\View\SerialCheck.baml
+D:\program\20240503\program\obj\Release\View\SerialCheck2.baml
+D:\program\20240503\program\obj\Release\View\TakePic.baml
+D:\program\20240503\program\obj\Release\View\TempSelect.baml
+D:\program\20240503\program\obj\Release\View\WebCam.baml
+D:\program\20240503\program\obj\Release\Onecut.g.resources
+D:\program\20240503\program\obj\Release\Onecut.Properties.Resources.resources
+D:\program\20240503\program\obj\Release\Onecut.csproj.GenerateResource.cache
+D:\program\20240503\program\obj\Release\Onecut.csproj.CoreCompileInputs.cache
+D:\program\20240503\program\obj\Release\Onecut.csproj.CopyComplete
+D:\program\20240503\program\obj\Release\Onecut.exe
+D:\program\20240503\program\obj\Release\Onecut.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\dll\x86\opencv_videoio_ffmpeg480.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\dll\x64\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\avcodec-57.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\avdevice-57.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\avfilter-6.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\avformat-57.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\avutil-55.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\postproc-54.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\swresample-2.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\swscale-4.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\log4net.config
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Accord.dll.config
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Onecut.exe.config
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Onecut.exe
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Onecut.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Accord.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Accord.Video.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Azure.Core.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Azure.Storage.Blobs.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Azure.Storage.Common.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\log4net.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MNWiseKakaoTalk.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Npgsql.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\QRCoder.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Syncfusion.Licensing.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.IO.Hashing.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Text.Json.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Threading.Channels.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\WpfAnimatedGif.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\ZstdNet.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Net.Http.Json.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Accord.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Accord.Video.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Azure.Core.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Azure.Storage.Blobs.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Azure.Storage.Common.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\EDSDKLib.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\EDSDKLib.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\log4net.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MNWiseKakaoTalk.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\Npgsql.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\OpenCvSharp.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Drawing.Common.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.IO.Hashing.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Memory.Data.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Text.Json.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Threading.Channels.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\WpfAnimatedGif.pdb
+C:\Users\Administrator\Desktop\20240503 (2)\program\bin\Release\WpfAnimatedGif.xml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\AISelect.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\bankbook.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\ChoicePayment.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\coupon.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\CouponPage.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\creditbook.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\CreditPayment.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Final.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\ImgCompose.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Kakao.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\login.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Main.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\PageSelect.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Password.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Payment.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\paymentcomplete.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Preparing.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\PriewView.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Repair.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectFrameDesign.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectPic.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectPlayer.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectTakePic.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SerialCheck.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SerialCheck2.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\TakePic.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\TempSelect.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\WebCam.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut_Content.g.cs
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut_MarkupCompile.cache
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut_MarkupCompile.lref
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\App.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\AISelect.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\bankbook.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\ChoicePayment.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\coupon.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\CouponPage.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\creditbook.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\CreditPayment.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Final.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\ImgCompose.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Kakao.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\login.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Main.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\PageSelect.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Password.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Payment.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\paymentcomplete.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Preparing.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\PriewView.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\Repair.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectFrameDesign.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectPic.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectPlayer.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SelectTakePic.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SerialCheck.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\SerialCheck2.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\TakePic.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\TempSelect.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\View\WebCam.baml
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.g.resources
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.csproj.CopyComplete
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.exe
+C:\Users\Administrator\Desktop\20240503 (2)\program\obj\Release\Onecut.pdb

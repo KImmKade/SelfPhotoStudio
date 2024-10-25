@@ -1,0 +1,28 @@
+﻿<Page x:Class="Onecut.View.SelectFrameDesign"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Onecut.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="SelectFrameDesign" Background="White">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="BackgroundImg"/>
+        <Image x:Name="Design1front" Width="86" Height="238" Margin="258,289,1576,553" MouseLeftButtonDown="Design1front_MouseLeftButtonDown" Opacity="0"/>
+        <Image x:Name="Design2front" Width="86" Height="238" Margin="444,289,1390,553" MouseLeftButtonDown="Design2front_MouseLeftButtonDown" Opacity="0"/>
+        <Image x:Name="Design3front" Width="86" Height="238" Margin="630,289,1204,553" MouseLeftButtonDown="Design3front_MouseLeftButtonDown" Opacity="0"/>
+        <Image x:Name="Design4front" Width="86" Height="238" Margin="816,289,1018,553" MouseLeftButtonDown="Design4front_MouseLeftButtonDown" Opacity="0"/>
+
+        <Image x:Name="Design5front" Width="86" Height="238" Margin="258,552,1576,290" MouseLeftButtonDown="Design5front_MouseLeftButtonDown" Opacity="0"/>
+        <Image x:Name="Design6front" Width="86" Height="238" Margin="444,552,1390,290" MouseLeftButtonDown="Design6front_MouseLeftButtonDown" Opacity="0"/>
+        <Image x:Name="Design7front" Width="86" Height="238" Margin="630,552,1204,290" MouseLeftButtonDown="Design7front_MouseLeftButtonDown" Opacity="0"/>
+        <Image x:Name="Design8front" Width="86" Height="238" Margin="816,552,1018,290" MouseLeftButtonDown="Design8front_MouseLeftButtonDown" Opacity="0"/>
+        <Border x:Name="firstpicborder" Background="White" BorderBrush="#eaeaea" BorderThickness="3,3,3,3" Margin="1311,193,378,206"/>
+        <Image x:Name="PriewViewIMG" Width="225" Height="675" Margin="1314,196,381,209"/>
+        <Image x:Name="NextImg" Width="370" Height="100" Margin="979,927,571,53" Stretch="Fill" MouseLeftButtonDown="NextImg_MouseLeftButtonDown"/>
+        <Image x:Name="BackBtn" Width="370" Height="100" Margin="569,927,981,53" Stretch="Fill" IsEnabled="False" MouseLeftButtonDown="BackBtn_MouseLeftButtonDown"/>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1720,41,0,0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</Page>

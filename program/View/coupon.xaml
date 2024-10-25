@@ -1,0 +1,33 @@
+﻿<Page x:Class="wpfTest.View.coupon"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      xmlns:gif="http://wpfanimatedgif.codeplex.com"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920" Background="White"
+      Title="coupon">
+
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="Backgroundimg"/>
+        <Image x:Name="Kakaobtn" Width="213" Height="72" Margin="1586,436,75,571" Opacity="0.25" IsEnabled="False" MouseLeftButtonDown="Kakaobtn_MouseLeftButtonDown"/>
+        <Image x:Name="NoKakaobtn" Width="213" Height="72" Margin="1586,571,75,436" MouseLeftButtonDown="NoKakaobtn_MouseLeftButtonDown"/>
+        <Image x:Name="Key_1" Width="91" Height="91" Margin="1126,339,703,650" MouseLeftButtonDown="Key_1_MouseLeftButtonDown"/>
+        <Image x:Name="Key_2" Width="91" Height="91" Margin="1228,339,600,650" MouseLeftButtonDown="Key_2_MouseLeftButtonDown"/>
+        <Image x:Name="Key_3" Width="91" Height="91" Margin="1328,339,501,650" MouseLeftButtonDown="Key_3_MouseLeftButtonDown"/>
+        <Image x:Name="Key_4" Width="91" Height="91" Margin="1126,440,703,548" MouseLeftButtonDown="Key_4_MouseLeftButtonDown"/>
+        <Image x:Name="Key_5" Width="91" Height="91" Margin="1224,436,596,544" MouseLeftButtonDown="Key_5_MouseLeftButtonDown"/>
+        <Image x:Name="Key_6" Width="91" Height="91" Margin="1328,440,501,548" MouseLeftButtonDown="Key_6_MouseLeftButtonDown"/>
+        <Image x:Name="Key_7" Width="91" Height="91" Margin="1126,540,703,449" MouseLeftButtonDown="Key_7_MouseLeftButtonDown"/>
+        <Image x:Name="Key_8" Width="91" Height="91" Margin="1228,540,600,449" MouseLeftButtonDown="Key_8_MouseLeftButtonDown"/>
+        <Image x:Name="Key_9" Width="91" Height="91" Margin="1328,540,501,449" MouseLeftButtonDown="Key_9_MouseLeftButtonDown"/>
+        <Image x:Name="Key_0" Width="91" Height="91" Margin="1126,642,703,347" MouseLeftButtonDown="Key_0_MouseLeftButtonDown"/>
+        <Image x:Name="Key_Del" Width="194" Height="91" Margin="1228,642,498,347" MouseLeftButtonDown="Key_Del_MouseLeftButtonDown"/>
+        <Image x:Name="QRCode" Width="172" Height="172" Opacity="0" Margin="872,347,876,561"/>
+        <Image x:Name="QRCodegif" gif:ImageBehavior.RepeatBehavior="Forever" gif:ImageBehavior.AnimatedSource="/Resources/loading.gif" Opacity="0" Width="172" Height="172" Margin="872,347,876,561"/>
+        <TextBlock x:Name="Phonenumbertext" Height="100" Margin="458,441,845,539" FontSize="55" TextAlignment="Center"  FontWeight="Bold" FontFamily="Arial" ></TextBlock>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1691,107,29,0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</Page>

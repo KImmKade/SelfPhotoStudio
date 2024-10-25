@@ -1,0 +1,350 @@
+2023-12-25 13:35:37,198 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:35:39,308 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:35:39,590 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:35:39,592 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:35:39,593 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:35:39,594 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:35:39,594 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:35:40,491 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:35:40,526 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:35:40,551 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:35:41,318 [1] ERROR wpfTest.Source.Log - OpenSession() - SESSION_NOT_OPEN
+2023-12-25 13:35:41,621 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:35:41,644 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-12-25 13:35:41,646 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-12-25 13:35:41,649 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-12-25 13:35:42,345 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-12-25 13:35:45,083 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2023-12-25 13:35:46,095 [1] INFO wpfTest.Source.Log - Main Level 타이머 종료
+2023-12-25 13:35:46,331 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-12-25 13:35:46,355 [1] INFO wpfTest.Source.Log - 옵션 메뉴 이동
+2023-12-25 13:35:46,373 [1] INFO wpfTest.Source.Log - 옵션 페이지 진입
+2023-12-25 13:35:46,835 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 옵션페이지 셋팅값 로딩
+2023-12-25 13:35:46,970 [1] DEBUG wpfTest.Source.Log - LoadSetting() | 로드된 값 세팅
+2023-12-25 13:35:46,971 [1] DEBUG wpfTest.Source.Log - BUse_Checked() | 지폐기 사용 클릭
+2023-12-25 13:35:46,972 [1] DEBUG wpfTest.Source.Log - CheckSerial() | 지폐기 자동연결 작동
+2023-12-25 13:35:47,014 [1] INFO wpfTest.Source.Log - CardCheckSerial() - 동작 | 카드 리더기 자동연결
+2023-12-25 13:35:47,044 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | 캐논 카메라 체크
+2023-12-25 13:35:47,044 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | 타이머 사용 체크
+2023-12-25 13:35:47,044 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | 페이지 타이머 변경
+2023-12-25 13:35:47,075 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | 돈 셋팅 변경
+2023-12-25 13:35:47,106 [1] INFO wpfTest.Source.Log - PageSettingMoney_SelectionChanged() - 동작
+2023-12-25 13:35:47,106 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | 포토 타임 변경
+2023-12-25 13:35:47,134 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx 변경
+2023-12-25 13:35:47,163 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety 변경
+2023-12-25 13:35:47,187 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX 변경
+2023-12-25 13:35:47,207 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY 변경
+2023-12-25 13:35:47,208 [1] DEBUG wpfTest.Source.Log - TempSelectCB_SelectionChanged() | 템플릿 번호 변경
+2023-12-25 13:35:47,238 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | 좌우반전 사용안함
+2023-12-25 13:35:47,254 [1] INFO wpfTest.Source.Log - 세션 열림
+2023-12-25 13:35:47,544 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2023-12-25 13:35:47,570 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2023-12-25 13:35:47,598 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2023-12-25 13:35:49,240 [1] INFO wpfTest.Source.Log - PassWord 창 진입
+2023-12-25 13:35:49,262 [1] INFO wpfTest.Source.Log - 관리자 로그인페이지 접속
+2023-12-25 13:35:50,868 [1] INFO wpfTest.Source.Log - 관리자 로그인 페이지 닫음
+2023-12-25 13:35:51,536 [1] DEBUG wpfTest.Source.Log - BNotUse_Checked() | 지폐기 사용안함 클릭
+2023-12-25 13:35:52,934 [1] DEBUG wpfTest.Source.Log - button_Click() | 저장버튼 클릭
+2023-12-25 13:35:53,244 [1] DEBUG wpfTest.Source.Log - ToMain_Click() | 메인 버튼 클릭
+2023-12-25 13:35:53,755 [1] DEBUG wpfTest.Source.Log - CloseSession() | 세션 닫힘
+2023-12-25 13:35:53,990 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2023-12-25 13:35:53,990 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2023-12-25 13:35:53,991 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2023-12-25 13:35:54,680 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:35:54,741 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:35:54,742 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:35:55,132 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:35:58,074 [1] DEBUG wpfTest.Source.Log - Touchimg_MouseLeftButtonDown() | PageSelct 페이지로 가는 버튼 클릭
+2023-12-25 13:35:58,308 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-12-25 13:35:58,337 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:35:58,385 [1] INFO wpfTest.Source.Log - TempSelect Level 진입
+2023-12-25 13:35:58,389 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:35:59,586 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - 동작
+2023-12-25 13:35:59,587 [1] INFO wpfTest.Source.Log - 선택한 템플릿 : 1
+2023-12-25 13:35:59,644 [1] INFO wpfTest.Source.Log - PageSelect Level 진입
+2023-12-25 13:35:59,651 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect 세팅 로딩
+2023-12-25 13:35:59,748 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:35:59,748 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:36:01,439 [1] INFO wpfTest.Source.Log - pageimg2_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:01,439 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:01,904 [1] INFO wpfTest.Source.Log - pageimg2_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:01,913 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:02,297 [1] INFO wpfTest.Source.Log - pageimg2_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:02,307 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:02,994 [1] INFO wpfTest.Source.Log - pageimg1_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:03,002 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:03,142 [1] INFO wpfTest.Source.Log - pageimg1_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:03,161 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:03,279 [1] INFO wpfTest.Source.Log - pageimg1_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:03,299 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:06,037 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:36:06,037 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-12-25 13:36:48,551 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:36:50,612 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:36:51,165 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:36:51,166 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:36:51,167 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:36:51,168 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:36:51,168 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:36:51,930 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:36:51,989 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:36:52,009 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:36:52,544 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:36:53,268 [1] DEBUG wpfTest.Source.Log - Touchimg_MouseLeftButtonDown() | PageSelct 페이지로 가는 버튼 클릭
+2023-12-25 13:36:53,503 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-12-25 13:36:53,519 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:36:53,536 [1] INFO wpfTest.Source.Log - TempSelect Level 진입
+2023-12-25 13:36:53,541 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:36:54,398 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - 동작
+2023-12-25 13:36:54,410 [1] INFO wpfTest.Source.Log - 선택한 템플릿 : 1
+2023-12-25 13:36:54,462 [1] INFO wpfTest.Source.Log - PageSelect Level 진입
+2023-12-25 13:36:54,470 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect 세팅 로딩
+2023-12-25 13:36:54,543 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:54,543 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:36:55,555 [1] INFO wpfTest.Source.Log - pageimg2_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:55,555 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:55,671 [1] INFO wpfTest.Source.Log - pageimg2_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:55,681 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:56,440 [1] INFO wpfTest.Source.Log - pageimg1_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:56,446 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:56,556 [1] INFO wpfTest.Source.Log - pageimg1_MouseLeftButtonDown() | 동작 | PageSelect 페이지
+2023-12-25 13:36:56,571 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:36:57,196 [1] DEBUG wpfTest.Source.Log - NextBtn_MouseLeftButtonDown() | 다음 버튼 클릭
+2023-12-25 13:36:57,196 [1] INFO wpfTest.Source.Log - 선택한 장 수 : 2
+2023-12-25 13:36:57,234 [1] INFO wpfTest.Source.Log - 캐논 촬영 페이지 진입
+2023-12-25 13:36:57,240 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:36:57,684 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 1000
+2023-12-25 13:37:00,719 [1] INFO wpfTest.Source.Log - screenCapture = new ScreenCaptureStream(recordingArea);
+2023-12-25 13:37:00,757 [1] INFO wpfTest.Source.Log - videoWriter = new VideoFileWriter();
+2023-12-25 13:37:00,843 [1] INFO wpfTest.Source.Log - videoWriter.Open(outputFileName, recordingArea.Width, recordingArea.Height, 30, VideoCodec.H264, 1000000);
+2023-12-25 13:37:10,414 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:37:10,414 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:37:10,915 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0001.JPG 좌표값 : 0, 0
+2023-12-25 13:37:11,534 [1] INFO wpfTest.Source.Log - pic1 = 540, 540
+2023-12-25 13:37:11,534 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:37:21,392 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:37:21,392 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:37:21,892 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0002.JPG 좌표값 : 0, 0
+2023-12-25 13:37:22,436 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:37:32,128 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:37:32,128 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:37:32,641 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0003.JPG 좌표값 : 0, 0
+2023-12-25 13:37:33,146 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:37:42,912 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:37:42,912 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:37:43,412 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0004.JPG 좌표값 : 0, 0
+2023-12-25 13:37:43,923 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:37:53,644 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:37:53,644 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:37:54,145 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0005.JPG 좌표값 : 0, 0
+2023-12-25 13:37:54,756 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 200
+2023-12-25 13:37:55,112 [1] DEBUG wpfTest.Source.Log - nextpage() 구동 | 캐논 카메라
+2023-12-25 13:37:55,153 [1] INFO wpfTest.Source.Log - CameraDispose() - 카메라연결해제 실행
+2023-12-25 13:37:55,153 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 1000
+2023-12-25 13:37:56,173 [1] INFO wpfTest.Source.Log - CloseSession() - 동작
+2023-12-25 13:37:56,429 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 1000
+2023-12-25 13:37:57,596 [1] INFO wpfTest.Source.Log - Dispose() - 동작
+2023-12-25 13:37:57,610 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:37:58,324 [1] INFO wpfTest.Source.Log - SelectPic 구역 진입
+2023-12-25 13:37:58,336 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:38:01,930 [1] INFO wpfTest.Source.Log - FifthpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:02,124 [1] INFO wpfTest.Source.Log - FifthpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:02,337 [1] INFO wpfTest.Source.Log - SecondpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:02,892 [1] INFO wpfTest.Source.Log - FifthpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:03,188 [1] INFO wpfTest.Source.Log - FourthpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:03,832 [1] INFO wpfTest.Source.Log - nextpage_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:03,845 [1] INFO wpfTest.Source.Log - dispose() - 동작
+2023-12-25 13:38:03,893 [1] INFO wpfTest.Source.Log - Preparing 페이지 진입
+2023-12-25 13:38:03,895 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:38:03,948 [1] INFO wpfTest.Source.Log - PrePring페이지 타이머 시작
+2023-12-25 13:38:05,143 [1] INFO wpfTest.Source.Log - ImgCompose Level 진입
+2023-12-25 13:38:05,148 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ImgCompose 셋팅값 로드
+2023-12-25 13:38:05,163 [1] INFO wpfTest.Source.Log - UI 배치 완료
+2023-12-25 13:38:05,461 [1] INFO wpfTest.Source.Log - front 이미지 로드 완료
+2023-12-25 13:38:05,461 [1] INFO wpfTest.Source.Log - UI 버튼 위치 배치 완료
+2023-12-25 13:38:07,046 [1] DEBUG wpfTest.Source.Log - Imgshow() | 이미지 합성 시작
+2023-12-25 13:38:07,083 [1] INFO wpfTest.Source.Log - imgshow 완료
+2023-12-25 13:38:07,083 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:38:08,336 [1] INFO wpfTest.Source.Log - color6_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:08,336 [1] DEBUG wpfTest.Source.Log - Imgshow() | 이미지 합성 시작
+2023-12-25 13:38:09,053 [1] INFO wpfTest.Source.Log - costom10_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:09,069 [1] DEBUG wpfTest.Source.Log - Imgshow() | 이미지 합성 시작
+2023-12-25 13:38:11,674 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:38:11,674 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-12-25 13:38:19,417 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:38:20,895 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:38:21,111 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:38:21,112 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:38:21,113 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:38:21,113 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:38:21,114 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:38:21,592 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:38:21,600 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:38:21,616 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:38:22,067 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:38:22,764 [1] DEBUG wpfTest.Source.Log - Touchimg_MouseLeftButtonDown() | PageSelct 페이지로 가는 버튼 클릭
+2023-12-25 13:38:22,999 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-12-25 13:38:23,015 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:38:23,032 [1] INFO wpfTest.Source.Log - TempSelect Level 진입
+2023-12-25 13:38:23,037 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:38:23,667 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - 동작
+2023-12-25 13:38:23,678 [1] INFO wpfTest.Source.Log - 선택한 템플릿 : 1
+2023-12-25 13:38:23,740 [1] INFO wpfTest.Source.Log - PageSelect Level 진입
+2023-12-25 13:38:23,750 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect 세팅 로딩
+2023-12-25 13:38:23,814 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-12-25 13:38:23,814 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:38:25,048 [1] DEBUG wpfTest.Source.Log - NextBtn_MouseLeftButtonDown() | 다음 버튼 클릭
+2023-12-25 13:38:25,048 [1] INFO wpfTest.Source.Log - 선택한 장 수 : 2
+2023-12-25 13:38:25,078 [1] INFO wpfTest.Source.Log - 캐논 촬영 페이지 진입
+2023-12-25 13:38:25,084 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:38:25,541 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 1000
+2023-12-25 13:38:27,092 [1] INFO wpfTest.Source.Log - screenCapture = new ScreenCaptureStream(recordingArea);
+2023-12-25 13:38:27,102 [1] INFO wpfTest.Source.Log - videoWriter = new VideoFileWriter();
+2023-12-25 13:38:27,126 [1] INFO wpfTest.Source.Log - videoWriter.Open(outputFileName, recordingArea.Width, recordingArea.Height, 30, VideoCodec.H264, 1000000);
+2023-12-25 13:38:36,627 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:38:36,627 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:38:37,130 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0001.JPG 좌표값 : 0, 0
+2023-12-25 13:38:37,744 [1] INFO wpfTest.Source.Log - pic1 = 540, 540
+2023-12-25 13:38:37,745 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:38:47,644 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:38:47,645 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:38:48,145 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0002.JPG 좌표값 : 0, 0
+2023-12-25 13:38:48,731 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:38:58,427 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:38:58,428 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:38:58,942 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0003.JPG 좌표값 : 0, 0
+2023-12-25 13:38:59,493 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:39:09,271 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:39:09,272 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:39:09,777 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0004.JPG 좌표값 : 0, 0
+2023-12-25 13:39:10,314 [1] INFO wpfTest.Source.Log - 캐논타이머 시작
+2023-12-25 13:39:20,068 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-12-25 13:39:20,070 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:39:20,571 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | 좌우반전 구동 | 이미지위치 : D:\업체\납품\해외\호주\wpfTest\bin\Release\IMG\Photo\IMG_0005.JPG 좌표값 : 0, 0
+2023-12-25 13:39:21,176 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 200
+2023-12-25 13:39:21,378 [1] DEBUG wpfTest.Source.Log - nextpage() 구동 | 캐논 카메라
+2023-12-25 13:39:21,435 [1] INFO wpfTest.Source.Log - CameraDispose() - 카메라연결해제 실행
+2023-12-25 13:39:21,436 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 1000
+2023-12-25 13:39:22,438 [1] INFO wpfTest.Source.Log - CloseSession() - 동작
+2023-12-25 13:39:22,689 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 1000
+2023-12-25 13:39:23,705 [1] INFO wpfTest.Source.Log - Dispose() - 동작
+2023-12-25 13:39:23,719 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 500
+2023-12-25 13:39:24,381 [1] INFO wpfTest.Source.Log - SelectPic 구역 진입
+2023-12-25 13:39:24,389 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:39:33,125 [1] INFO wpfTest.Source.Log - FifthpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:39:33,719 [1] INFO wpfTest.Source.Log - FirstpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:39:33,872 [1] INFO wpfTest.Source.Log - SecondpicFront_MouseLeftButtonDown() - 동작
+2023-12-25 13:39:34,525 [1] INFO wpfTest.Source.Log - nextpage_MouseLeftButtonDown() - 동작
+2023-12-25 13:39:34,537 [1] INFO wpfTest.Source.Log - dispose() - 동작
+2023-12-25 13:39:34,576 [1] INFO wpfTest.Source.Log - Preparing 페이지 진입
+2023-12-25 13:39:34,579 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-12-25 13:39:34,593 [1] INFO wpfTest.Source.Log - PrePring페이지 타이머 시작
+2023-12-25 13:39:35,659 [1] INFO wpfTest.Source.Log - ImgCompose Level 진입
+2023-12-25 13:39:35,666 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ImgCompose 셋팅값 로드
+2023-12-25 13:39:35,684 [1] INFO wpfTest.Source.Log - UI 배치 완료
+2023-12-25 13:39:35,814 [1] INFO wpfTest.Source.Log - front 이미지 로드 완료
+2023-12-25 13:39:35,815 [1] INFO wpfTest.Source.Log - UI 버튼 위치 배치 완료
+2023-12-25 13:39:37,287 [1] DEBUG wpfTest.Source.Log - Imgshow() | 이미지 합성 시작
+2023-12-25 13:39:37,332 [1] INFO wpfTest.Source.Log - imgshow 완료
+2023-12-25 13:39:37,333 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:39:43,397 [1] INFO wpfTest.Source.Log - color8_MouseLeftButtonDown() - 동작
+2023-12-25 13:39:43,401 [1] DEBUG wpfTest.Source.Log - Imgshow() | 이미지 합성 시작
+2023-12-25 13:39:43,852 [1] INFO wpfTest.Source.Log - costom7_MouseLeftButtonDown() - 동작
+2023-12-25 13:39:43,863 [1] DEBUG wpfTest.Source.Log - Imgshow() | 이미지 합성 시작
+2023-12-25 13:39:44,364 [1] DEBUG wpfTest.Source.Log - PrintBtn_MouseLeftButtonDown() | 프린트 이미지 클릭
+2023-12-25 13:39:44,380 [1] INFO wpfTest.Source.Log - 타이머 멈춤
+2023-12-25 13:39:44,765 [1] INFO wpfTest.Source.Log - KakaoPage진입
+2023-12-25 13:39:44,766 [25] INFO wpfTest.Source.Log - printthread() - 동작
+2023-12-25 13:39:45,264 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작 | KakaoPage
+2023-12-25 13:39:45,270 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 끝| KakaoPage
+2023-12-25 13:39:45,760 [25] INFO wpfTest.Source.Log - imgshow2() - 동작
+2023-12-25 13:39:46,188 [25] DEBUG wpfTest.Source.Log - PrintBitmap() | 프린트 동작
+2023-12-25 13:39:46,189 [25] INFO wpfTest.Source.Log - Print Copy : 0
+2023-12-25 13:39:47,352 [25] INFO wpfTest.Source.Log - Dispose() - 동작
+2023-12-25 13:39:47,353 [23] INFO wpfTest.Source.Log - uploadimgthread() - 동작
+2023-12-25 13:39:47,355 [23] INFO wpfTest.Source.Log - uploadimg() - 동작 시작
+2023-12-25 13:39:47,420 [25] ERROR wpfTest.Source.Log - printthread() - 스레드가 중단되었습니다.
+2023-12-25 13:39:50,070 [23] INFO wpfTest.Source.Log - 이미지 업로드 시작
+2023-12-25 13:39:51,954 [23] INFO wpfTest.Source.Log - 이미지 업로드 종료
+2023-12-25 13:39:52,209 [23] INFO wpfTest.Source.Log - 동영상 업로드 시작
+2023-12-25 13:39:52,866 [23] INFO wpfTest.Source.Log - 동영상 업로드 종료
+2023-12-25 13:39:54,637 [23] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 1000
+2023-12-25 13:39:56,825 [23] INFO wpfTest.Source.Log - 파일 업로드 완료.
+2023-12-25 13:39:57,162 [23] INFO wpfTest.Source.Log - QR code image generated successfully and saved in the QR folder!
+2023-12-25 13:39:57,164 [23] INFO wpfTest.Source.Log - 이미지 갤러리 HTML 파일이 성공적으로 생성되었고 데스크톱에 저장되었습니다!
+2023-12-25 13:39:57,165 [23] INFO wpfTest.Source.Log - Azure 업로드 및 QR코드 생성 완료
+2023-12-25 13:39:57,172 [23] ERROR wpfTest.Source.Log - uploadimgthread() - 스레드가 중단되었습니다.
+2023-12-25 13:39:57,277 [1] INFO wpfTest.Source.Log - Qrcode 이미지 업로드 완료
+2023-12-25 13:40:11,575 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:40:11,576 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-12-25 13:44:24,311 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:44:25,851 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:44:26,120 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:44:26,121 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:44:26,122 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:44:26,122 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:44:26,122 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:44:26,157 [1] DEBUG wpfTest.Source.Log - Kakao 폴더 안 이미지 삭제 완료
+2023-12-25 13:44:26,610 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:44:26,618 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:44:26,635 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:44:27,116 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:44:33,525 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:44:33,761 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-12-25 13:44:33,762 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-12-25 13:45:58,580 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:46:00,129 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:46:00,419 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:46:00,420 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:46:00,422 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:46:00,423 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:46:00,423 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:46:00,988 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:46:00,996 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:46:01,015 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:46:01,498 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:46:03,585 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:46:03,826 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-12-25 13:46:03,826 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-12-25 13:46:47,654 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:46:49,211 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:46:49,531 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:46:49,532 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:46:49,535 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:46:49,535 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:46:49,536 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:46:50,175 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:46:50,183 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:46:50,205 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:46:50,723 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:46:51,923 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:46:52,160 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-12-25 13:46:52,160 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-12-25 13:47:31,977 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:47:33,518 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:47:33,838 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:47:33,839 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:47:33,841 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:47:33,841 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:47:33,842 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:47:34,534 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:47:34,546 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:47:34,569 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:47:35,037 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:47:36,317 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:47:36,555 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-12-25 13:47:36,555 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2023-12-25 13:48:14,128 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-12-25 13:48:15,614 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-12-25 13:48:15,901 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-12-25 13:48:15,902 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-12-25 13:48:15,904 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:48:15,904 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:48:15,904 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-12-25 13:48:16,530 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-12-25 13:48:16,543 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-12-25 13:48:16,561 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-12-25 13:48:17,070 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-12-25 13:48:18,261 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-12-25 13:48:18,511 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-12-25 13:48:18,512 [1] INFO wpfTest.Source.Log - 프로그램 종료

@@ -1,0 +1,19 @@
+2023-10-26 14:57:01,669 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-10-26 14:57:04,299 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-10-26 14:57:04,780 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-10-26 14:57:04,781 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-10-26 14:57:04,788 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-10-26 14:57:04,789 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-10-26 14:57:04,789 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-10-26 14:57:08,710 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-10-26 14:57:08,790 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-10-26 14:57:08,821 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-10-26 14:57:09,433 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-10-26 14:57:09,449 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-10-26 14:57:09,451 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-10-26 14:57:09,453 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-10-26 14:57:10,000 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-10-26 14:57:10,922 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-10-26 14:57:11,170 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2023-10-26 14:57:11,171 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-10-26 14:57:11,171 [1] INFO wpfTest.Source.Log - 프로그램 종료

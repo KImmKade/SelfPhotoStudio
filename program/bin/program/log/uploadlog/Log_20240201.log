@@ -1,0 +1,938 @@
+2024-02-01 00:34:58,806 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 00:34:58,938 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 00:34:59,434 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 00:34:59,434 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 00:34:59,435 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 00:35:00,745 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 00:35:00,949 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 00:35:02,495 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 00:35:03,219 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:03,388 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:03,619 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:03,775 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:04,405 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:04,491 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:04,576 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:04,968 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:05,300 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 00:35:05,303 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 00:35:05,305 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 00:35:05,307 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 00:35:05,307 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 00:35:05,307 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 00:35:05,649 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 00:35:05,931 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 00:35:06,054 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 00:35:06,237 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 00:35:07,433 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 00:35:07,498 [1] INFO wpfTest.Source.Log - LoginBtn_Click() - µø¿€
+2024-02-01 00:35:08,201 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic1
+2024-02-01 00:35:08,211 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 00:35:08,247 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 00:35:08,247 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 00:35:08,708 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 00:35:09,488 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 00:35:09,724 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 00:35:09,736 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 00:35:09,747 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 00:35:09,760 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 00:35:11,113 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 00:35:11,114 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 00:35:11,114 [1] INFO wpfTest.Source.Log - PageSelect Level ¡¯¿‘
+2024-02-01 00:35:11,117 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect ºº∆√ ∑Œµ˘
+2024-02-01 00:35:11,117 [1] DEBUG wpfTest.Source.Log - pagetextshow() | ∆‰¿Ã¡ˆ ¿Âºˆ »Æ¿Œ
+2024-02-01 00:35:11,117 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 00:35:12,530 [1] DEBUG wpfTest.Source.Log - BackBtn_MouseLeftButtonDown() | µﬁ ∆‰¿Ã¡ˆ ≥—æÓ∞°±‚ ¿ÃπÃ¡ˆ ≈¨∏Ø
+2024-02-01 00:35:12,530 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ∏ÿ√„
+2024-02-01 00:35:12,554 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 00:35:12,558 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 00:35:12,895 [1] INFO wpfTest.Source.Log - Temp2Img_MouseLeftButtonDown() - µø¿€
+2024-02-01 00:35:13,450 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 00:35:13,450 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 00:35:13,450 [1] INFO wpfTest.Source.Log - PageSelect Level ¡¯¿‘
+2024-02-01 00:35:13,452 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect ºº∆√ ∑Œµ˘
+2024-02-01 00:35:13,452 [1] DEBUG wpfTest.Source.Log - pagetextshow() | ∆‰¿Ã¡ˆ ¿Âºˆ »Æ¿Œ
+2024-02-01 00:35:13,452 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 00:35:14,025 [1] DEBUG wpfTest.Source.Log - NextBtn_MouseLeftButtonDown() | ¥Ÿ¿Ω πˆ∆∞ ≈¨∏Ø
+2024-02-01 00:35:14,049 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 00:35:19,372 [1] INFO wpfTest.Source.Log - Timer_Tik() - µø¿€
+2024-02-01 00:35:19,372 [1] INFO wpfTest.Source.Log - dispose() - µø¿€
+2024-02-01 00:35:19,461 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì √‘øµ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 00:35:19,932 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 2000
+2024-02-01 00:35:30,513 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 00:35:30,513 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 00:35:31,547 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0001.jpg
+2024-02-01 00:35:32,426 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 00:35:40,761 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 00:35:40,761 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 00:35:41,762 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0002.jpg
+2024-02-01 00:35:42,252 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 00:35:50,809 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 00:35:50,809 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 00:35:51,813 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0003.jpg
+2024-02-01 00:35:52,226 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 00:36:00,511 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 00:36:00,511 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 00:36:01,512 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0004.jpg
+2024-02-01 00:36:01,984 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 200
+2024-02-01 00:36:02,247 [1] DEBUG wpfTest.Source.Log - nextpage() ±∏µø | ƒ≥≥Ì ƒ´∏ﬁ∂Û
+2024-02-01 00:36:02,247 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 00:36:02,979 [1] INFO wpfTest.Source.Log - CloseSession() - µø¿€
+2024-02-01 00:36:03,236 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 00:36:03,747 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 00:36:03,850 [1] INFO wpfTest.Source.Log - SelectPic ±∏ø™ ¡¯¿‘
+2024-02-01 00:36:03,936 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 00:36:05,900 [1] INFO wpfTest.Source.Log - Fourthpic_MouseLeftButtonDown() - µø¿€
+2024-02-01 00:36:06,273 [1] INFO wpfTest.Source.Log - Secondpic_MouseLeftButtonDown() - µø¿€
+2024-02-01 00:36:06,897 [1] INFO wpfTest.Source.Log - nextpage_MouseLeftButtonDown() - µø¿€
+2024-02-01 00:36:06,898 [1] INFO wpfTest.Source.Log - dispose() - µø¿€
+2024-02-01 00:36:06,920 [1] INFO wpfTest.Source.Log - Preparing ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 00:36:06,922 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | »ÊπÈ¿ÃπÃ¡ˆ ¡¶¿€
+2024-02-01 00:36:08,039 [1] DEBUG wpfTest.Source.Log - Pic() | ¿ÃπÃ¡ˆ ∫Ø»Ø Ω√¿€
+2024-02-01 00:36:08,184 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 100
+2024-02-01 00:36:08,389 [1] DEBUG wpfTest.Source.Log - Pic() | ¿ÃπÃ¡ˆ ∫Ø»Ø Ω√¿€
+2024-02-01 00:36:08,529 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 100
+2024-02-01 00:36:08,884 [1] DEBUG wpfTest.Source.Log - Pic() | ¿ÃπÃ¡ˆ ∫Ø»Ø Ω√¿€
+2024-02-01 00:36:09,028 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 100
+2024-02-01 00:36:09,345 [1] DEBUG wpfTest.Source.Log - Pic() | ¿ÃπÃ¡ˆ ∫Ø»Ø Ω√¿€
+2024-02-01 00:36:09,486 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 100
+2024-02-01 00:36:09,845 [1] INFO wpfTest.Source.Log - ImgCompose Level ¡¯¿‘
+2024-02-01 00:36:09,862 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ImgCompose º¬∆√∞™ ∑ŒµÂ
+2024-02-01 00:36:10,222 [1] DEBUG wpfTest.Source.Log - Imgshow() | ¿ÃπÃ¡ˆ «’º∫ Ω√¿€
+2024-02-01 00:36:10,458 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 00:36:13,717 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 00:36:13,717 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 00:40:14,504 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 00:40:14,653 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 00:40:15,174 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 00:40:15,174 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 00:40:15,176 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 00:40:15,909 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 00:40:15,909 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 00:40:15,910 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 00:40:15,911 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 00:40:15,911 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 00:40:15,947 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 00:40:19,867 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 00:40:19,868 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 01:58:27,126 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 01:58:27,303 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 01:58:29,428 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 01:58:29,429 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 01:58:29,430 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 01:58:30,273 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 01:58:30,462 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 01:58:33,947 [1] INFO wpfTest.Source.Log - exitbtn_Click() - µø¿€
+2024-02-01 01:58:34,880 [1] INFO wpfTest.Source.Log - Yes πˆ∆∞ ≈¨∏Ø
+2024-02-01 01:58:34,881 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:01:35,266 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:01:35,392 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:01:35,777 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:01:35,777 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:01:35,778 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:01:36,451 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:01:36,466 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:01:38,235 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:01:38,235 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:01:47,899 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:01:48,039 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:01:48,625 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:01:48,626 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:01:48,627 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:01:49,361 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:01:49,409 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:01:50,428 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:01:50,933 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:51,055 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:51,125 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:51,189 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:52,241 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:52,475 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:52,595 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:52,677 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:53,066 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:53,136 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:53,240 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:53,660 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:53,786 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:01:53,789 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:01:53,790 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:01:53,792 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:01:53,793 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:01:53,793 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:01:54,489 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:01:54,732 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:01:54,849 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:01:55,031 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:01:55,682 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:01:55,737 [1] INFO wpfTest.Source.Log - LoginBtn_Click() - µø¿€
+2024-02-01 02:01:56,329 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:01:56,407 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:01:56,429 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:01:56,429 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:01:56,914 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:01:57,705 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:01:57,941 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:01:57,953 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:01:57,965 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:01:57,977 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:01:59,610 [1] INFO wpfTest.Source.Log - BackBtn_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:01:59,611 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:01:59,611 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:01:59,614 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:01:59,614 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:02:05,512 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ¿‘∑¬(º≥¡§√¢ ¡¯¿‘ ≈∞)
+2024-02-01 02:02:05,995 [1] INFO wpfTest.Source.Log - Main Level ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:02:05,995 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:02:06,144 [1] INFO wpfTest.Source.Log - ø…º« ∏ﬁ¥∫ ¿Ãµø
+2024-02-01 02:02:06,613 [1] INFO wpfTest.Source.Log - ø…º« ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:02:06,862 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ø…º«∆‰¿Ã¡ˆ º¬∆√∞™ ∑Œµ˘
+2024-02-01 02:02:07,064 [1] INFO wpfTest.Source.Log - ººº« ø≠∏≤
+2024-02-01 02:02:07,363 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AVπ⁄Ω∫ æ∆¿Ã≈€ ∫Ø∞Ê
+2024-02-01 02:02:07,391 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV ∞™ ∫Ø∞Ê
+2024-02-01 02:02:07,421 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO∞™ ∫Ø∞Ê
+2024-02-01 02:02:07,476 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ∑ŒµÂµ» ∞™ ºº∆√
+2024-02-01 02:02:07,481 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µø¿€
+2024-02-01 02:02:07,481 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 1π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:02:07,500 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 2π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:02:07,521 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 3π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:02:07,547 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ¿Á√‘øµ ±›¡ˆ πˆ∆∞ √º≈©
+2024-02-01 02:02:07,547 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | ƒ≥≥Ì ƒ´∏ﬁ∂Û √º≈©
+2024-02-01 02:02:07,548 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | ≈∏¿Ã∏” ªÁøÎ √º≈©
+2024-02-01 02:02:07,548 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ∆‰¿Ã¡ˆ ≈∏¿Ã∏” ∫Ø∞Ê
+2024-02-01 02:02:07,571 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | ∆˜≈‰ ≈∏¿” ∫Ø∞Ê
+2024-02-01 02:02:07,600 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx ∫Ø∞Ê
+2024-02-01 02:02:07,619 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety ∫Ø∞Ê
+2024-02-01 02:02:07,642 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX ∫Ø∞Ê
+2024-02-01 02:02:07,661 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY ∫Ø∞Ê
+2024-02-01 02:02:07,662 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µø¿€
+2024-02-01 02:02:07,662 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µø¿€
+2024-02-01 02:02:07,663 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ¡¬øÏπ›¿¸ ªÁøÎæ»«‘
+2024-02-01 02:02:09,516 [1] INFO wpfTest.Source.Log - PassWord √¢ ¡¯¿‘
+2024-02-01 02:02:09,521 [1] INFO wpfTest.Source.Log - ∞¸∏Æ¿⁄ ∑Œ±◊¿Œ∆‰¿Ã¡ˆ ¡¢º”
+2024-02-01 02:02:11,506 [1] INFO wpfTest.Source.Log - ∞¸∏Æ¿⁄ ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¥›¿Ω
+2024-02-01 02:02:13,266 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µø¿€
+2024-02-01 02:02:13,267 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞· ¿€µø
+2024-02-01 02:02:13,275 [1] INFO wpfTest.Source.Log - ¡ˆ∆Û±‚ ø¨∞·µ 
+2024-02-01 02:02:13,329 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞· ¿€µø
+2024-02-01 02:02:13,366 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 1π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:02:13,408 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 2π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:02:13,450 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 3π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:02:16,463 [1] DEBUG wpfTest.Source.Log - button_Click() | ¿˙¿Âπˆ∆∞ ≈¨∏Ø
+2024-02-01 02:02:17,503 [1] DEBUG wpfTest.Source.Log - ToMain_Click() | ∏ﬁ¿Œ πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:02:17,503 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚∑Œ µ•¿Ã≈Õ ∫∏≥ø ∫∏≥Ωµ•¿Ã≈Õ : SA162
+2024-02-01 02:02:17,506 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:02:18,012 [1] DEBUG wpfTest.Source.Log - CloseSession() | ººº« ¥›»˚
+2024-02-01 02:02:18,248 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AVπ⁄Ω∫ æ∆¿Ã≈€ ∫Ø∞Ê
+2024-02-01 02:02:18,248 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV ∞™ ∫Ø∞Ê
+2024-02-01 02:02:18,249 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO∞™ ∫Ø∞Ê
+2024-02-01 02:02:18,250 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:02:19,137 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:02:19,196 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:02:19,197 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:02:19,619 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:02:19,655 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:02:20,261 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:02:20,496 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:02:20,532 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:02:20,552 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:02:20,559 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:02:28,364 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:02:28,364 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚ø° µ•¿Ã≈Õ ∫∏≥ø. µ•¿Ã≈Õ : SA162
+2024-02-01 02:02:28,364 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:03:07,221 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:03:07,408 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:03:07,853 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:03:07,854 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:03:07,855 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:03:08,536 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:03:08,572 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:03:09,613 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:03:09,900 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:10,246 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:10,389 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:10,398 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:11,401 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:11,481 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:11,590 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:11,810 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:12,008 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:12,011 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:03:12,012 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:03:12,014 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:03:12,015 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:03:12,015 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:03:12,423 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:12,662 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:12,784 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:12,955 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:13,155 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:13,627 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:03:13,639 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:03:13,645 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:03:13,675 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:03:13,675 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:03:14,125 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:03:14,139 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:03:14,143 [1] INFO wpfTest.Source.Log - ƒƒ∆˜∆Æ : COM5¿∏∑Œ ø¨∞·µ«æ˙Ω¿¥œ¥Ÿ.
+2024-02-01 02:03:14,691 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:03:14,929 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:03:14,941 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:03:14,959 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:03:14,980 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:03:17,369 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:03:17,369 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚ø° µ•¿Ã≈Õ ∫∏≥ø. µ•¿Ã≈Õ : SA162
+2024-02-01 02:03:17,370 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:03:38,972 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:03:39,149 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:03:39,834 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:03:39,835 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:03:39,836 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:03:40,568 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:03:40,611 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:03:42,081 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:03:42,453 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:42,841 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:42,958 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:43,022 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:43,583 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:43,645 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:43,714 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:44,031 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:44,221 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:03:44,224 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:03:44,225 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:03:44,226 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:03:44,226 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:03:44,226 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:03:44,467 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:44,658 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:44,775 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:44,959 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:45,109 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:03:45,535 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:03:45,546 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:03:45,551 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:03:45,566 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:03:45,566 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:03:46,012 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:03:46,025 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:03:46,028 [1] INFO wpfTest.Source.Log - ƒƒ∆˜∆Æ : COM5¿∏∑Œ ø¨∞·µ«æ˙Ω¿¥œ¥Ÿ.
+2024-02-01 02:03:46,411 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:03:46,648 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:03:46,661 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:03:46,673 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:03:46,688 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:03:50,335 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:03:50,335 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚ø° µ•¿Ã≈Õ ∫∏≥ø. µ•¿Ã≈Õ : SA162
+2024-02-01 02:03:50,335 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:04:31,693 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:04:31,818 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:04:32,297 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:04:32,298 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:04:32,299 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:04:32,993 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:04:33,078 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:04:34,372 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:04:35,225 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:35,440 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:36,128 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:36,269 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:36,369 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:36,442 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:36,946 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:37,019 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:37,110 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:37,681 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:37,828 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:04:37,830 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:04:37,831 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:04:37,832 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:04:37,832 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:04:37,833 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:04:38,068 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:04:38,262 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:04:38,373 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:04:38,604 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:04:39,513 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:04:39,562 [1] INFO wpfTest.Source.Log - LoginBtn_Click() - µø¿€
+2024-02-01 02:04:40,020 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:04:40,030 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:04:40,045 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:04:40,045 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:04:40,453 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:04:40,463 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:04:40,465 [1] INFO wpfTest.Source.Log - ƒƒ∆˜∆Æ : COM5¿∏∑Œ ø¨∞·µ«æ˙Ω¿¥œ¥Ÿ.
+2024-02-01 02:04:41,271 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:04:41,507 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:04:41,518 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:04:41,530 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:04:41,542 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:04:43,013 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:04:43,013 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:04:43,018 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:04:45,277 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:04:45,278 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:04:45,279 [1] INFO wpfTest.Source.Log - PageSelect Level ¡¯¿‘
+2024-02-01 02:04:45,281 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect ºº∆√ ∑Œµ˘
+2024-02-01 02:04:45,282 [1] DEBUG wpfTest.Source.Log - pagetextshow() | ∆‰¿Ã¡ˆ ¿Âºˆ »Æ¿Œ
+2024-02-01 02:04:45,282 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:04:46,462 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F8 ¿‘∑¬(π´∑·√‘øµ ≈∞)
+2024-02-01 02:04:46,544 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:04:46,570 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì √‘øµ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:04:47,033 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 2000
+2024-02-01 02:04:57,778 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:04:57,778 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:04:58,782 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0001.jpg
+2024-02-01 02:04:59,118 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:05:07,762 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:05:07,762 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:05:08,762 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0002.jpg
+2024-02-01 02:05:09,040 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:05:11,987 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:05:12,318 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì ƒ´∏ﬁ∂Û ¡æ∑·
+2024-02-01 02:05:12,319 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚ø° µ•¿Ã≈Õ ∫∏≥ø. µ•¿Ã≈Õ : SA162
+2024-02-01 02:05:12,319 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:08:28,191 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:08:28,412 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:08:28,848 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:08:28,848 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:08:28,849 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:08:29,593 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:08:29,593 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:08:29,594 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:08:29,631 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:08:31,154 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:08:31,780 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:31,997 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:32,406 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:32,524 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:33,354 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:33,424 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:33,530 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:33,878 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:34,069 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:08:34,071 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:08:34,072 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:08:34,074 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:08:34,074 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:08:34,075 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:08:34,776 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:08:35,019 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:08:35,135 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:08:35,373 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:08:36,162 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:08:36,226 [1] INFO wpfTest.Source.Log - LoginBtn_Click() - µø¿€
+2024-02-01 02:08:36,641 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:08:36,651 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:08:36,673 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:08:36,673 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:08:37,076 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:08:37,086 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:08:37,088 [1] INFO wpfTest.Source.Log - ƒƒ∆˜∆Æ : COM5¿∏∑Œ ø¨∞·µ«æ˙Ω¿¥œ¥Ÿ.
+2024-02-01 02:08:37,609 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:08:37,845 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:08:37,855 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:08:37,865 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:08:37,880 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:08:38,856 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:08:38,856 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:08:38,862 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:08:40,186 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:08:40,186 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:08:40,187 [1] INFO wpfTest.Source.Log - PageSelect Level ¡¯¿‘
+2024-02-01 02:08:40,190 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect ºº∆√ ∑Œµ˘
+2024-02-01 02:08:40,191 [1] DEBUG wpfTest.Source.Log - pagetextshow() | ∆‰¿Ã¡ˆ ¿Âºˆ »Æ¿Œ
+2024-02-01 02:08:40,191 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:08:41,359 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F8 ¿‘∑¬(π´∑·√‘øµ ≈∞)
+2024-02-01 02:08:42,311 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:08:42,339 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì √‘øµ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:08:42,798 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 2000
+2024-02-01 02:08:53,309 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:08:53,309 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:08:54,327 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0001.jpg
+2024-02-01 02:08:54,819 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:09:03,402 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:09:03,402 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:09:04,402 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0002.jpg
+2024-02-01 02:09:04,696 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:09:13,075 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:09:13,075 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:09:14,076 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0003.jpg
+2024-02-01 02:09:14,421 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 200
+2024-02-01 02:09:14,653 [1] DEBUG wpfTest.Source.Log - nextpage() ±∏µø | ƒ≥≥Ì ƒ´∏ﬁ∂Û
+2024-02-01 02:09:14,653 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:09:15,155 [1] INFO wpfTest.Source.Log - CloseSession() - µø¿€
+2024-02-01 02:09:15,409 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:09:15,917 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:09:15,971 [1] INFO wpfTest.Source.Log - SelectPic ±∏ø™ ¡¯¿‘
+2024-02-01 02:09:15,980 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:09:19,158 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:09:19,169 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚ø° µ•¿Ã≈Õ ∫∏≥ø. µ•¿Ã≈Õ : SA162
+2024-02-01 02:09:19,169 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:11:29,595 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:11:29,777 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:11:30,455 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:11:30,455 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:11:30,456 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:11:31,157 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:11:31,157 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:11:31,157 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:11:31,158 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:11:31,192 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:11:31,932 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:11:31,932 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:51:27,388 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:51:27,601 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:51:28,040 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:51:28,040 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:51:28,041 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:51:29,419 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:51:29,419 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:51:29,420 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:51:29,420 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:51:29,465 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:51:31,243 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:51:31,602 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:31,808 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:31,811 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:32,037 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:32,939 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:33,016 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:33,051 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:33,794 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:33,855 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:33,928 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:34,101 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:34,278 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:34,280 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:51:34,281 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:51:34,282 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:51:34,282 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:51:34,282 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:51:34,982 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:35,200 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:35,319 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:35,512 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:35,718 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:36,839 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:51:45,013 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:51:45,144 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:51:45,500 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:51:45,500 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:51:45,501 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:51:46,373 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:51:46,388 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:51:47,613 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:51:47,828 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:47,990 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:48,081 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:48,132 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:48,628 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:48,701 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:48,787 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:49,090 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:49,220 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:51:49,224 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:51:49,225 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:51:49,227 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:51:49,227 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:51:49,227 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:51:49,368 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:49,543 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:49,654 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:49,831 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:49,949 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:51:50,270 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:52:58,146 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:52:58,274 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:52:58,862 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:52:58,862 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:52:58,863 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:52:59,787 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:52:59,900 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:53:00,670 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:53:00,850 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:01,068 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:01,180 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:01,251 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:02,472 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:02,538 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:02,660 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:04,578 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:04,877 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:53:04,877 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:53:12,465 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:53:12,595 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:53:13,138 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:53:13,138 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:53:13,140 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:53:14,037 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:53:14,087 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:53:14,578 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:53:14,681 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:14,844 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:14,912 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:14,986 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:15,629 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:15,692 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:15,745 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:15,930 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:15,932 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:17,036 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:17,292 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:53:17,295 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:53:17,295 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:53:17,297 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:53:17,298 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:53:17,298 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:53:17,488 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:53:17,649 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:53:17,762 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:53:17,933 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:53:18,078 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:53:18,499 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic3
+2024-02-01 02:53:18,516 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:53:18,526 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:53:18,540 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:53:18,541 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:53:19,424 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:53:19,435 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:53:19,440 [1] INFO wpfTest.Source.Log - ƒƒ∆˜∆Æ : COM5¿∏∑Œ ø¨∞·µ«æ˙Ω¿¥œ¥Ÿ.
+2024-02-01 02:53:21,298 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ¿‘∑¬(º≥¡§√¢ ¡¯¿‘ ≈∞)
+2024-02-01 02:53:21,575 [1] INFO wpfTest.Source.Log - Main Level ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:53:21,813 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:53:21,952 [1] INFO wpfTest.Source.Log - ø…º« ∏ﬁ¥∫ ¿Ãµø
+2024-02-01 02:53:22,356 [1] INFO wpfTest.Source.Log - ø…º« ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:53:22,609 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ø…º«∆‰¿Ã¡ˆ º¬∆√∞™ ∑Œµ˘
+2024-02-01 02:53:22,877 [1] INFO wpfTest.Source.Log - ººº« ø≠∏≤
+2024-02-01 02:53:23,172 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AVπ⁄Ω∫ æ∆¿Ã≈€ ∫Ø∞Ê
+2024-02-01 02:53:23,200 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV ∞™ ∫Ø∞Ê
+2024-02-01 02:53:23,229 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO∞™ ∫Ø∞Ê
+2024-02-01 02:53:23,324 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ∑ŒµÂµ» ∞™ ºº∆√
+2024-02-01 02:53:23,330 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µø¿€
+2024-02-01 02:53:23,331 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞· ¿€µø
+2024-02-01 02:53:23,348 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞· ¿€µø
+2024-02-01 02:53:23,370 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 1π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:53:23,387 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 2π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:53:23,404 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 3π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:53:23,423 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ¿Á√‘øµ ±›¡ˆ πˆ∆∞ √º≈©
+2024-02-01 02:53:23,424 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | ƒ≥≥Ì ƒ´∏ﬁ∂Û √º≈©
+2024-02-01 02:53:23,424 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | ≈∏¿Ã∏” ªÁøÎ √º≈©
+2024-02-01 02:53:23,424 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ∆‰¿Ã¡ˆ ≈∏¿Ã∏” ∫Ø∞Ê
+2024-02-01 02:53:23,443 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | ∆˜≈‰ ≈∏¿” ∫Ø∞Ê
+2024-02-01 02:53:23,460 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx ∫Ø∞Ê
+2024-02-01 02:53:23,476 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety ∫Ø∞Ê
+2024-02-01 02:53:23,491 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX ∫Ø∞Ê
+2024-02-01 02:53:23,506 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY ∫Ø∞Ê
+2024-02-01 02:53:23,506 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µø¿€
+2024-02-01 02:53:23,507 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µø¿€
+2024-02-01 02:53:23,507 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ¡¬øÏπ›¿¸ ªÁøÎæ»«‘
+2024-02-01 02:53:24,597 [1] INFO wpfTest.Source.Log - PassWord √¢ ¡¯¿‘
+2024-02-01 02:53:24,601 [1] INFO wpfTest.Source.Log - ∞¸∏Æ¿⁄ ∑Œ±◊¿Œ∆‰¿Ã¡ˆ ¡¢º”
+2024-02-01 02:53:26,506 [1] INFO wpfTest.Source.Log - ∞¸∏Æ¿⁄ ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¥›¿Ω
+2024-02-01 02:53:29,318 [1] DEBUG wpfTest.Source.Log - button1_Click() | ¡æ«•πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:53:30,172 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚∑Œ µ•¿Ã≈Õ ∫∏≥ø ∫∏≥Ωµ•¿Ã≈Õ : SA162
+2024-02-01 02:53:30,201 [1] INFO wpfTest.Source.Log - ∆˜∆Æ ¥›»˚
+2024-02-01 02:53:30,202 [1] DEBUG wpfTest.Source.Log - CloseSession() | ººº« ¥›»˚
+2024-02-01 02:53:30,436 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AVπ⁄Ω∫ æ∆¿Ã≈€ ∫Ø∞Ê
+2024-02-01 02:53:30,437 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV ∞™ ∫Ø∞Ê
+2024-02-01 02:53:30,437 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO∞™ ∫Ø∞Ê
+2024-02-01 02:53:30,438 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:54:07,695 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:54:07,824 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:54:08,424 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:54:08,425 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:54:08,426 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:54:09,293 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:54:09,328 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:54:10,319 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:54:11,165 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:11,318 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:11,408 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:11,481 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:11,629 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:11,689 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:11,768 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:12,330 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:12,431 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:12,434 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:54:12,458 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:54:12,461 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:54:12,462 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:54:12,462 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:54:12,727 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:12,991 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:13,147 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:15,980 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:16,231 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:16,352 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:16,570 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:17,775 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:54:18,188 [1] INFO wpfTest.Source.Log - LoginBtn_Click() - µø¿€
+2024-02-01 02:54:18,601 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:54:46,803 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:54:46,945 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:54:47,428 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:54:47,429 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:54:47,430 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:54:48,306 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:54:48,344 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:54:49,361 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:54:49,579 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:49,717 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:49,793 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:49,866 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:50,342 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:50,407 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:50,472 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:50,769 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:50,985 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:54:50,988 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:54:50,988 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:54:50,991 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:54:50,991 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:54:50,992 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:54:51,210 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:51,393 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:51,500 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:51,675 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:51,813 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:54:52,266 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:54:52,277 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:54:52,282 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:54:52,295 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:54:52,296 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:54:52,711 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:54:52,720 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:54:52,722 [1] INFO wpfTest.Source.Log - ƒƒ∆˜∆Æ : COM5¿∏∑Œ ø¨∞·µ«æ˙Ω¿¥œ¥Ÿ.
+2024-02-01 02:54:53,440 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:54:53,676 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:54:53,686 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:54:53,696 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:54:53,709 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:54:55,368 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:54:55,368 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:54:55,374 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:54:57,004 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:54:57,004 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:54:57,005 [1] INFO wpfTest.Source.Log - PageSelect Level ¡¯¿‘
+2024-02-01 02:54:57,008 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect ºº∆√ ∑Œµ˘
+2024-02-01 02:54:57,008 [1] DEBUG wpfTest.Source.Log - pagetextshow() | ∆‰¿Ã¡ˆ ¿Âºˆ »Æ¿Œ
+2024-02-01 02:54:57,008 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:54:57,928 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F8 ¿‘∑¬(π´∑·√‘øµ ≈∞)
+2024-02-01 02:54:58,123 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:54:58,153 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:55:03,544 [1] INFO wpfTest.Source.Log - Timer_Tik() - µø¿€
+2024-02-01 02:55:03,544 [1] INFO wpfTest.Source.Log - dispose() - µø¿€
+2024-02-01 02:55:03,647 [1] ERROR wpfTest.Source.Log - updatedb() - 42601: syntax error at or near "ai1"
+
+POSITION: 37
+2024-02-01 02:55:03,675 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì √‘øµ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:55:04,134 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 2000
+2024-02-01 02:55:15,859 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:55:15,859 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:55:16,865 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0001.jpg
+2024-02-01 02:55:17,363 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:55:25,855 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:55:25,855 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:55:26,855 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0002.jpg
+2024-02-01 02:55:27,098 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:55:35,607 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:55:35,607 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:55:36,608 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0003.jpg
+2024-02-01 02:55:36,876 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 200
+2024-02-01 02:55:37,091 [1] DEBUG wpfTest.Source.Log - nextpage() ±∏µø | ƒ≥≥Ì ƒ´∏ﬁ∂Û
+2024-02-01 02:55:37,091 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:55:37,635 [1] INFO wpfTest.Source.Log - CloseSession() - µø¿€
+2024-02-01 02:55:37,888 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:55:38,572 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:55:38,599 [1] INFO wpfTest.Source.Log - SelectPic ±∏ø™ ¡¯¿‘
+2024-02-01 02:55:38,607 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:55:39,641 [1] INFO wpfTest.Source.Log - Thirdpic_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:55:40,342 [1] INFO wpfTest.Source.Log - nextpage_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:55:40,343 [1] INFO wpfTest.Source.Log - dispose() - µø¿€
+2024-02-01 02:55:40,360 [1] INFO wpfTest.Source.Log - Preparing ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:55:40,362 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | »ÊπÈ¿ÃπÃ¡ˆ ¡¶¿€
+2024-02-01 02:55:45,312 [1] INFO wpfTest.Source.Log - ImgCompose Level ¡¯¿‘
+2024-02-01 02:55:45,329 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ImgCompose º¬∆√∞™ ∑ŒµÂ
+2024-02-01 02:55:45,367 [1] DEBUG wpfTest.Source.Log - Imgshow() | ¿ÃπÃ¡ˆ «’º∫ Ω√¿€
+2024-02-01 02:55:45,466 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:55:50,922 [1] DEBUG wpfTest.Source.Log - PrintBtn_MouseLeftButtonDown() | «¡∏∞∆Æ ¿ÃπÃ¡ˆ ≈¨∏Ø
+2024-02-01 02:55:51,083 [1] DEBUG wpfTest.Source.Log - PrintBitmap() | ∫Ò∆Æ∏  ¿Œº‚
+2024-02-01 02:55:51,083 [1] DEBUG wpfTest.Source.Log - Print Copy : 2
+2024-02-01 02:55:51,438 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ∏ÿ√„
+2024-02-01 02:55:51,450 [1] INFO wpfTest.Source.Log - KaKaoPage¡¯¿‘
+2024-02-01 02:55:51,530 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:55:52,702 [1] INFO wpfTest.Source.Log - NoKakaobtn_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:55:52,768 [1] INFO wpfTest.Source.Log - ¿Œ≈Õ≥› ø¨∞·
+2024-02-01 02:55:52,792 [1] INFO wpfTest.Source.Log - Level Final ¡¯¿‘
+2024-02-01 02:55:52,797 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() Ω√¿€ | Final Level º≥¡§ ∞™ ∑ŒµÂ
+2024-02-01 02:55:52,797 [1] INFO wpfTest.Source.Log - Final ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:55:59,231 [1] INFO wpfTest.Source.Log - Final Level ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:55:59,232 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:55:59,232 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:55:59,233 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:55:59,234 [1] DEBUG wpfTest.Source.Log - Print ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:55:59,381 [1] INFO wpfTest.Source.Log - «ˆ¿Á ªÁ¿Ã≈¨ ºˆ : 1
+2024-02-01 02:55:59,391 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:55:59,394 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:55:59,394 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:55:59,806 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:55:59,817 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:56:00,996 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ¿‘∑¬(º≥¡§√¢ ¡¯¿‘ ≈∞)
+2024-02-01 02:56:01,605 [1] INFO wpfTest.Source.Log - Main Level ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:56:01,841 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:56:01,985 [1] INFO wpfTest.Source.Log - ø…º« ∏ﬁ¥∫ ¿Ãµø
+2024-02-01 02:56:01,995 [1] INFO wpfTest.Source.Log - ø…º« ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:56:02,237 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ø…º«∆‰¿Ã¡ˆ º¬∆√∞™ ∑Œµ˘
+2024-02-01 02:56:02,724 [1] INFO wpfTest.Source.Log - ººº« ø≠∏≤
+2024-02-01 02:56:03,045 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AVπ⁄Ω∫ æ∆¿Ã≈€ ∫Ø∞Ê
+2024-02-01 02:56:03,070 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV ∞™ ∫Ø∞Ê
+2024-02-01 02:56:03,100 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO∞™ ∫Ø∞Ê
+2024-02-01 02:56:03,154 [1] DEBUG wpfTest.Source.Log - LoadSetting() | ∑ŒµÂµ» ∞™ ºº∆√
+2024-02-01 02:56:03,159 [1] INFO wpfTest.Source.Log - PayWayCB_SelectionChanged() - µø¿€
+2024-02-01 02:56:03,160 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞· ¿€µø
+2024-02-01 02:56:03,176 [1] DEBUG wpfTest.Source.Log - CheckSerial() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞· ¿€µø
+2024-02-01 02:56:03,193 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 1π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:56:03,209 [1] DEBUG wpfTest.Source.Log - temp2MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 2π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:56:03,225 [1] DEBUG wpfTest.Source.Log - temp3MoneySettingCoBox_SelectionChanged() | ≈€«√∏¥ 3π¯ µ∑ º¬∆√ ∫Ø∞Ê
+2024-02-01 02:56:03,247 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | ¿Á√‘øµ ±›¡ˆ πˆ∆∞ √º≈©
+2024-02-01 02:56:03,248 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | ƒ≥≥Ì ƒ´∏ﬁ∂Û √º≈©
+2024-02-01 02:56:03,248 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | ≈∏¿Ã∏” ªÁøÎ √º≈©
+2024-02-01 02:56:03,248 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | ∆‰¿Ã¡ˆ ≈∏¿Ã∏” ∫Ø∞Ê
+2024-02-01 02:56:03,265 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | ∆˜≈‰ ≈∏¿” ∫Ø∞Ê
+2024-02-01 02:56:03,281 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx ∫Ø∞Ê
+2024-02-01 02:56:03,300 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety ∫Ø∞Ê
+2024-02-01 02:56:03,318 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX ∫Ø∞Ê
+2024-02-01 02:56:03,336 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY ∫Ø∞Ê
+2024-02-01 02:56:03,336 [1] INFO wpfTest.Source.Log - KakaoPageTimeSetCoBox_SelectionChanged() - µø¿€
+2024-02-01 02:56:03,337 [1] INFO wpfTest.Source.Log - timerlocationright_Checked() - µø¿€
+2024-02-01 02:56:03,337 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | ¡¬øÏπ›¿¸ ªÁøÎæ»«‘
+2024-02-01 02:56:04,708 [1] DEBUG wpfTest.Source.Log - StartLVButton_Click() | ∂Û¿Ã∫Í∫‰ Ω√¿€
+2024-02-01 02:56:04,842 [1] INFO wpfTest.Source.Log - Canon ∂Û¿Ã∫Í∫‰ Ω√¿€
+2024-02-01 02:56:07,583 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 ¿‘∑¬(«¡∑Œ±◊∑• ¡æ∑· ≈∞)
+2024-02-01 02:56:07,949 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì ƒ´∏ﬁ∂Û ¡æ∑·
+2024-02-01 02:56:07,950 [1] DEBUG wpfTest.Source.Log - DataSend() | ¡ˆ∆Û±‚ø° µ•¿Ã≈Õ ∫∏≥ø. µ•¿Ã≈Õ : SA162
+2024-02-01 02:56:07,950 [1] INFO wpfTest.Source.Log - «¡∑Œ±◊∑• ¡æ∑·
+2024-02-01 02:58:47,479 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-02-01 02:58:47,628 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:58:48,218 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : º≥¡§ ∞™ ∑ŒµÂ ¡ﬂ
+2024-02-01 02:58:48,218 [1] INFO wpfTest.Source.Log - ¿Ã¿¸ ∆ƒ¿œ ªË¡¶
+2024-02-01 02:58:48,219 [1] INFO wpfTest.Source.Log - ∆ƒ¿œªË¡¶ øœ∑·
+2024-02-01 02:58:49,102 [1] DEBUG wpfTest.Source.Log - Kakao ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:58:49,103 [1] DEBUG wpfTest.Source.Log - Window_Loaded() ∑ŒµÂ øœ∑·
+2024-02-01 02:58:49,137 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:58:50,145 [1] INFO wpfTest.Source.Log - IDTextBox_GotFocus() - µø¿€
+2024-02-01 02:58:50,821 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:50,966 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:51,066 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:51,139 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:51,963 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:52,037 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:52,116 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:52,490 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:52,687 [1] INFO wpfTest.Source.Log - IDTextBox_KeyDown() - µø¿€
+2024-02-01 02:58:52,690 [1] INFO wpfTest.Source.Log - IDTextBox_LostFocus() - µø¿€
+2024-02-01 02:58:52,691 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:58:52,694 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:58:52,695 [1] INFO wpfTest.Source.Log - Button_GotFocus() - µø¿€
+2024-02-01 02:58:52,695 [1] INFO wpfTest.Source.Log - PasswordBox_GotFocus() - µø¿€
+2024-02-01 02:58:52,880 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:58:53,073 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:58:53,191 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:58:53,350 [1] INFO wpfTest.Source.Log - PasswordBox_KeyDown() - µø¿€
+2024-02-01 02:58:54,482 [1] INFO wpfTest.Source.Log - PasswordBox_LostFocus() - µø¿€
+2024-02-01 02:58:54,531 [1] INFO wpfTest.Source.Log - LoginBtn_Click() - µø¿€
+2024-02-01 02:58:54,975 [1] INFO wpfTest.Source.Log - ∑Œ±◊¿Œ º∫∞¯!, ∑Œ±◊¿Œ «— æ∆¿Ãµ : dearpic4
+2024-02-01 02:58:55,128 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:58:55,146 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:58:55,147 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:58:55,576 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:58:55,585 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:58:55,588 [1] INFO wpfTest.Source.Log - ƒƒ∆˜∆Æ : COM5¿∏∑Œ ø¨∞·µ«æ˙Ω¿¥œ¥Ÿ.
+2024-02-01 02:58:56,083 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | πˆ∆∞ ≈¨∏Ø
+2024-02-01 02:58:56,319 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:58:56,331 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:58:57,060 [1] INFO wpfTest.Source.Log - ≈€«√∏¥ º±≈√ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:58:57,082 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:58:59,043 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:58:59,043 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:58:59,052 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:59:00,174 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:59:00,174 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:59:00,176 [1] INFO wpfTest.Source.Log - PageSelect Level ¡¯¿‘
+2024-02-01 02:59:00,178 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect ºº∆√ ∑Œµ˘
+2024-02-01 02:59:00,178 [1] DEBUG wpfTest.Source.Log - pagetextshow() | ∆‰¿Ã¡ˆ ¿Âºˆ »Æ¿Œ
+2024-02-01 02:59:00,178 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:59:01,088 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F8 ¿‘∑¬(π´∑·√‘øµ ≈∞)
+2024-02-01 02:59:01,340 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:59:01,369 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:59:06,622 [1] INFO wpfTest.Source.Log - Timer_Tik() - µø¿€
+2024-02-01 02:59:06,622 [1] INFO wpfTest.Source.Log - dispose() - µø¿€
+2024-02-01 02:59:06,670 [1] ERROR wpfTest.Source.Log - updatedb() - 42601: syntax error at or near "ai1"
+
+POSITION: 37
+2024-02-01 02:59:06,689 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì √‘øµ ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:59:07,150 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 2000
+2024-02-01 02:59:18,072 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:59:18,072 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:59:19,090 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0001.jpg
+2024-02-01 02:59:19,396 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:59:28,089 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:59:28,089 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:59:29,092 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0002.jpg
+2024-02-01 02:59:29,352 [1] INFO wpfTest.Source.Log - ƒ≥≥Ì≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:59:37,856 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:59:37,856 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 1000
+2024-02-01 02:59:38,857 [1] DEBUG wpfTest.Source.Log - FlipCutImg() | ¡¬øÏπ›¿¸ ±∏µø | ¿ÃπÃ¡ˆ¿ßƒ° : D:\æ˜√º\∑ª≈ª\¿©Ω∫≈‰∏Æ\wpfTest\bin\Release\IMG\Photo\IMG_0003.jpg
+2024-02-01 02:59:39,158 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 200
+2024-02-01 02:59:39,359 [1] DEBUG wpfTest.Source.Log - nextpage() ±∏µø | ƒ≥≥Ì ƒ´∏ﬁ∂Û
+2024-02-01 02:59:39,359 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:59:39,859 [1] INFO wpfTest.Source.Log - CloseSession() - µø¿€
+2024-02-01 02:59:40,114 [1] DEBUG wpfTest.Source.Log - Delay() | µÙ∑π¿Ã Ω√¿€ µÙ∑π¿Ã Ω√∞£(¥‹¿ß : ms) : 500
+2024-02-01 02:59:40,615 [1] INFO wpfTest.Source.Log - Dispose() - µø¿€
+2024-02-01 02:59:40,662 [1] INFO wpfTest.Source.Log - SelectPic ±∏ø™ ¡¯¿‘
+2024-02-01 02:59:40,673 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:59:42,240 [1] INFO wpfTest.Source.Log - Secondpic_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:59:42,864 [1] INFO wpfTest.Source.Log - nextpage_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:59:42,865 [1] INFO wpfTest.Source.Log - dispose() - µø¿€
+2024-02-01 02:59:42,885 [1] INFO wpfTest.Source.Log - Preparing ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:59:42,887 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | »ÊπÈ¿ÃπÃ¡ˆ ¡¶¿€
+2024-02-01 02:59:47,139 [1] INFO wpfTest.Source.Log - ImgCompose Level ¡¯¿‘
+2024-02-01 02:59:47,168 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ImgCompose º¬∆√∞™ ∑ŒµÂ
+2024-02-01 02:59:47,205 [1] DEBUG wpfTest.Source.Log - Imgshow() | ¿ÃπÃ¡ˆ «’º∫ Ω√¿€
+2024-02-01 02:59:47,301 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:59:48,035 [1] DEBUG wpfTest.Source.Log - PrintBtn_MouseLeftButtonDown() | «¡∏∞∆Æ ¿ÃπÃ¡ˆ ≈¨∏Ø
+2024-02-01 02:59:48,386 [1] DEBUG wpfTest.Source.Log - PrintBitmap() | ∫Ò∆Æ∏  ¿Œº‚
+2024-02-01 02:59:48,386 [1] DEBUG wpfTest.Source.Log - Print Copy : 2
+2024-02-01 02:59:48,664 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” ∏ÿ√„
+2024-02-01 02:59:48,675 [1] INFO wpfTest.Source.Log - KaKaoPage¡¯¿‘
+2024-02-01 02:59:48,796 [1] INFO wpfTest.Source.Log - Grid_Loaded() - µø¿€
+2024-02-01 02:59:49,883 [1] INFO wpfTest.Source.Log - NoKakaobtn_MouseLeftButtonDown() - µø¿€
+2024-02-01 02:59:49,940 [1] INFO wpfTest.Source.Log - ¿Œ≈Õ≥› ø¨∞·
+2024-02-01 02:59:49,996 [1] INFO wpfTest.Source.Log - Level Final ¡¯¿‘
+2024-02-01 02:59:50,000 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() Ω√¿€ | Final Level º≥¡§ ∞™ ∑ŒµÂ
+2024-02-01 02:59:50,000 [1] INFO wpfTest.Source.Log - Final ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:59:56,854 [1] INFO wpfTest.Source.Log - Final Level ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:59:56,855 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:59:56,855 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:59:56,856 [1] DEBUG wpfTest.Source.Log - Resize ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:59:56,857 [1] DEBUG wpfTest.Source.Log - Print ∆˙¥ı æ» ¿ÃπÃ¡ˆ ªË¡¶ øœ∑·
+2024-02-01 02:59:57,016 [1] INFO wpfTest.Source.Log - «ˆ¿Á ªÁ¿Ã≈¨ ºˆ : 1
+2024-02-01 02:59:57,026 [1] INFO wpfTest.Source.Log - Main Level ¡¯¿‘
+2024-02-01 02:59:57,029 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level º≥¡§ ∞™ ∑ŒµÂ(¿⁄µøø¨∞·)
+2024-02-01 02:59:57,029 [1] INFO wpfTest.Source.Log - ≈∏¿Ã∏” Ω√¿€
+2024-02-01 02:59:57,427 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ø¨∞· øœ∑·
+2024-02-01 02:59:57,436 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | ¡ˆ∆Û±‚ ¿⁄µøø¨∞… Ω√¿€
+2024-02-01 02:59:58,326 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 ¿‘∑¬(º≥¡§√¢ ¡¯¿‘ ≈∞)
+2024-02-01 02:59:59,089 [1] INFO wpfTest.Source.Log - Main Level ≈∏¿Ã∏” ¡æ∑·
+2024-02-01 02:59:59,325 [1] INFO wpfTest.Source.Log - Canon ƒ´∏ﬁ∂Û ººº« ¥›»˚
+2024-02-01 02:59:59,474 [1] INFO wpfTest.Source.Log - ø…º« ∏ﬁ¥∫ ¿Ãµø
+2024-02-01 02:59:59,484 [1] INFO wpfTest.Source.Log - ø…º« ∆‰¿Ã¡ˆ ¡¯¿‘
+2024-02-01 02:59:59,705 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | ø…º«∆‰¿Ã¡ˆ º¬∆√∞™ ∑Œµ˘
+2024-02-01 02:59:59,838 [1] INFO wpfTest.Source.Log - ººº« ø≠∏≤
+2024-02-01 03:00:00,136 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AVπ⁄Ω∫ æ∆¿Ã≈€ ∫Ø∞Ê
+2024-02-01 03:00:00,165 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV ∞™ ∫Ø∞Ê
+2024-02-01 03:00:00,193 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO∞™ ∫Ø∞Ê
+2024-02-01 03:00:00,234 [21] INFO wpfTest.Source.Log - ¡§∞¢ æ˜∑ŒµÂ Ω√¿€

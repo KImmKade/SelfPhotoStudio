@@ -1,0 +1,34 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="wpfTest.View.WebCam"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920" Background="White"
+      Title="WebCam">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="backimg"/>
+        <Canvas x:Name="liveviewcanvus" IsEnabled="False">
+            <Image x:Name="LiveView" Width="1280" Height="720" RenderOptions.BitmapScalingMode="Fant" Canvas.Left="320" Canvas.Top="180"/>
+            <Image x:Name="frontlvimg" Width="1080" Height="720" Canvas.Left="420" Canvas.Top="180" Stretch="Fill"/>
+            <Image x:Name="compose1" Opacity="1" IsEnabled="False" Width="100" Height="720" Source="/Resources/compose1_1.png" Canvas.Left="320" Canvas.Top="180" Stretch="Fill"/>
+            <Image x:Name="compose2" Opacity="1" IsEnabled="False" Width="100" Height="720" Source="/Resources/compose1_1.png" Canvas.Left="1500" Canvas.Top="180" Stretch="Fill"/>
+        </Canvas>
+        <Image x:Name="FirstPic" Width="247" Height="165" Margin="1525,180,140,735"/>
+        <Image x:Name="FirstPicFront" Width="247" Height="165" Margin="1525,180,140,735"/>
+        <Image x:Name="SecondPic" Width="247" Height="165" Margin="1525,365,140,550"/>
+        <Image x:Name="SecondPicFront" Width="247" Height="165" Margin="1525,365,140,550"/>
+        <Image x:Name="ThirdPic" Width="247" Height="165" Margin="1525,550,140,365"/>
+        <Image x:Name="ThirdPicFront" Width="247" Height="165" Margin="1525,550,140,365"/>
+        <Image x:Name="FourthPic" Width="247" Height="165" Margin="1525,735,140,180"/>
+        <Image x:Name="FourthPicFront" Width="247" Height="165" Margin="1525,735,140,180"/>
+        <Image x:Name="FifthPic" Width="247" Height="165" Margin="1525,550,140,365"/>
+        <Image x:Name="FifthPicFront" Width="247" Height="165" Margin="1525,550,140,365"/>
+        <Image x:Name="SixthPic" Width="247" Height="165" Margin="1525,735,140,180"/>
+        <Image x:Name="SixthPicFront" Width="247" Height="165" Margin="1525,735,140,180"/>
+        <TextBlock x:Name="tblState" Margin="420,54,420,0" FontSize="50" VerticalAlignment="Top" Width="1080" Height="100" TextAlignment="Center"/>
+    </Grid>
+</Page>

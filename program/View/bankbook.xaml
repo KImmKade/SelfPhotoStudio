@@ -1,0 +1,70 @@
+﻿<Window x:Class="wpfTest.View.bankbook"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfTest.View"
+        mc:Ignorable="d"
+        xmlns:mtD="http://materialdesigninxaml.net/winfx/xaml/themes"
+        ResizeMode="NoResize"
+        Title="bankbook" x:Name="Bankbookwindow" Height="900" Width="1320" Closed="Window_Closed">
+    <Grid Loaded="Grid_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="440"/>
+                <ColumnDefinition Width="440"/>
+                <ColumnDefinition Width="440"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button x:Name="PreViewMonth" Width="50" Height="50" Margin="0,0,5,0" HorizontalAlignment="Right" Background="DodgerBlue" Click="PreViewMonth_Click">
+                    <mtD:PackIcon Kind="ChevronLeft" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBlock x:Name="DateTimeTB" HorizontalAlignment="Center" VerticalAlignment="Center" Width="auto" Height="auto" FontSize="30" FontFamily="Arial"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Button x:Name="NextMonth" Width="50" Height="50" Margin="5,0,0,0" HorizontalAlignment="Left" Background="DodgerBlue" Click="NextMonth_Click">
+                    <mtD:PackIcon Kind="ChevronRight" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Button>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <ListView ItemsSource="{Binding instance}" Width="1000" x:Name="BankLV" Grid.Row="1" Grid.Column="0" Margin="10" Background="AliceBlue">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="날짜" Width="100" DisplayMemberBinding="{Binding Data_Date}"/>
+                            <GridViewColumn Header="촬영횟수" Width="120" DisplayMemberBinding="{Binding Data_TakenShot}"/>
+                            <GridViewColumn Header="유료촬영" Width="120" DisplayMemberBinding="{Binding Data_ChargedShot}"/>
+                            <GridViewColumn Header="무료촬영" Width="120" DisplayMemberBinding="{Binding Data_FreeShot}"/>
+                            <GridViewColumn Header="카드매출" Width="120" DisplayMemberBinding="{Binding Data_CouponShot}"/>
+                            <GridViewColumn Header="현금매출" Width="120" DisplayMemberBinding="{Binding Data_Money}"/>
+                            <GridViewColumn Header="출력횟수" Width="120" DisplayMemberBinding="{Binding Data_PrintedPage}"/>
+                            <GridViewColumn Header="잔여용지" Width="120" DisplayMemberBinding="{Binding Data_Remain}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <StackPanel Orientation="Vertical" VerticalAlignment="Bottom">
+                    <Button x:Name="CloseBtn" Width="100" Height="50" Background="IndianRed" Content="닫기" Margin="0,0,0,20" Click="CloseBtn_Click"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="현금매출 :" Width="100"  Height="70" VerticalAlignment="Bottom" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        <Label x:Name="cashMoney" Content="\" Width="100" Height="70" VerticalAlignment="Bottom" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="카드매출 :" Width="100"  Height="70" VerticalAlignment="Bottom" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        <Label x:Name="cardMoney" Content="\" Width="100" Height="70" VerticalAlignment="Bottom" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="총 계 :" Width="100"  Height="70" VerticalAlignment="Bottom" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        <Label x:Name="TotalMoney" Content="\" Width="100" Height="70" VerticalAlignment="Bottom" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

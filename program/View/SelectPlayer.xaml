@@ -1,0 +1,22 @@
+﻿<Page x:Class="Onecut.View.SelectPlayer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Onecut.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="SelectPlayer" Background="White">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="Backgroundimg"/>
+        <Image x:Name="FirstPlayer" Width="360" Height="500" Margin="174,317,1386,263" MouseLeftButtonDown="FirstPlayer_MouseLeftButtonDown"/>
+        <Image x:Name="SecondPlayer" Width="360" Height="500" Margin="580,317,980,263" MouseLeftButtonDown="SecondPlayer_MouseLeftButtonDown"/>
+        <Image x:Name="ThirdPlayer" Width="360" Height="500" Margin="986,317,574,263" MouseLeftButtonDown="ThirdPlayer_MouseLeftButtonDown"/>
+        <Image x:Name="FourthPlayer" Width="360" Height="500" Margin="1392,317,168,263" MouseLeftButtonDown="FourthPlayer_MouseLeftButtonDown"/>
+        <Image x:Name="FifthPlayer" Width="360" Height="500" Margin="1557,317,102,263" MouseLeftButtonDown="FifthPlayer_MouseLeftButtonDown"/>
+        <Image x:Name="BackImg" Stretch="Fill" Width="370" Height="100" Margin="569,927,981,53" MouseLeftButtonDown="BackImg_MouseLeftButtonDown"/>
+        <Image x:Name="NextImg" Stretch="Fill" Width="370" Height="100" Margin="979,927,571,53" MouseLeftButtonDown="NextImg_MouseLeftButtonDown"/>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1720, 41, 0, 0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</Page>

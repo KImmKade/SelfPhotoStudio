@@ -1,0 +1,37 @@
+﻿<Page x:Class="wpfTest.View.SelectPic"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="SelectPic" Background="white">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="backgroundimg" Stretch="Fill"/>
+        <Image x:Name="priewviewimg" Width="206" Height="590" Stretch="Fill" Margin="609,349,1105,141"/>
+        <Image x:Name="Selectfirstpic" Margin="0,0,1920,1080" Stretch="Fill" MouseLeftButtonDown="Selectfirstpic_MouseLeftButtonDown"/>
+        <Image x:Name="Selectsecondpic" Margin="0,0,1920,1080" Stretch="Fill" MouseLeftButtonDown="Selectsecondpic_MouseLeftButtonDown"/>
+        <Image x:Name="Selectthirdpic" Margin="0,0,1920,1080" Stretch="Fill" MouseLeftButtonDown="Selectthirdpic_MouseLeftButtonDown"/>
+        <Image x:Name="Selectfourthpic" Margin="0,0,1920,1080" Stretch="Fill" MouseLeftButtonDown="Selectfourthpic_MouseLeftButtonDown"/>
+        <Border x:Name="firstpicborder" Background="White" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1005,310,694,620" Opacity="0"/>
+        <Image x:Name="Firstpic" Stretch="Fill" Width="211" Height="140" Margin="1010,315,699,625" MouseLeftButtonDown="Firstpic_MouseLeftButtonDown"/>
+        <Border x:Name="secondpicborder" Background="white" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1233,310,466,620" Opacity="0"/>
+        <Image x:Name="Secondpic" Stretch="Fill" Width="211" Height="140" Margin="1238,315,471,625" MouseLeftButtonDown="Secondpic_MouseLeftButtonDown"/>
+        <Border x:Name="thirdpicborder" Background="white" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1005,466,694,464" Opacity="0"/>
+        <Image x:Name="Thirdpic" Stretch="Fill" Width="211" Height="140" Margin="1010,471,699,469" MouseLeftButtonDown="Thirdpic_MouseLeftButtonDown"/>
+        <Border x:Name="fourthpicborder" Background="white" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1233,466,466,464" Opacity="0"/>
+        <Image x:Name="Fourthpic" Stretch="Fill" Width="211" Height="140" Margin="1238,471,471,469" MouseLeftButtonDown="Fourthpic_MouseLeftButtonDown"/>
+        <Border x:Name="fifthpicborder" Background="white" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1005,621,694,309" Opacity="0"/>
+        <Image x:Name="Fifthpic" Stretch="Fill" Width="211" Height="140" Margin="1010,626,699,314" MouseLeftButtonDown="Fifthpic_MouseLeftButtonDown"/>
+        <Border x:Name="sixthpicborder" Background="white" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1233,621,466,309" Opacity="0"/>
+        <Image x:Name="Sixthpic" Stretch="Fill" Width="211" Height="140" Margin="1238,626,471,314" MouseLeftButtonDown="Sixthpic_MouseLeftButtonDown"/>
+        <Border x:Name="seventhpicborder" Background="white" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1005,783,694,146" Opacity="0"/>
+        <Image x:Name="Seventhpic" Stretch="Fill" Margin="1010,788,699,151" MouseLeftButtonDown="Seventhpic_MouseLeftButtonDown"/>
+        <Border x:Name="eighthpicborder" Background="white" BorderBrush="IndianRed" BorderThickness="5,5,5,5" Margin="1236,783,464,146" Opacity="0"/>
+        <Image x:Name="Eighthpic" Stretch="Fill" Margin="1240,788,470,151" MouseLeftButtonDown="Eighthpic_MouseLeftButtonDown"/>
+        <Image x:Name="nextpage" Width="213" Height="73" Margin="1630,928,78,80" MouseLeftButtonDown="nextpage_MouseLeftButtonDown"/>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1720,130,0,0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</Page>

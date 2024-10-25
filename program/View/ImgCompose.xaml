@@ -1,0 +1,148 @@
+﻿<Page x:Class="wpfTest.View.ImgCompose"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="ImgCompose" Background="White">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="BackgroundImg"/>
+        <Image x:Name="PrintBtn" Width="214" Height="73" Margin="1630,928,78,80" Stretch="Fill" MouseLeftButtonDown="PrintBtn_MouseLeftButtonDown"/>
+        <Border x:Name="firstpicborder" Background="White" BorderBrush="#eaeaea" BorderThickness="3,3,3,3" Margin="857,347,857,127"/>
+        <Image x:Name="PriewViewImg" Width="200" Height="600" Margin="860,350,860,130" RenderOptions.BitmapScalingMode="Fant"/>
+        <Image x:Name="Colorbackbtn" Width="81" Height="80" Margin="729,610,1110,390" MouseLeftButtonDown="Colorbackbtn_MouseLeftButtonDown"/>
+        <Image x:Name="Colornextbtn" Width="81" Height="80" Margin="1110,610,729,390" MouseLeftButtonDown="Colornextbtn_MouseLeftButtonDown" />
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1720,130,0,0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+        <Image x:Name="ColorFilter" Width="182" Height="219" Margin="1439,350,299,511" MouseLeftButtonDown="ColorFilter_MouseLeftButtonDown"/>
+        <Image x:Name="GrayFilter" Width="182" Height="219" Margin="1439,602,299,259" MouseLeftButtonDown="GrayFilter_MouseLeftButtonDown"/>
+        <Image x:Name="RetakeBtn" Width="213" Height="73" Margin="78,928,1630,80" MouseLeftButtonDown="RetakeBtn_MouseLeftButtonDown"/>
+        <Image x:Name="BackBtn" Margin="0,0,1920,1080" MouseLeftButtonDown="BackBtn_MouseLeftButtonDown"/>
+
+        <Border x:Name="border1" Width="300" Height="250" CornerRadius="20,20,20,20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="first" Width="300" Height="250" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle1" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border2" CornerRadius="20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="second" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle2" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border3" CornerRadius="20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="third" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle3" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border4" CornerRadius="20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="fourth" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle4" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border5" CornerRadius="20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="fifth" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle5" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border6" CornerRadius="20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="sixth" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle6" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border7" CornerRadius="20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="seventh" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle7" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border8" CornerRadius="20" Background="White" Margin="0,0,1920,1080">
+            <Image x:Name="eighth" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle8" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+
+        <Border x:Name="border1front" Width="300" Height="250" CornerRadius="20,20,20,20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="firstfrontimg" Width="300" Height="250" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle1front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border2front" CornerRadius="20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="secondfrontimg" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle2front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border3front" CornerRadius="20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="thirdfrontimg" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle3front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border4front" CornerRadius="20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="fourthfrontimg" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle4front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border5front" CornerRadius="20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="fifthfrontimg" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle5front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border6front" CornerRadius="20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="sixthfrontimg" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle6front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border7front" CornerRadius="20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="seventhfrontimg" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle7front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+        <Border x:Name="border8front" CornerRadius="20" Background="Transparent" Margin="0,0,1920,1080">
+            <Image x:Name="eighthfrontimg" Stretch="Fill">
+                <Image.Clip>
+                    <RectangleGeometry x:Name="rectangle8front" RadiusX="20" RadiusY="20" Rect="0,0,300,250"/>
+                </Image.Clip>
+            </Image>
+        </Border>
+
+
+        <Image x:Name="firstfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="firstfront_MouseLeftButtonDown"/>
+        <Image x:Name="secondfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="secondfront_MouseLeftButtonDown"/>
+        <Image x:Name="thirdfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="thirdfront_MouseLeftButtonDown"/>
+        <Image x:Name="fourthfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="fourthfront_MouseLeftButtonDown"/>
+        <Image x:Name="fifthfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="fifthfront_MouseLeftButtonDown"/>
+        <Image x:Name="sixthfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="sixthfront_MouseLeftButtonDown"/>
+        <Image x:Name="seventhfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="seventhfront_MouseLeftButtonDown"/>
+        <Image x:Name="eighthfront" Margin="0,0,1920,1080" Opacity="0" MouseLeftButtonDown="eighthfront_MouseLeftButtonDown"/>
+    </Grid>
+</Page>

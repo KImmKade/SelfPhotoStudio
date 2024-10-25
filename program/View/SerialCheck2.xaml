@@ -1,0 +1,558 @@
+﻿<Page x:Class="wpfTest.View.SerialCheck2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="SerialCheck2" 
+      xmlns:mtD="http://materialdesigninxaml.net/winfx/xaml/themes" Background="white">
+
+    <Grid Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="384"/>
+            <ColumnDefinition Width="384"/>
+            <ColumnDefinition Width="768"/>
+            <ColumnDefinition Width="384"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Margin="5">
+            <StackPanel>
+                <GroupBox x:Name="SettingVersion" Height="auto">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="CheckAll" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" FontSize="20" Text="버전 체크" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Viewbox>
+                            <RadioButton x:Name="RentalBtn" GroupName="SellorRental" Width="173" FontSize="15" Content="렌탈" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Checked="RentalBtn_Checked"/>
+                        </Viewbox>
+                        <Viewbox>
+                            <RadioButton x:Name="SellBtn" GroupName="SellorRental" Width="173" FontSize="15" Margin="5,0,0,0" Content="납품" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Checked="SellBtn_Checked"/>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="howmuch" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Paper" Margin="15,0,0,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">수량 선택</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel>
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="수량선택" Padding="10" x:Name="pagecobox" Margin="0,0,0,10" SelectionChanged="pagecobox_SelectionChanged">
+                            <ComboBoxItem Content="1장"/>
+                            <ComboBoxItem Content="2장"/>
+                            <ComboBoxItem Content="3장"/>
+                            <ComboBoxItem Content="4장"/>
+                            <ComboBoxItem Content="5장"/>
+                            <ComboBoxItem Content="6장"/>
+                            <ComboBoxItem Content="7장"/>
+                            <ComboBoxItem Content="8장"/>
+                            <ComboBoxItem Content="9장"/>
+                            <ComboBoxItem Content="10장"/>
+                        </ComboBox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="KakaoOnOff" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="EmailFast" Margin="15,0,0,0" Foreground="white" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">카카오톡 여부</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="Use" GroupName="UseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="Use_Checked">사용</RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="NotUse" GroupName="UseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="NotUse_Checked">미사용</RadioButton>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="qronoff" Margin="0,10,0,0" IsEnabled="False">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="EmailFast" Margin="15,0,0,0" Foreground="white" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">QR 사용 여부</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="QRUse" GroupName="qrUseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="QRUse_Checked">사용</RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="QRNotUse" GroupName="qrUseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="QRNotUse_Checked">미사용</RadioButton>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="selecttemp" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Check" Margin="15,0,0,0" Foreground="white" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">템플릿 선택 여부</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="tempUse" GroupName="tempUseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="tempUse_Checked">사용</RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="tempNotUse" GroupName="tempUseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="tempNotUse_Checked">미사용</RadioButton>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="tempcount" VerticalAlignment="Top" Height="auto" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageFrame" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">템플릿 개수 선택</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Margin="5">
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="템플릿 선택" Padding="10" x:Name="tempcountcb" Margin="0,0,0,10" SelectionChanged="tempcountcb_SelectionChanged">
+                            <ComboBoxItem Content="1개"/>
+                            <ComboBoxItem Content="2개"/>
+                            <ComboBoxItem Content="3개"/>
+                            <ComboBoxItem Content="4개"/>
+                            <ComboBoxItem Content="5개"/>
+                            <ComboBoxItem Content="6개"/>
+                        </ComboBox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox VerticalAlignment="Top" Height="auto" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageFrame" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">필터사용</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Margin="5">
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="필터 선택" Padding="10" x:Name="coloruse" Margin="0,0,0,10" SelectionChanged="coloruse_SelectionChanged">
+                            <ComboBoxItem Content="Color &amp; Black"/>
+                            <ComboBoxItem Content="Color"/>
+                            <ComboBoxItem Content="Black"/>
+                            <ComboBoxItem Content="None"/>
+                        </ComboBox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="picratio" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Check" Margin="15,0,0,0" Foreground="white" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">사진 비율 선택</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="pic32" GroupName="picraioname" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="pic32_Checked">3 : 2</RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="pic11" GroupName="picraioname" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="pic11_Checked">1 : 1</RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="pic23" GroupName="picraioname" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="pic23_Checked">2 : 3</RadioButton>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1" Margin="5">
+            <StackPanel>
+                <GroupBox x:Name="picnum" Margin="0,0,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="HelpCircle" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock FontSize="15" Foreground="White" VerticalAlignment="Center">사진 개수 선택</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel>
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="컷수선택" Padding="10" x:Name="selectcut" Margin="0,0,0,10" SelectionChanged="selectcut_SelectionChanged">
+                            <ComboBoxItem Content="1컷"/>
+                            <ComboBoxItem Content="2컷"/>
+                            <ComboBoxItem Content="3컷"/>
+                            <ComboBoxItem Content="4컷"/>
+                            <ComboBoxItem Content="5컷"/>
+                            <ComboBoxItem Content="6컷"/>
+                        </ComboBox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="paperratio" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Check" Margin="15,0,0,0" Foreground="white" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">용지 비율 선택</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel>
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="용지비율선택" Padding="10" x:Name="ptinrationame" Margin="0,0,0,10" SelectionChanged="ptinrationame_SelectionChanged">
+                            <ComboBoxItem Content="Split"/>
+                            <ComboBoxItem Content="1200 : 1800"/>
+                            <ComboBoxItem Content="1800 : 1200"/>
+                        </ComboBox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox Margin="0,5,0,0" x:Name="pic1settingGB">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageMarker" Margin="0,5,0,0" Width="30" Height="30" Foreground="white"/>
+                            <TextBlock FontSize="15" Foreground="White" Margin="5,0,0,0" VerticalAlignment="Center">1번사진 좌표</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <TextBox x:Name="pic1startxlocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진1 시작위치(X)" Width="140" TextChanged="pic1startxlocation_TextChanged"/>
+                                <TextBox x:Name="pic1widthlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진1 가로 길이" Width="140" TextChanged="pic1widthlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <TextBox x:Name="pic1startylocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진1 시작위치(Y)" Width="140" TextChanged="pic1startylocation_TextChanged"/>
+                                <TextBox x:Name="pic1heightlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진1 세로 길이" Width="140" TextChanged="pic1heightlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Margin="0,5,0,0" x:Name="pic2settingGB">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageMarker" Margin="0,5,0,0" Width="30" Height="30" Foreground="white"/>
+                            <TextBlock FontSize="15" Foreground="White" Margin="5,0,0,0" VerticalAlignment="Center">2번사진 좌표</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <TextBox x:Name="pic2startxlocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진2 시작위치(X)" Width="140" TextChanged="pic2startxlocation_TextChanged"/>
+                                <TextBox x:Name="pic2widthlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진2 가로 길이" Width="140" TextChanged="pic2widthlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <TextBox x:Name="pic2startylocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진2 시작위치(Y)" Width="140" TextChanged="pic2startylocation_TextChanged"/>
+                                <TextBox x:Name="pic2heightlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진2 세로 길이" Width="140" TextChanged="pic2heightlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Margin="0,5,0,0" x:Name="pic3settingGB">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageMarker" Margin="0,5,0,0" Width="30" Height="30" Foreground="white"/>
+                            <TextBlock FontSize="15" Foreground="White" Margin="5,0,0,0" VerticalAlignment="Center">3번사진 좌표</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <TextBox x:Name="pic3startxlocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진3 시작위치(X)" Width="140" TextChanged="pic3startxlocation_TextChanged"/>
+                                <TextBox x:Name="pic3widthlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진3 가로 길이" Width="140" TextChanged="pic3widthlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <TextBox x:Name="pic3startylocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진3 시작위치(Y)" Width="140" TextChanged="pic3startylocation_TextChanged"/>
+                                <TextBox x:Name="pic3heightlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진3 세로 길이" Width="140" TextChanged="pic3heightlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Margin="0,5,0,0" x:Name="pic4settingGB">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageMarker" Margin="0,5,0,0" Width="30" Height="30" Foreground="white"/>
+                            <TextBlock FontSize="15" Foreground="White" Margin="5,0,0,0" VerticalAlignment="Center">4번사진 좌표</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <TextBox x:Name="pic4startxlocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진4 시작위치(X)" Width="140" TextChanged="pic4startxlocation_TextChanged"/>
+                                <TextBox x:Name="pic4widthlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진4 가로 길이" Width="140" TextChanged="pic4widthlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <TextBox x:Name="pic4startylocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진4 시작위치(Y)" Width="140" TextChanged="pic4startylocation_TextChanged"/>
+                                <TextBox x:Name="pic4heightlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진4 세로 길이" Width="140" TextChanged="pic4heightlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Margin="0,5,0,0" x:Name="pic5settingGB">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageMarker" Margin="0,5,0,0" Width="30" Height="30" Foreground="white"/>
+                            <TextBlock FontSize="15" Foreground="White" Margin="5,0,0,0" VerticalAlignment="Center">5번사진 좌표</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <TextBox x:Name="pic5startxlocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진4 시작위치(X)" Width="140" TextChanged="pic5startxlocation_TextChanged"/>
+                                <TextBox x:Name="pic5widthlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진4 가로 길이" Width="140" TextChanged="pic5widthlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <TextBox x:Name="pic5startylocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진4 시작위치(Y)" Width="140" TextChanged="pic5startylocation_TextChanged"/>
+                                <TextBox x:Name="pic5heightlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진4 세로 길이" Width="140" TextChanged="pic5heightlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Margin="0,5,0,0" x:Name="QRgroupbox">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageMarker" Margin="0,5,0,0" Width="30" Height="30" Foreground="white"/>
+                            <TextBlock FontSize="15" Foreground="White" Margin="5,0,0,0" VerticalAlignment="Center">QR 좌표</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <TextBox x:Name="qrstartxlocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="QR 시작위치(X)" Width="140" TextChanged="qrstartxlocation_TextChanged"/>
+                                <TextBox x:Name="qrwidthlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="QR 가로 길이" Width="140" TextChanged="qrwidthlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <TextBox x:Name="qrstartylocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="QR 시작위치(Y)" Width="140" TextChanged="qrstartylocation_TextChanged"/>
+                                <TextBox x:Name="qrheightlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="QR 세로 길이" Width="140" TextChanged="qrheightlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="187"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Button x:Name="priewviewbtn" Width="177" Height="auto" Content="미리보기" Margin="5,0,5,0" Background="DodgerBlue" Click="priewviewbtn_Click"/>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Button x:Name="reset" Width="177" Height="auto" Content="값 리셋" Margin="5,0,5,0" Background="IndianRed" Click="reset_Click"/>
+                    </Grid>
+                </Grid>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="2" Margin="5">
+            <StackPanel>
+                <StackPanel Height="700">
+                    <Image x:Name="priewviewimg" Margin="0,5,0,5" Width="200" Height="600"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <GroupBox x:Name="SellTempSettingGB" Height="auto"  Margin="0,5,0,0">
+                        <GroupBox.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <mtD:PackIcon Kind="SettingsApplications" Width="30" Height="30" Foreground="White"/>
+                                <TextBox FontSize="15" Margin="10,0,0,0" VerticalContentAlignment="Center" Text="템플릿 세팅" Foreground="White"/>
+                            </StackPanel>
+                        </GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Viewbox>
+                                <RadioButton x:Name="Temp1Btn" GroupName="SellTemp" Width="150" Height="auto" FontSize="15" Content="1번 템플릿" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Checked="Temp1Btn_Checked"/>
+                            </Viewbox>
+                            <Viewbox>
+                                <RadioButton x:Name="Temp2Btn" GroupName="SellTemp" Width="150" Height="auto" FontSize="15" Content="2번 템플릿" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="5,0,0,0" Checked="Temp2Btn_Checked"/>
+                            </Viewbox>
+                            <Viewbox>
+                                <RadioButton x:Name="Temp3Btn" GroupName="SellTemp" Width="150" Height="auto" FontSize="15" Content="3번 템플릿" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="5,0,0,0" Checked="Temp3Btn_Checked"/>
+                            </Viewbox>
+                        </StackPanel>
+                    </GroupBox>
+                    
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="3" Margin="5">
+            <StackPanel>
+                <GroupBox Margin="0,5,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Paint" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock FontSize="15" Foreground="White" VerticalAlignment="Center" Margin="5,0,0,0">폰트 색상</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox x:Name="fontcolortb" Width="159" Height="25" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="타이머 폰트 색상 코드" TextChanged="fontcolortb_TextChanged"/>
+                            <Canvas x:Name="fontcolorcanvas" Width="177" Height="25"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox x:Name="datefontcolortb" Width="159" Height="25" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="템플릿 폰트 색상 코드" TextChanged="datefontcolortb_TextChanged"/>
+                            <Canvas x:Name="datefontcolorcanvas" Width="177" Height="25"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox x:Name="kakaofontcolor" Width="159" Height="25" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="전화번호 폰트 색상 코드" TextChanged="kakaofontcolor_TextChanged"/>
+                            <Canvas x:Name="kakaofontcolorcanvas" Width="177" Height="25"/>
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+
+                <GroupBox Margin="0,5,0,0" x:Name="pic6settingGB">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageMarker" Margin="0,5,0,0" Width="30" Height="30" Foreground="white"/>
+                            <TextBlock FontSize="15" Foreground="White" Margin="5,0,0,0" VerticalAlignment="Center">6번사진 좌표</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <TextBox x:Name="pic6startxlocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진4 시작위치(X)" Width="140" TextChanged="pic6startxlocation_TextChanged"/>
+                                <TextBox x:Name="pic6widthlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진4 가로 길이" Width="140" TextChanged="pic6widthlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <TextBox x:Name="pic6startylocation" Style="{StaticResource MaterialDesignTextBox}" mtD:HintAssist.Hint="사진4 시작위치(Y)" Width="140" TextChanged="pic6startylocation_TextChanged"/>
+                                <TextBox x:Name="pic6heightlengh" Style="{StaticResource MaterialDesignTextBox}" Margin="0,5,0,0" mtD:HintAssist.Hint="사진4 세로 길이" Width="140" TextChanged="pic6heightlengh_TextChanged"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox x:Name="qrpageonoff" Margin="0,10,0,0" IsEnabled="False">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="EmailFast" Margin="15,0,0,0" Foreground="white" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">QR페이지 사용 여부</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="QRpageUse" GroupName="qrpageUseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="QRpageUse_Checked">사용</RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="QRpageNotUse" GroupName="qrpageUseOrNot" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="QRpageNotUse_Checked">미사용</RadioButton>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="TempDate" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Calendar" Margin="15,0,0,0" Foreground="white" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">템플릿 위에 날짜</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="DateonTempon" GroupName="DateonTemp" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="DateonTempon_Checked">사용</RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="45">
+                            <RadioButton x:Name="DateonTempoff" GroupName="DateonTemp" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="DateonTempoff_Checked">미사용</RadioButton>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="videoGB" Height="auto" Margin="0,0,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="VideoBox" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">동영상기능</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal" Margin="5,0,0,0">
+                        <Viewbox>
+                            <RadioButton x:Name="Novideo" Width="168" GroupName="CheckVideo" Content="비디오 미사용" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Checked="Novideo_Checked"/>
+                        </Viewbox>
+                        <Viewbox Margin="5,0,5,0">
+                            <RadioButton x:Name="UseVideo" Width="168" GroupName="CheckVideo" Content="비디오 사용" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Checked="UseVideo_Checked"/>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="couponGB" Height="auto" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="VideoBox" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">쿠폰페이지</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal" Margin="5,0,0,0">
+                        <Viewbox>
+                            <RadioButton x:Name="Nocoupon" Width="168" GroupName="Checkcoupon" Content="쿠폰 미사용" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Checked="Nocoupon_Checked"/>
+                        </Viewbox>
+                        <Viewbox Margin="5,0,5,0">
+                            <RadioButton x:Name="Usecoupon" Width="168" GroupName="Checkcoupon" Content="쿠폰 사용" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Checked="Usecoupon_Checked"/>
+                        </Viewbox>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Bottom">
+                <Label x:Name="label1" Background="White" Foreground="#63AA00" FontSize="20" FontWeight="Bold" Width="372" Height="36"/>
+                <GroupBox x:Name="SaveExitGroupBox" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ExitRun" Margin="0,0,5,0" Width="30" Height="30" Foreground="White"/>
+                            <TextBlock Foreground="White" FontSize="20">메인 메뉴 및 시스템 종료</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="186"/>
+                            <ColumnDefinition Width="186"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" Margin="0,0,5,0">
+                            <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                                <Button x:Name="button" Margin="0,0,0,0" Background="Green" Width="155" Height="40" Click="button_Click">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock x:Name="SaveButton" FontSize="20" Foreground="White" VerticalAlignment="Center" Text="저장"/>
+                                    </StackPanel>
+                                </Button>
+                                <Button x:Name="ToMain" Margin="0,5,0,0" Background="DodgerBlue" Width="155" Height="40" Click="ToMain_Click">
+                                    <TextBlock Foreground="White" FontSize="20" Text="메인으로"/>
+                                </Button>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1" Margin="0,0,5,0">
+                            <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                                <Button Margin="0,0,0,0" IsEnabled="True" x:Name="BackPageBtn" Width="155" Height="40" Background="DodgerBlue" Click="BackPageBtn_Click">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock x:Name="NextPageBtnTB" FontSize="20" Foreground="White" FontFamily="Arial" VerticalAlignment="Center">이전</TextBlock>
+                                    </StackPanel>
+                                </Button>
+                                <Button x:Name="button1" Margin="0,5,0,0" Background="Red" Width="155" Height="40" Click="button1_Click">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock x:Name="ExitButton" FontSize="20" Foreground="White" VerticalAlignment="Center" Text="종료"/>
+                                    </StackPanel>
+                                </Button>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

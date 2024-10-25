@@ -1,0 +1,641 @@
+﻿<Page x:Class="wpfTest.View.SerialCheck"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920" Title="SerialCheck"
+      xmlns:mtD="http://materialdesigninxaml.net/winfx/xaml/themes" Background="white">
+    <Grid Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="380"/>
+            <ColumnDefinition Width="380"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Margin="5">
+            <StackPanel>
+                <GroupBox x:Name="InitGroupBox" IsEnabled="False" VerticalAlignment="Top" Height="auto" Margin="0,5,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="CashRegister" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <mtD:PackIcon Kind="Connection" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">BillMachine Connect</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Margin="30,0,30,0">
+                        <mtD:Chip HorizontalAlignment="Center">
+                            <Label x:Name="SerialLabel" FontSize="20" Content="No Connect"/>
+                        </mtD:Chip>
+                        <ListBox x:Name="SerialListBox" Height="128" Margin="0,0,0,5"/>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <Button x:Name="SerialButton" Content="Connect" Width="141" Height="30" Margin="0,0,0,0" Background="DodgerBlue" Click="SerialButton_Click">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="3"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                            <Button x:Name="DisconnectButton" Content="DisConnet" Width="141" Height="30" Margin="10,0,0,0" Background="IndianRed" Click="DisconnectButton_Click">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="3"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                        </StackPanel>
+                        <Button x:Name="RefreshButton" Height="30" Margin="00,10,0,0" Click="RefreshButton_Click">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="3"/>
+                                </Style>
+                            </Button.Resources>
+                            <StackPanel Orientation="Horizontal">
+                                <mtD:PackIcon Kind="Refresh" Margin="0,1,0,0"/>
+                                <TextBlock x:Name="refreshbtnTB" Text="COMPORT 검색" Foreground="White" Margin="5,0,0,0"/>
+                            </StackPanel>
+                        </Button>
+                        <StackPanel Orientation="Horizontal">
+                            <Button x:Name="checkinsert" Content="투입 가능 확인" Width="141" Height="30" Margin="0,10,0,0" Background="DodgerBlue" IsEnabled="False" Click="checkinsert_Click">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="3"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                            <StackPanel Orientation="Horizontal">
+                                <Button x:Name="checkinsertstop" Content="투입 불가 확인" Width="141" Height="30" Margin="10,10,0,0" Background="IndianRed" IsEnabled="False" Click="checkinsertstop_Click">
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="3"/>
+                                        </Style>
+                                    </Button.Resources>
+                                </Button>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="SettingGroupBox" VerticalAlignment="Top" Margin="0,10,0,0" IsEnabled="False" Height="auto">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Settings" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">Setting</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Margin="10,0,10,0">
+                        <GroupBox x:Name="ReTakePhotoCheckBox" Margin="0,0,0,0">
+                            <GroupBox.Header>
+                                <StackPanel Orientation="Horizontal">
+                                    <mtD:PackIcon Kind="CameraRetake" Margin="15,0,0,0" Foreground="White" Width="30" Height="30"/>
+                                    <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">재촬영 확인</TextBlock>
+                                </StackPanel>
+                            </GroupBox.Header>
+                            <StackPanel>
+                                <Viewbox Height="45">
+                                    <RadioButton x:Name="Retakebtn" GroupName="RetakeOrNo" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="Retakebtn_Checked">재촬영</RadioButton>
+                                </Viewbox>
+                                <Viewbox Height="45">
+                                    <RadioButton GroupName="RetakeOrNo" x:Name="NoTakebtn" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Center" Width="110" Checked="NoTakebtn_Checked">재촬영 없음</RadioButton>
+                                </Viewbox>
+                            </StackPanel>
+                        </GroupBox>
+                        <GroupBox x:Name="FlipOnOff" Margin="0,10,0,0">
+                            <GroupBox.Header>
+                                <StackPanel Orientation="Horizontal">
+                                    <mtD:PackIcon Kind="CameraFlip" Margin="15,0,0,0" Foreground="White" Width="30" Height="30"/>
+                                    <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">좌우 반전</TextBlock>
+                                </StackPanel>
+                            </GroupBox.Header>
+                            <StackPanel>
+                                <Viewbox Height="45">
+                                    <RadioButton x:Name="FlipUse" GroupName="CheckUse" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="FlipUse_Checked">미사용</RadioButton>
+                                </Viewbox>
+                                <Viewbox Height="45">
+                                    <RadioButton x:Name="FlipNotUse" GroupName="CheckUse" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="FlipNotUse_Checked">사용</RadioButton>
+                                </Viewbox>
+                            </StackPanel>
+                        </GroupBox>
+                        <GroupBox x:Name="autologinGB" Margin="0,10,0,0">
+                            <GroupBox.Header>
+                                <StackPanel Orientation="Horizontal">
+                                    <mtD:PackIcon Kind="Automatic" Margin="15,0,0,0" Foreground="White" Width="30" Height="30"/>
+                                    <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">자동로그인</TextBlock>
+                                </StackPanel>
+                            </GroupBox.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <Viewbox Height="45">
+                                    <RadioButton x:Name="autouse" GroupName="loginuse" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="autouse_Checked">사용</RadioButton>
+                                </Viewbox>
+                                <Viewbox Height="45">
+                                    <RadioButton x:Name="autonotuse" GroupName="loginuse" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="autonotuse_Checked">미사용</RadioButton>
+                                </Viewbox>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox x:Name="checktogethertb" Margin="0,10,0,0">
+                            <GroupBox.Header>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">같이찍기</TextBlock>
+                                </StackPanel>
+                            </GroupBox.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <Viewbox Height="45">
+                                    <RadioButton x:Name="togetheruse" GroupName="checksolo" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="togetheruse_Checked">사용</RadioButton>
+                                </Viewbox>
+                                <Viewbox Height="45">
+                                    <RadioButton x:Name="solouse" GroupName="checksolo" Height="28" Margin="40,10,0,0" VerticalAlignment="Top" FontSize="15" HorizontalAlignment="Left" Width="85" Checked="solouse_Checked">미사용</RadioButton>
+                                </Viewbox>
+                            </StackPanel>
+                        </GroupBox>
+                    </StackPanel>
+                </GroupBox>
+                <StackPanel VerticalAlignment="Bottom" Orientation="Horizontal" HorizontalAlignment="Left">
+                    <TextBlock Text="버전 : " FontSize="10" Foreground="Black"/>
+                    <TextBlock x:Name="VersionTB"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Column="1" Margin="5">
+            <StackPanel>
+                <GroupBox x:Name="InitGroupBox2" VerticalAlignment="Top" Height="auto" Margin="0,0,0,10">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Camera" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">Camera Connect</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Margin="30,0,30,0">
+                        <mtD:Chip HorizontalAlignment="Center">
+                            <Label x:Name="CameraLabel" FontSize="15" Content="No Connect"/>
+                        </mtD:Chip>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="CameraSettingGroupBox" IsEnabled="False">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Camera" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <mtD:PackIcon Kind="Settings" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">Setting</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel>
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="AV" Padding="10" x:Name="AVCoBox" Margin="0,0,0,10" SelectionChanged="AVCoBox_SelectionChanged_1"/>
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="TV" Padding="10" x:Name="TvCoBox" Margin="0,0,0,10" SelectionChanged="TvCoBox_SelectionChanged_1"/>
+                        <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="ISO" Padding="10" x:Name="ISOCoBox" Margin="0,0,0,10" SelectionChanged="ISOCoBox_SelectionChanged_1"/>
+                        <TextBox Style="{StaticResource MaterialDesignOutlinedTextBox}" x:Name="SavePathTextBox" Padding="10" Width="350" IsEnabled="True" IsReadOnly="True"
+                                 HorizontalAlignment="Center" Margin="0,0,0,5"/>
+                        <ProgressBar x:Name="MainProgressBar" Height="10" Value="0" Foreground="LawnGreen" Margin="0,10,0,0"/>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="PaperInitialization" VerticalAlignment="Top" Height="auto" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Printer" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">용지 초기화</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="200"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" Margin="5">
+                            <TextBlock x:Name="Initialization" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="60" Height="100" FontFamily="Arial"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Margin="5">
+                            <Button x:Name="InitializationBtn" Height="100" Margin="5,5,5,5" Click="InitializationBtn_Click">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="5"/>
+                                    </Style>
+                                </Button.Resources>
+                                <TextBlock x:Name="InitializationBtnName" FontSize="19" Foreground="White" FontFamily="Arial" VerticalAlignment="Center" HorizontalAlignment="Center">용지 초기화</TextBlock>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox x:Name="checkpayment" Margin="0,10,0,0" IsEnabled="False">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="CashRegister" Margin="15,0,0,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" Margin="10,0,0,0" VerticalAlignment="Center" FontSize="15">결제 방법</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <Button Width="171" Content="결제방법" Foreground="White"/>
+                            <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="결제방법" Width="171" Padding="10" x:Name="PayWayCB" Margin="10,0,0,0" SelectionChanged="PayWayCB_SelectionChanged">
+                                <ComboBoxItem Content="무료"/>
+                                <ComboBoxItem Content="현금"/>
+                                <ComboBoxItem Content="카드"/>
+                                <ComboBoxItem Content="현금 &amp; 카드"/>
+                                <ComboBoxItem Content="현금 &amp; 쿠폰"/>
+                                <ComboBoxItem Content="쿠폰 &amp; 카드"/>
+                                <ComboBoxItem Content="쿠폰"/>
+                            </ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Button Width="171" Content="쿠폰종류" Foreground="White"/>
+                            <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="쿠폰종류" Width="171" Padding="10" x:Name="couponkind" Margin="10,0,0,0" SelectionChanged="couponkind_SelectionChanged">
+                                <ComboBoxItem Content="쿠폰사용 X"/>
+                                <ComboBoxItem Content="숫자"/>
+                                <ComboBoxItem Content="숫자 &amp; 문자"/>
+                            </ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Button Width="171" Content="카드단말기 번호" Foreground="White"/>
+                            <TextBox x:Name="cardserialtextbox" Width="171" Style="{StaticResource MaterialDesignTextBox}" TextAlignment="Center" VerticalContentAlignment="Center" FontSize="15" HorizontalContentAlignment="Center" mtD:HintAssist.Hint="카드단말기 번호" Margin="5,0,0,0" TextChanged="cardserialtextbox_TextChanged"/>
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="SalesStatement" VerticalAlignment="Top" Height="auto" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="CurrencyUsd" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">매출 목록 확인</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="SalesStatementBT" Width="172" Height="40" Content="매출 목록 확인 버튼" Margin="0,0,0,0" Background="DodgerBlue" Click="SalesStatementBT_Click">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="5"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                        <Button x:Name="search" Width="172" Height="40" Margin="2,5,5,5" Background="DodgerBlue" Content="카드매출취소" Click="search_Click">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="3"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Column="2" Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="143*"/>
+                <RowDefinition Height="927*"/>
+            </Grid.RowDefinitions>
+            <GroupBox x:Name="LiveVeiwGroupBox" Grid.RowSpan="2">
+                <GroupBox.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <mtD:PackIcon Kind="CameraIris" Foreground="White" Width="30" Height="30" Margin="0,0,5,0"/>
+                        <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">Live View</TextBlock>
+                    </StackPanel>
+                </GroupBox.Header>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <Button x:Name="StartLVButton" Background="DodgerBlue" VerticalAlignment="Bottom" Width="150" Height="40" Click="StartLVButton_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <mtD:PackIcon Kind="PlayCircle" VerticalAlignment="Center" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                                <TextBlock x:Name="tbStarLVButton" FontSize="20" Foreground="White" VerticalAlignment="Center">Start</TextBlock>
+                            </StackPanel>
+                        </Button>
+                        <Viewbox Height="40" Margin="5,0,0,0">
+                            <RadioButton x:Name="Canon" GroupName="CamSwitch" Height="40" Margin="5" VerticalAlignment="Center" Width="130" Checked="Canon_Checked">
+                                <TextBlock VerticalAlignment="Center" Margin="20,0,0,0" FontSize="20" FontFamily="Arial">Canon</TextBlock>
+                            </RadioButton>
+                        </Viewbox>
+                        <Viewbox Height="40" Margin="5,0,0,0">
+                            <RadioButton x:Name="WebCam" GroupName="CamSwitch" Height="40" Margin="5" VerticalAlignment="Center" Width="130" Checked="WebCam_Checked">
+                                <TextBlock VerticalAlignment="Center" Margin="15,0,0,0" FontSize="20" FontFamily="Arial">Web Cam</TextBlock>
+                            </RadioButton>
+                        </Viewbox>
+                        <Button x:Name="checkcam" Width="150" Height="auto" Foreground="White" Background="IndianRed" Content="상태확인" IsEnabled="False" Click="checkcam_Click"/>
+                    </StackPanel>
+                    <Canvas Grid.Row="1" x:Name="LVCanvus" Height="368" Width="552"/>
+                    <Canvas Grid.Row="1" x:Name="FlipCanvas" RenderTransformOrigin="0.5,0.5" RenderOptions.BitmapScalingMode="Fant" Height="368" Width="552">
+                        <Canvas.RenderTransform>
+                            <ScaleTransform ScaleX="-1"/>
+                        </Canvas.RenderTransform>
+                    </Canvas>
+                    <Image Grid.Row="1" x:Name="WebCamLiveView" IsEnabled="False" Visibility="Hidden"/>
+                    <Image x:Name="compose1" Opacity="0" IsEnabled="False" Width="43" Source="/Resources/compose1_1.png" Stretch="Fill" Margin="0,57,509,10" Grid.Row="1"/>
+                    <Image x:Name="compose2" Opacity="0" IsEnabled="False" Width="43" Source="/Resources/compose1_1.png" Stretch="Fill" Margin="509,57,0,10" Grid.Row="1"/>
+                    <StackPanel Grid.Row="2" Margin="5">
+                        <StackPanel>
+                            <GroupBox x:Name="TimerSettingGroupBox" VerticalAlignment="Top" Height="auto" Margin="0,5,0,0">
+                                <GroupBox.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <mtD:PackIcon Kind="Timer" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                                        <TextBlock x:Name="TimerSetting" Foreground="White" VerticalAlignment="Center" FontSize="20">Timer Setting</TextBlock>
+                                    </StackPanel>
+                                </GroupBox.Header>
+                                <StackPanel Orientation="Vertical">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="257"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Grid Grid.Column="0" Margin="0,0,5,0">
+                                            <StackPanel Margin="5">
+                                                <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="Photo Timer Setting" Padding="10" x:Name="PhotoTimeSetCoBox" Margin="0,0,0,10" SelectionChanged="PhotoTimeSet_SelectionChanged">
+                                                    <ComboBoxItem Content="5초"/>
+                                                    <ComboBoxItem Content="6초"/>
+                                                    <ComboBoxItem Content="7초"/>
+                                                    <ComboBoxItem Content="8초"/>
+                                                    <ComboBoxItem Content="9초"/>
+                                                    <ComboBoxItem Content="10초"/>
+                                                </ComboBox>
+                                                <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="Page Timer Setting" Padding="10" x:Name="PageTimeSetCoBox" SelectionChanged="PageTimeSet_SelectionChanged">
+                                                    <ComboBoxItem Content="60초(1분)"/>
+                                                    <ComboBoxItem Content="120초(2분)"/>
+                                                    <ComboBoxItem Content="150초(2분 30초)"/>
+                                                    <ComboBoxItem Content="180초(3분)"/>
+                                                </ComboBox>
+                                                <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="Kakao Page Timer Setting" Padding="10" x:Name="KakaoPageTimeSetCoBox" Margin="0,10,0,0" SelectionChanged="KakaoPageTimeSetCoBox_SelectionChanged">
+                                                    <ComboBoxItem Content="45초"/>
+                                                    <ComboBoxItem Content="60초"/>
+                                                    <ComboBoxItem Content="75초"/>
+                                                    <ComboBoxItem Content="90초"/>
+                                                </ComboBox>
+                                            </StackPanel>
+                                        </Grid>
+                                        <Grid Grid.Column="1" Margin="5,0,0,0">
+                                            <StackPanel Orientation="Vertical" Margin="0,18,0,0">
+                                                <Viewbox Height="48">
+                                                    <RadioButton x:Name="timeruse" GroupName="TimerOnOff" Height="43" VerticalAlignment="Top" FontFamily="Arial" FontSize="15" HorizontalAlignment="Left" Checked="timeruse_Checked">타이머 사용</RadioButton>
+                                                </Viewbox>
+                                                <Viewbox Height="48">
+                                                    <RadioButton x:Name="timernotuse" GroupName="TimerOnOff" Height="43" VerticalAlignment="Top" FontFamily="Arial" FontSize="15" HorizontalAlignment="Left" Checked="timernotuse_Checked">타이머 미사용</RadioButton>
+                                                </Viewbox>
+                                            </StackPanel>
+                                        </Grid>
+                                    </Grid>
+                                    <StackPanel Orientation="Horizontal" x:Name="timerlocationstackpanel">
+                                        <Button Width="168" Content="결제방법" Foreground="White" Margin="5,0,0,0"/>
+                                        <Viewbox>
+                                            <RadioButton x:Name="timerlocationleft" Width="168" GroupName="timerlocation" Margin="5,0,0,0" Content="타이머 위치 좌" HorizontalContentAlignment="Center" FontSize="15" Checked="timerlocationleft_Checked"/>
+                                        </Viewbox>
+                                        <Viewbox>
+                                            <RadioButton x:Name="timerlocationright" Width="168" GroupName="timerlocation" Margin="5,0,5,0" Content="타이머 위치 우" HorizontalContentAlignment="Center" FontSize="15" Checked="timerlocationright_Checked"/>
+                                        </Viewbox>
+                                    </StackPanel>
+                                </StackPanel>
+                            </GroupBox>
+                            <GroupBox x:Name="SettingFeeGroupBox" VerticalAlignment="Top" Height="auto" Margin="0,10,0,0">
+                                <GroupBox.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <mtD:PackIcon Kind="Cash" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                                        <TextBlock x:Name="SettingMoney" Foreground="White" VerticalAlignment="Center" FontSize="20">Setting Money</TextBlock>
+                                    </StackPanel>
+                                </GroupBox.Header>
+                                <StackPanel Margin="0" Orientation="Horizontal">
+                                    <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="1번 템플릿 가격 세팅" Width="171" Padding="10" x:Name="MoneySettingCoBox" Margin="0,0,0,5" SelectionChanged="MoneySettingCoBox_SelectionChanged">
+                                        <ComboBoxItem Content="0원"/>
+                                        <ComboBoxItem Content="1000원"/>
+                                        <ComboBoxItem Content="2000원"/>
+                                        <ComboBoxItem Content="3000원"/>
+                                        <ComboBoxItem Content="4000원"/>
+                                        <ComboBoxItem Content="5000원"/>
+                                        <ComboBoxItem Content="6000원"/>
+                                        <ComboBoxItem Content="7000원"/>
+                                        <ComboBoxItem Content="8000원"/>
+                                        <ComboBoxItem Content="9000원"/>
+                                        <ComboBoxItem Content="10000원"/>
+                                    </ComboBox>
+                                    <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="2번 템플릿 가격 세팅" Width="171" Padding="10" x:Name="temp2MoneySettingCoBox" Margin="5,0,0,5" SelectionChanged="temp2MoneySettingCoBox_SelectionChanged">
+                                        <ComboBoxItem Content="0원"/>
+                                        <ComboBoxItem Content="1000원"/>
+                                        <ComboBoxItem Content="2000원"/>
+                                        <ComboBoxItem Content="3000원"/>
+                                        <ComboBoxItem Content="4000원"/>
+                                        <ComboBoxItem Content="5000원"/>
+                                        <ComboBoxItem Content="6000원"/>
+                                        <ComboBoxItem Content="7000원"/>
+                                        <ComboBoxItem Content="8000원"/>
+                                        <ComboBoxItem Content="9000원"/>
+                                        <ComboBoxItem Content="10000원"/>
+                                    </ComboBox>
+                                    <ComboBox Style="{StaticResource MaterialDesignOutlinedComboBox}" mtD:HintAssist.Hint="3번 템플릿 가격 세팅" Width="171" Padding="10" x:Name="temp3MoneySettingCoBox" Margin="5,0,0,5" SelectionChanged="temp3MoneySettingCoBox_SelectionChanged">
+                                        <ComboBoxItem Content="0원"/>
+                                        <ComboBoxItem Content="1000원"/>
+                                        <ComboBoxItem Content="2000원"/>
+                                        <ComboBoxItem Content="3000원"/>
+                                        <ComboBoxItem Content="4000원"/>
+                                        <ComboBoxItem Content="5000원"/>
+                                        <ComboBoxItem Content="6000원"/>
+                                        <ComboBoxItem Content="7000원"/>
+                                        <ComboBoxItem Content="8000원"/>
+                                        <ComboBoxItem Content="9000원"/>
+                                        <ComboBoxItem Content="10000원"/>
+                                    </ComboBox>
+                                </StackPanel>
+                            </GroupBox>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+        </Grid>
+        <Grid Grid.Column="3" Margin="5">
+            <StackPanel>
+                <GroupBox x:Name="WebCamGB" VerticalAlignment="Top" IsEnabled="False" Height="auto">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ImageFrame" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">웹캠 세팅</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Margin="5">
+                        <Button x:Name="WebCamOption" Width="200" Height="auto" Background="DodgerBlue" Content="웹캠 세팅" Click="WebCamOption_Click"/>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="OffSet" VerticalAlignment="Top" Height="auto" Margin="0,5,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="Margin" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock x:Name="OffSetName" Foreground="White" VerticalAlignment="Center" FontSize="20">Off Set</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="265"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" Margin="5,5,5,0">
+                            <StackPanel>
+                                <Button x:Name="OffSetXBtn" Height="30" Margin="5,0,5,5">
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="5"/>
+                                        </Style>
+                                    </Button.Resources>
+                                    <TextBlock x:Name="OffSetXText" FontSize="20" Foreground="white" FontFamily="Arial" VerticalAlignment="Center" HorizontalAlignment="Center">OffSet X</TextBlock>
+                                </Button>
+                                <Button x:Name="OffSetYBtn" Height="30" Margin="5,10,5,5">
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="5"/>
+                                        </Style>
+                                    </Button.Resources>
+                                    <TextBlock x:Name="OffSetYText" FontSize="20" Foreground="white" FontFamily="Arial" VerticalAlignment="Center" HorizontalAlignment="Center">OffSet Y</TextBlock>
+                                </Button>
+                                <Button x:Name="FactorXBtn" Height="30" Margin="5,10,5,5">
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="5"/>
+                                        </Style>
+                                    </Button.Resources>
+                                    <TextBlock x:Name="FactorXText" FontSize="20" Foreground="white" FontFamily="Arial" VerticalAlignment="Center" HorizontalAlignment="Center">Factor X</TextBlock>
+                                </Button>
+                                <Button x:Name="FactorYBtn" Height="30" Margin="5,8,5,5">
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="5"/>
+                                        </Style>
+                                    </Button.Resources>
+                                    <TextBlock x:Name="FactorYText" FontSize="20" Foreground="white" FontFamily="Arial" VerticalAlignment="Center" HorizontalAlignment="Center">Factor Y</TextBlock>
+                                </Button>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1" Margin="5">
+                            <StackPanel>
+                                <ComboBox Style="{StaticResource MaterialDesignComboBox}" VerticalAlignment="Top" mtD:HintAssist.Hint="OffSet X 셋팅" Padding="10" x:Name="OffSetXCoBox" Margin="0,0,0,5" SelectionChanged="OffSetXCoBox_SelectionChanged">
+                                    <ComboBoxItem Content="-8"/>
+                                    <ComboBoxItem Content="-7"/>
+                                    <ComboBoxItem Content="-6"/>
+                                    <ComboBoxItem Content="-5"/>
+                                    <ComboBoxItem Content="-4"/>
+                                    <ComboBoxItem Content="-3"/>
+                                    <ComboBoxItem Content="-2"/>
+                                    <ComboBoxItem Content="-1"/>
+                                    <ComboBoxItem Content="0"/>
+                                    <ComboBoxItem Content="1"/>
+                                    <ComboBoxItem Content="2"/>
+                                    <ComboBoxItem Content="3"/>
+                                    <ComboBoxItem Content="4"/>
+                                    <ComboBoxItem Content="5"/>
+                                </ComboBox>
+                                <ComboBox Style="{StaticResource MaterialDesignComboBox}" VerticalAlignment="Top" mtD:HintAssist.Hint="OffSet Y 셋팅" Padding="10" x:Name="OffSetYCoBox" Margin="0,0,0,5" SelectionChanged="OffSetYCoBox_SelectionChanged">
+                                    <ComboBoxItem Content="-7"/>
+                                    <ComboBoxItem Content="-6"/>
+                                    <ComboBoxItem Content="-5"/>
+                                    <ComboBoxItem Content="-4"/>
+                                    <ComboBoxItem Content="-3"/>
+                                    <ComboBoxItem Content="-2"/>
+                                    <ComboBoxItem Content="-1"/>
+                                    <ComboBoxItem Content="0"/>
+                                    <ComboBoxItem Content="1"/>
+                                    <ComboBoxItem Content="2"/>
+                                    <ComboBoxItem Content="3"/>
+                                    <ComboBoxItem Content="4"/>
+                                    <ComboBoxItem Content="5"/>
+                                </ComboBox>
+                                <ComboBox Style="{StaticResource MaterialDesignComboBox}" VerticalAlignment="Top" mtD:HintAssist.Hint="Factor X 셋팅" Padding="10" x:Name="FactorXCoBox" Margin="0,0,0,5" SelectionChanged="FactorXCoBox_SelectionChanged">
+                                    <ComboBoxItem Content="-5"/>
+                                    <ComboBoxItem Content="-4"/>
+                                    <ComboBoxItem Content="-3"/>
+                                    <ComboBoxItem Content="-2"/>
+                                    <ComboBoxItem Content="-1"/>
+                                    <ComboBoxItem Content="0"/>
+                                    <ComboBoxItem Content="1"/>
+                                    <ComboBoxItem Content="2"/>
+                                    <ComboBoxItem Content="3"/>
+                                    <ComboBoxItem Content="4"/>
+                                    <ComboBoxItem Content="5"/>
+                                </ComboBox>
+                                <ComboBox Style="{StaticResource MaterialDesignComboBox}" VerticalAlignment="Top" mtD:HintAssist.Hint="Factor Y 셋팅" Padding="10" x:Name="FactorYCoBox" Margin="0,0,0,5" SelectionChanged="FactorYCoBox_SelectionChanged">
+                                    <ComboBoxItem Content="-5"/>
+                                    <ComboBoxItem Content="-4"/>
+                                    <ComboBoxItem Content="-3"/>
+                                    <ComboBoxItem Content="-2"/>
+                                    <ComboBoxItem Content="-1"/>
+                                    <ComboBoxItem Content="0"/>
+                                    <ComboBoxItem Content="1"/>
+                                    <ComboBoxItem Content="2"/>
+                                    <ComboBoxItem Content="3"/>
+                                    <ComboBoxItem Content="4"/>
+                                    <ComboBoxItem Content="5"/>
+                                </ComboBox>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+                <GroupBox x:Name="PreviewPrinter" VerticalAlignment="Top" Height="auto" Margin="0,5,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="PrinterEye" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">프린터 설정</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Margin="30,0,30,0">
+                        <mtD:Chip Margin="0,20,0,0" HorizontalAlignment="Center">
+                            <Label x:Name="printerLabel" FontSize="20" Content="No Connect"/>
+                        </mtD:Chip>
+                        <Button x:Name="PrintTestBtn" Height="50" FontSize="20" Content="프린트 테스트" Margin="0,20,0,0" Background="DodgerBlue" Click="PrintTestBtn_Click">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="5"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="StoreSetting" VerticalAlignment="Top" Height="auto" Margin="0,5,0,0" MouseLeftButtonDown="StoreSetting_MouseLeftButtonDown">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal" MouseLeftButtonDown="StackPanel_MouseLeftButtonDown">
+                            <mtD:PackIcon Kind="StoreCog" Margin="0,0,5,0" Foreground="White" Width="30" Height="30"/>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="20">Admin</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="150"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <StackPanel>
+                                <TextBlock Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20">업체명</TextBlock>
+                                <TextBox x:Name="StoreName" Width="500" Height="30" Margin="5,5,5,5" FontSize="15" TextAlignment="Center" IsEnabled="False" MaxLength="30" TextChanged="StoreName_TextChanged" />
+                                <TextBlock Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20">기기코드</TextBlock>
+                                <TextBox x:Name="MachineNum" Width="500" Height="30" Margin="5,5,5,5" FontSize="15" TextAlignment="Center" IsEnabled="False" MaxLength="5" TextChanged="MachineNum_TextChanged" />
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </GroupBox>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Bottom">
+                <Label x:Name="label1" Background="White" Foreground="#63AA00" FontSize="20" FontWeight="Bold" Width="498" Height="36"/>
+                <GroupBox x:Name="SaveExitGroupBox" Margin="0,10,0,0">
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <mtD:PackIcon Kind="ExitRun" Margin="0,0,5,0" Width="30" Height="30" Foreground="White"/>
+                            <TextBlock Foreground="White" FontSize="20">메인 메뉴 및 시스템 종료</TextBlock>
+                        </StackPanel>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <Button x:Name="button" Margin="5,0,0,0" Background="Green" Width="115" Height="40" Click="button_Click" Cursor="Hand">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Name="SaveButton" FontSize="20" Foreground="White" VerticalAlignment="Center" Text="저장"/>
+                            </StackPanel>
+                        </Button>
+                        <Button x:Name="ToMain" Margin="5,0,0,0" Background="DodgerBlue" Width="115" Height="40" Click="ToMain_Click" Cursor="Hand">
+                            <TextBlock Foreground="White" FontSize="20" Text="메인으로"/>
+                        </Button>
+                        <Button Margin="5,0,0,0" IsEnabled="False" x:Name="NextPageBtn" Width="115" Height="40" HorizontalContentAlignment="Center" HorizontalAlignment="Right" Background="DodgerBlue" Click="NextPageBtn_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Name="NextPageBtnTB" FontSize="20" Foreground="White" FontFamily="Arial" VerticalAlignment="Center">다음</TextBlock>
+                            </StackPanel>
+                        </Button>
+                        <Button x:Name="button1" Margin="5,0,0,0" Background="Red" Width="115" Height="40" Click="button1_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Name="ExitButton" FontSize="20" Foreground="White" VerticalAlignment="Center" Text="종료"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+            <ListBox x:Name="CamListBox" Width="292" Height="50" Margin="0,0,0,0" Visibility="Hidden"/>
+        </Grid>
+    </Grid>
+</Page>

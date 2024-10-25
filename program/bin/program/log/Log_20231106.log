@@ -1,0 +1,43 @@
+2023-11-06 09:45:42,173 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-06 09:45:42,834 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-06 09:45:43,147 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-06 09:45:43,148 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-06 09:45:43,172 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-06 09:45:43,200 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-06 09:45:43,200 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-06 09:45:43,960 [1] INFO wpfTest.Source.Log - lowlevel_serial'COM2' 포트가 없습니다.
+2023-11-06 09:45:44,018 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-06 09:45:44,072 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-06 09:45:44,091 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-06 09:45:44,611 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-06 09:45:44,621 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-11-06 09:45:44,621 [1] ERROR wpfTest.Source.Log - BillMachineOpenSession() - 'COM5' 포트가 없습니다.
+2023-11-06 09:45:46,063 [1] DEBUG wpfTest.Source.Log - Touchimg_MouseLeftButtonDown() | PageSelct 페이지로 가는 버튼 클릭
+2023-11-06 09:45:46,309 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-11-06 09:45:46,319 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-11-06 09:45:46,337 [1] INFO wpfTest.Source.Log - TempSelect Level 진입
+2023-11-06 09:45:46,341 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-11-06 09:45:47,419 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - 동작
+2023-11-06 09:45:47,425 [1] INFO wpfTest.Source.Log - 선택한 템플릿 : 1
+2023-11-06 09:45:47,468 [1] INFO wpfTest.Source.Log - PageSelect Level 진입
+2023-11-06 09:45:47,476 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect 세팅 로딩
+2023-11-06 09:45:47,555 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-11-06 09:45:47,555 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-06 09:45:48,224 [1] INFO wpfTest.Source.Log - CouponApply_MouseLeftButtonDown() - 동작
+2023-11-06 09:45:49,190 [1] INFO wpfTest.Source.Log - CouponTBFront_MouseLeftButtonDown() - 동작
+2023-11-06 09:45:49,197 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-11-06 09:45:49,210 [1] INFO wpfTest.Source.Log - Coupon Page 진입
+2023-11-06 09:45:49,246 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-11-06 09:45:50,873 [1] INFO wpfTest.Source.Log - closebtn_Click() - 동작
+2023-11-06 09:45:50,873 [1] INFO wpfTest.Source.Log - 타이머 종료됨
+2023-11-06 09:45:50,874 [1] INFO wpfTest.Source.Log - Dispose() - 동작
+2023-11-06 09:45:50,874 [1] INFO wpfTest.Source.Log - PageSelect Level 진입
+2023-11-06 09:45:50,881 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect 세팅 로딩
+2023-11-06 09:45:50,922 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-11-06 09:45:50,922 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-06 09:45:51,863 [1] DEBUG wpfTest.Source.Log - BackBtn_MouseLeftButtonDown() | 뒷 페이지 넘어가기 이미지 클릭
+2023-11-06 09:45:51,863 [1] INFO wpfTest.Source.Log - 타이머 멈춤
+2023-11-06 09:45:51,883 [1] INFO wpfTest.Source.Log - TempSelect Level 진입
+2023-11-06 09:45:51,886 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-11-06 09:45:53,420 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-11-06 09:45:53,420 [1] INFO wpfTest.Source.Log - 프로그램 종료

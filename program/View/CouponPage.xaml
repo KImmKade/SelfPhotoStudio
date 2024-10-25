@@ -1,0 +1,36 @@
+﻿<Page x:Class="wpfTest.View.CouponPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920" Background="White"
+      Title="CouponPage">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="backgroundimg"/>
+        <Image x:Name="Key_1" Width="98" Height="98" Margin="587,557,1235,425" MouseLeftButtonDown="Key_1_MouseLeftButtonDown"/>
+        <Image x:Name="Key_2" Width="98" Height="98" Margin="695,557,1127,425" MouseLeftButtonDown="Key_2_MouseLeftButtonDown"/>
+        <Image x:Name="Key_3" Width="98" Height="98" Margin="803,557,1019,425" MouseLeftButtonDown="Key_3_MouseLeftButtonDown"/>
+        <Image x:Name="Key_4" Width="98" Height="98" Margin="911,557,911,425" MouseLeftButtonDown="Key_4_MouseLeftButtonDown"/>
+        <Image x:Name="Key_5" Width="98" Height="98" Margin="1019,557,803,425" MouseLeftButtonDown="Key_5_MouseLeftButtonDown"/>
+        <Image x:Name="Key_6" Width="98" Height="98" Margin="587,666,1235,316" MouseLeftButtonDown="Key_6_MouseLeftButtonDown"/>
+        <Image x:Name="Key_7" Width="98" Height="98" Margin="695,666,1127,316" MouseLeftButtonDown="Key_7_MouseLeftButtonDown"/>
+        <Image x:Name="Key_8" Width="98" Height="98" Margin="803,666,1019,316" MouseLeftButtonDown="Key_8_MouseLeftButtonDown"/>
+        <Image x:Name="Key_9" Width="98" Height="98" Margin="911,666,911,316" MouseLeftButtonDown="Key_9_MouseLeftButtonDown"/>
+        <Image x:Name="Key_0" Width="98" Height="98" Margin="1019,666,803,316" MouseLeftButtonDown="Key_0_MouseLeftButtonDown"/>
+        <Image x:Name="keyA" Width="98" Height="98" Stretch="Fill" Margin="0,0,1920,1080" MouseLeftButtonDown="keyA_MouseLeftButtonDown"/>
+        <Image x:Name="keyB" Width="98" Height="98" Stretch="Fill" Margin="0,0,1920,1080" MouseLeftButtonDown="keyB_MouseLeftButtonDown"/>
+        <Image x:Name="keyC" Width="98" Height="98" Stretch="Fill" Margin="0,0,1920,1080" MouseLeftButtonDown="keyC_MouseLeftButtonDown"/>
+        <Image x:Name="keyD" Width="98" Height="98" Stretch="Fill" Margin="0,0,1920,1080" MouseLeftButtonDown="keyD_MouseLeftButtonDown"/>
+        <Image x:Name="keyE" Width="98" Height="98" Stretch="Fill" Margin="0,0,1920,1080" MouseLeftButtonDown="keyE_MouseLeftButtonDown"/>
+        <Image x:Name="keyF" Width="98" Height="98" Stretch="Fill" Margin="0,0,1920,1080" MouseLeftButtonDown="keyF_MouseLeftButtonDown"/>
+        <Image x:Name="Key_Del" Width="206" Height="98" Margin="1127,557,587,425" MouseLeftButtonDown="Key_Del_MouseLeftButtonDown"/>
+        <Image x:Name="NextImg" Width="213" Height="73" Margin="1630,928,78,80" MouseLeftButtonDown="NextImg_MouseLeftButtonDown"/>
+        <Image x:Name="BackBtn" Width="213" Height="73" Margin="78,928,1630,80" MouseLeftButtonDown="BackBtn_MouseLeftButtonDown"/>
+        <TextBlock x:Name="CouponNumber" Height="129" Margin="482,403,481,548" FontSize="80" TextAlignment="Center" FontWeight="Bold"/>
+        <TextBlock x:Name="remain" Height="49" Margin="482,505,481,526" Foreground="red" FontSize="40" TextAlignment="Center"/>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Center" FontSize="55" VerticalAlignment="Top" Width="200" Height="100" Margin="1720,130,0,0" FontFamily="Arial" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</Page>

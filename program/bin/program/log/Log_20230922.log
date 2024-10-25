@@ -1,0 +1,108 @@
+2023-09-22 17:22:06,374 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-09-22 17:22:07,034 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-09-22 17:22:07,342 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-09-22 17:22:07,343 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-09-22 17:22:07,354 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-22 17:22:07,355 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-22 17:22:07,355 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-09-22 17:22:08,247 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-09-22 17:22:08,310 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-09-22 17:22:08,330 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-22 17:22:09,504 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-09-22 17:22:09,512 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-09-22 17:22:09,514 [1] INFO wpfTest.Source.Log - 컴포트 : COM5으로 연결되었습니다.
+2023-09-22 17:22:09,514 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:10,016 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:14,128 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2023-09-22 17:22:14,539 [1] INFO wpfTest.Source.Log - Main Level 타이머 종료
+2023-09-22 17:22:14,800 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-09-22 17:22:14,810 [1] INFO wpfTest.Source.Log - 옵션 메뉴 이동
+2023-09-22 17:22:14,821 [1] INFO wpfTest.Source.Log - 옵션 페이지 진입
+2023-09-22 17:22:15,126 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 옵션페이지 셋팅값 로딩
+2023-09-22 17:22:15,205 [1] DEBUG wpfTest.Source.Log - LoadSetting() | 로드된 값 세팅
+2023-09-22 17:22:15,206 [1] DEBUG wpfTest.Source.Log - BUse_Checked() | 지폐기 사용 클릭
+2023-09-22 17:22:15,206 [1] DEBUG wpfTest.Source.Log - CheckSerial() | 지폐기 자동연결 작동
+2023-09-22 17:22:15,238 [1] INFO wpfTest.Source.Log - CardCheckSerial() - 동작 | 카드 리더기 자동연결
+2023-09-22 17:22:15,252 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | 캐논 카메라 체크
+2023-09-22 17:22:15,252 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | 타이머 사용 체크
+2023-09-22 17:22:15,252 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | 페이지 타이머 변경
+2023-09-22 17:22:15,268 [1] DEBUG wpfTest.Source.Log - MoneySettingCoBox_SelectionChanged() | 돈 셋팅 변경
+2023-09-22 17:22:15,282 [1] INFO wpfTest.Source.Log - PageSettingMoney_SelectionChanged() - 동작
+2023-09-22 17:22:15,282 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | 포토 타임 변경
+2023-09-22 17:22:15,296 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx 변경
+2023-09-22 17:22:15,310 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety 변경
+2023-09-22 17:22:15,324 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX 변경
+2023-09-22 17:22:15,337 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY 변경
+2023-09-22 17:22:15,338 [1] DEBUG wpfTest.Source.Log - TempSelectCB_SelectionChanged() | 템플릿 번호 변경
+2023-09-22 17:22:15,376 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | 좌우반전 사용안함
+2023-09-22 17:22:15,407 [1] INFO wpfTest.Source.Log - 세션 열림
+2023-09-22 17:22:16,229 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2023-09-22 17:22:16,281 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2023-09-22 17:22:16,337 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2023-09-22 17:22:17,982 [1] INFO wpfTest.Source.Log - BillMachineinitbtn_Click() - 동작
+2023-09-22 17:22:18,183 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:18,684 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:21,063 [1] INFO wpfTest.Source.Log - 지폐기 연결 성공
+2023-09-22 17:22:22,243 [1] DEBUG wpfTest.Source.Log - ToMain_Click() | 메인 버튼 클릭
+2023-09-22 17:22:22,744 [1] DEBUG wpfTest.Source.Log - CloseSession() | 세션 닫힘
+2023-09-22 17:22:22,997 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2023-09-22 17:22:22,998 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2023-09-22 17:22:22,998 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2023-09-22 17:22:27,271 [1] DEBUG wpfTest.Source.Log - button_Click() | 저장버튼 클릭
+2023-09-22 17:22:27,697 [1] DEBUG wpfTest.Source.Log - ToMain_Click() | 메인 버튼 클릭
+2023-09-22 17:22:27,722 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-09-22 17:22:27,769 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-09-22 17:22:27,769 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-22 17:22:28,774 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-09-22 17:22:28,789 [1] DEBUG wpfTest.Source.Log - BillMachineOpenSession() | 지폐기 자동연걸 시작
+2023-09-22 17:22:29,405 [1] DEBUG wpfTest.Source.Log - Touchimg_MouseLeftButtonDown() | PageSelct 페이지로 가는 버튼 클릭
+2023-09-22 17:22:29,631 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-09-22 17:22:29,652 [1] INFO wpfTest.Source.Log - 타이머 종료
+2023-09-22 17:22:29,693 [1] INFO wpfTest.Source.Log - TempSelect Level 진입
+2023-09-22 17:22:29,696 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-09-22 17:22:30,909 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - 동작
+2023-09-22 17:22:30,910 [1] INFO wpfTest.Source.Log - 선택한 템플릿 : 1
+2023-09-22 17:22:30,938 [1] INFO wpfTest.Source.Log - PageSelect Level 진입
+2023-09-22 17:22:30,944 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | PageSelect 세팅 로딩
+2023-09-22 17:22:31,038 [1] DEBUG wpfTest.Source.Log - pagetextshow() | 페이지 장수 확인
+2023-09-22 17:22:31,038 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-22 17:22:31,955 [1] DEBUG wpfTest.Source.Log - NextBtn_MouseLeftButtonDown() | 다음 버튼 클릭
+2023-09-22 17:22:31,955 [1] INFO wpfTest.Source.Log - 선택한 장 수 : 2
+2023-09-22 17:22:31,964 [1] INFO wpfTest.Source.Log - 선택된 결제 금액 : 15
+2023-09-22 17:22:31,972 [1] INFO wpfTest.Source.Log - ChoicePayment 페이지 진입
+2023-09-22 17:22:31,976 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작
+2023-09-22 17:22:32,034 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-22 17:22:32,723 [1] INFO wpfTest.Source.Log - cashimg_MouseLeftButtonDown() - 동작
+2023-09-22 17:22:33,268 [1] INFO wpfTest.Source.Log - NextImg_MouseLeftButtonDown() - 동작
+2023-09-22 17:22:33,278 [1] INFO wpfTest.Source.Log - 타이머 종료됨
+2023-09-22 17:22:33,278 [1] INFO wpfTest.Source.Log - Payment(결제페이지) Level 진입
+2023-09-22 17:22:33,281 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 결제페이지 셋팅 로드
+2023-09-22 17:22:33,294 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-22 17:22:33,294 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:36,756 [24] DEBUG wpfTest.Source.Log - Recieve_Send_Data() | 시리얼 통신 값 받아오기
+2023-09-22 17:22:36,756 [24] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:37,236 [14] DEBUG wpfTest.Source.Log - Recieve_Send_Data() | 시리얼 통신 값 받아오기
+2023-09-22 17:22:37,236 [14] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:43,672 [14] DEBUG wpfTest.Source.Log - Recieve_Send_Data() | 시리얼 통신 값 받아오기
+2023-09-22 17:22:43,672 [14] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:43,672 [1] INFO wpfTest.Source.Log - $10 받음
+2023-09-22 17:22:43,672 [14] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:44,371 [20] DEBUG wpfTest.Source.Log - Recieve_Send_Data() | 시리얼 통신 값 받아오기
+2023-09-22 17:22:44,372 [20] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:48,916 [18] DEBUG wpfTest.Source.Log - Recieve_Send_Data() | 시리얼 통신 값 받아오기
+2023-09-22 17:22:48,916 [18] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:48,916 [1] INFO wpfTest.Source.Log - $5 받음
+2023-09-22 17:22:48,916 [18] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:49,292 [1] INFO wpfTest.Source.Log - 타이머 정지
+2023-09-22 17:22:49,292 [1] DEBUG wpfTest.Source.Log - DataSend() | 동작
+2023-09-22 17:22:49,292 [1] INFO wpfTest.Source.Log - DataSend(0x5E)
+2023-09-22 17:22:49,302 [1] INFO wpfTest.Source.Log - 지폐기 포트 해제
+2023-09-22 17:22:49,509 [1] INFO wpfTest.Source.Log - 타이머 정지
+2023-09-22 17:22:49,509 [1] INFO wpfTest.Source.Log - Dispose() - 동작
+2023-09-22 17:22:49,533 [1] INFO wpfTest.Source.Log - 매출 데이터 값 : SALE_DT=2023-09-22&MACHINE_CD=S0037&PRINT_CNT=1&PAYMENT_WAY=4&CASH_AMT=15&CARD_AMT=0
+2023-09-22 17:22:49,607 [1] INFO wpfTest.Source.Log - [{"result":"6","resultMsg":"?? ??? ??? ?? ??? ???? ????."}]
+2023-09-22 17:22:49,638 [1] INFO wpfTest.Source.Log - PaymentComplete 페이지 진입
+2023-09-22 17:22:49,640 [1] INFO wpfTest.Source.Log - Grid_Loaded() - 동작 | PaymentComplete
+2023-09-22 17:22:49,656 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-09-22 17:22:52,102 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2023-09-22 17:22:52,102 [1] INFO wpfTest.Source.Log - 프로그램 종료

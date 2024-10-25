@@ -1,0 +1,38 @@
+2023-11-16 09:49:45,953 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2023-11-16 09:49:46,151 [6] INFO wpfTest.Source.Log - FTP 접속 성공
+2023-11-16 09:49:48,133 [1] INFO wpfTest.Source.Log - Main Level 진입
+2023-11-16 09:49:48,416 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2023-11-16 09:49:48,417 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2023-11-16 09:49:48,428 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2023-11-16 09:49:49,023 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2023-11-16 09:49:49,029 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2023-11-16 09:49:49,029 [1] INFO wpfTest.Source.Log - 타이머 시작
+2023-11-16 09:49:49,606 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2023-11-16 09:49:50,568 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F12 입력(설정창 진입 키)
+2023-11-16 09:49:51,206 [1] INFO wpfTest.Source.Log - Main Level 타이머 종료
+2023-11-16 09:49:51,443 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2023-11-16 09:49:51,457 [1] INFO wpfTest.Source.Log - 옵션 메뉴 이동
+2023-11-16 09:49:51,471 [1] INFO wpfTest.Source.Log - 옵션 페이지 진입
+2023-11-16 09:49:51,866 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | 옵션페이지 셋팅값 로딩
+2023-11-16 09:49:51,950 [1] DEBUG wpfTest.Source.Log - LoadSetting() | 로드된 값 세팅
+2023-11-16 09:49:51,950 [1] INFO wpfTest.Source.Log - free_Checked() - 동작
+2023-11-16 09:49:51,951 [1] DEBUG wpfTest.Source.Log - BNotUse_Checked() | 지폐기 사용안함 클릭
+2023-11-16 09:49:51,983 [1] DEBUG wpfTest.Source.Log - NoTakebtn_Checked() | 재촬영 금지 버튼 체크
+2023-11-16 09:49:51,983 [1] DEBUG wpfTest.Source.Log - Canon_Checked() | 캐논 카메라 체크
+2023-11-16 09:49:51,983 [1] DEBUG wpfTest.Source.Log - timeruse_Checked () | 타이머 사용 체크
+2023-11-16 09:49:51,984 [1] DEBUG wpfTest.Source.Log - PageTimeSet_SelectionChanged() + | 페이지 타이머 변경
+2023-11-16 09:49:52,001 [1] DEBUG wpfTest.Source.Log - PhotoTimeSet_SelectionChanged() | 포토 타임 변경
+2023-11-16 09:49:52,017 [1] DEBUG wpfTest.Source.Log - OffSetXCoBox_SelectionChanged() | offsetx 변경
+2023-11-16 09:49:52,034 [1] DEBUG wpfTest.Source.Log - OffSetYCoBox_SelectionChanged() | offsety 변경
+2023-11-16 09:49:52,049 [1] DEBUG wpfTest.Source.Log - FactorXCoBox_SelectionChanged() | factorX 변경
+2023-11-16 09:49:52,065 [1] DEBUG wpfTest.Source.Log - FactorYCoBox_SelectionChanged() | FactorY 변경
+2023-11-16 09:49:52,065 [1] DEBUG wpfTest.Source.Log - TempSelectCB_SelectionChanged() | 템플릿 번호 변경
+2023-11-16 09:49:52,083 [1] DEBUG wpfTest.Source.Log - FlipNotUse_Checked () | 좌우반전 사용안함
+2023-11-16 09:49:52,098 [1] INFO wpfTest.Source.Log - 세션 열림
+2023-11-16 09:49:52,392 [1] DEBUG wpfTest.Source.Log - AVCoBox_SelectionChanged_1() | AV박스 아이템 변경
+2023-11-16 09:49:52,419 [1] DEBUG wpfTest.Source.Log - TvCoBox_SelectionChanged_1() | TV 값 변경
+2023-11-16 09:49:52,447 [1] DEBUG wpfTest.Source.Log - ISOCoBox_SelectionChanged_1() | ISO값 변경
+2023-11-16 09:49:53,217 [1] DEBUG wpfTest.Source.Log - PrintTestBtn_Click() | 프린트 버튼 클릭
+2023-11-16 09:49:53,255 [1] DEBUG wpfTest.Source.Log - PrintBitmap() | 비트맵 인쇄
+2023-11-16 09:49:53,255 [1] DEBUG wpfTest.Source.Log - Print Copy : 1
+2023-11-16 10:00:00,430 [3] INFO wpfTest.Source.Log - 정각 업로드 시작

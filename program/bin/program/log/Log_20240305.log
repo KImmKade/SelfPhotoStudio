@@ -1,0 +1,29 @@
+2024-03-05 16:49:44,800 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-03-05 16:49:44,973 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-03-05 16:49:45,739 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-03-05 16:49:45,747 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-03-05 16:49:45,749 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-03-05 16:49:46,470 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-03-05 16:49:46,529 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-03-05 16:49:46,530 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-03-05 16:49:47,124 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2024-03-05 16:49:48,951 [1] DEBUG wpfTest.Source.Log - Mainimg_MouseLeftButtonDown() | 버튼 클릭
+2024-03-05 16:49:49,201 [1] INFO wpfTest.Source.Log - Canon 카메라 세션 닫힘
+2024-03-05 16:49:49,214 [1] INFO wpfTest.Source.Log - 타이머 종료
+2024-03-05 16:49:49,225 [1] INFO wpfTest.Source.Log - 캐논 촬영 페이지 진입
+2024-03-05 16:49:49,714 [1] DEBUG wpfTest.Source.Log - Delay() | 딜레이 시작 딜레이 시간(단위 : ms) : 2000
+2024-03-05 16:49:50,365 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-03-05 16:49:50,698 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2024-03-05 16:49:50,698 [1] INFO wpfTest.Source.Log - 프로그램 종료
+2024-03-05 16:51:30,931 [1] INFO wpfTest.Source.Log - ==========  Started application  ==========
+2024-03-05 16:51:31,115 [1] INFO wpfTest.Source.Log - Main Level 진입
+2024-03-05 16:51:31,452 [1] DEBUG wpfTest.Source.Log - Window_Loaded() Start : 설정 값 로드 중
+2024-03-05 16:51:31,462 [1] INFO wpfTest.Source.Log - 이전 파일 삭제
+2024-03-05 16:51:31,463 [1] INFO wpfTest.Source.Log - 파일삭제 완료
+2024-03-05 16:51:32,790 [1] DEBUG wpfTest.Source.Log - Window_Loaded() 로드 완료
+2024-03-05 16:51:32,792 [1] DEBUG wpfTest.Source.Log - Grid_Loaded() | Main Level 설정 값 로드(자동연결)
+2024-03-05 16:51:32,792 [1] INFO wpfTest.Source.Log - 타이머 시작
+2024-03-05 16:51:33,249 [1] INFO wpfTest.Source.Log - Canon 카메라 연결 완료
+2024-03-05 16:51:38,079 [1] DEBUG wpfTest.Source.Log - Window_KeyDown() | F4 입력(프로그램 종료 키)
+2024-03-05 16:51:38,318 [1] INFO wpfTest.Source.Log - 캐논 카메라 종료
+2024-03-05 16:51:38,319 [1] INFO wpfTest.Source.Log - 프로그램 종료

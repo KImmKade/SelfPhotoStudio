@@ -1,0 +1,48 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfTest.View"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="wpfTest.View.TakePic"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="TakePic" Background="White">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="backimg"/>
+        <Canvas x:Name="liveviewcanvus" IsEnabled="False">
+            <Image x:Name="frontimg" Width="1080" Height="720" Source="/Resources/compose1_1.png" Canvas.Left="420" Canvas.Top="180" Stretch="Fill"/>
+            <Canvas x:Name="LiveView" Width="1080" Height="720" RenderOptions.BitmapScalingMode="Fant" Canvas.Left="420" Canvas.Top="180" HorizontalAlignment="Center"/>
+            <Canvas x:Name="FlipLiveView" Width="1080" Height="720" RenderTransformOrigin="0.5,0.5" RenderOptions.BitmapScalingMode="Fant" HorizontalAlignment="Center" Canvas.Left="420" Canvas.Top="180">
+                <Canvas.RenderTransform>
+                    <ScaleTransform ScaleX="-1"/>
+                </Canvas.RenderTransform>
+            </Canvas>
+            <Image x:Name="frontlvimg" Width="1080" Height="720" Canvas.Left="420" Canvas.Top="180" Stretch="Fill"/>
+            <Image x:Name="compose1" Opacity="0" IsEnabled="False" Width="180" Height="720" Source="/Resources/compose1_1.png" Canvas.Left="420" Canvas.Top="180" Stretch="Fill"/>
+            <Image x:Name="compose2" Opacity="0" IsEnabled="False" Width="180" Height="720" Source="/Resources/compose1_1.png" Canvas.Left="1320" Canvas.Top="180" Stretch="Fill"/>
+            <Image x:Name="TakePicfrontimg" Opacity="0" IsEnabled="False" Margin="0,0,1920,1080"/>
+            <Image x:Name="timerIMG" Opacity="0" IsEnabled="False" Width="200" Height="200" Margin="702,455,1018,425"/>
+        </Canvas>
+        <Image x:Name="FirstPic" Width="247" Height="165" Margin="1525,180,140,735" Stretch="Fill"/>
+        <Image x:Name="FirstPicFront" Width="247" Height="165" Margin="1525,180,140,735" Stretch="Fill"/>
+        <Image x:Name="SecondPic" Width="247" Height="165" Margin="1525,365,140,550" Stretch="Fill"/>
+        <Image x:Name="SecondPicFront" Width="247" Height="165" Margin="1525,365,140,550" Stretch="Fill"/>
+        <Image x:Name="ThirdPic" Width="247" Height="165" Margin="1525,550,140,365" Stretch="Fill"/>
+        <Image x:Name="ThirdPicFront" Width="247" Height="165" Margin="1525,550,140,365" Stretch="Fill"/>
+        <Image x:Name="FourthPic" Width="247" Height="165" Margin="1525,735,140,180" Stretch="Fill"/>
+        <Image x:Name="FourthPicFront" Width="247" Height="165" Margin="1525,735,140,180" Stretch="Fill"/>
+        <Image x:Name="FifthPic" Width="165" Height="110" Margin="1520,668,235,302" Stretch="Fill"/>
+        <Image x:Name="FifthPicFront" Width="165" Height="110" Margin="1520,668,235,302" Stretch="Fill"/>
+        <Image x:Name="SixthPic" Width="165" Height="110" Margin="1520,790,235,180" Stretch="Fill"/>
+        <Image x:Name="SixthPicFront" Width="165" Height="110" Margin="1520,790,235,180" Stretch="Fill"/>
+        <Image x:Name="SeventhPic" Width="165" Height="110" Margin="1520,790,235,180" Stretch="Fill"/>
+        <Image x:Name="SeventhPicFront" Width="165" Height="110" Margin="1520,790,235,180" Stretch="Fill"/>
+        <Image x:Name="EighthPic" Width="165" Height="110" Margin="1520,790,235,180" Stretch="Fill"/>
+        <Image x:Name="EighthPicFront" Width="165" Height="110" Margin="1520,790,235,180" Stretch="Fill"/>
+        <TextBlock x:Name="tblState" Margin="420,54,420,0" FontSize="50" VerticalAlignment="Top" Width="1080" Height="100" TextAlignment="Center"/>
+
+        <Image x:Name="mediagramtimer"/>
+    </Grid>
+</Page>
